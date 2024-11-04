@@ -3,6 +3,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Documentação Adicional
+Para mais informações sobre minhas qualificações e certificações, acesse os arquivos disponíveis na pasta <code>_DOCUMENTOS</code>. Nela, você encontrará: certificados relevantes, meu currículo atualizado e meu perfil no LinkedIn.
+
+<hr>
+
 Este repositório contém uma série de projetos desenvolvidos durante a Imersão Alura, realizada em setembro de 2022. Cada projeto explora diferentes conceitos de HTML5, CSS3 e JavaScript aplicados em atividades práticas, desde o uso de variáveis até a criação de interações dinâmicas com o usuário. O portfólio reflete o progresso no aprendizado dessas tecnologias e demonstra como elas podem ser usadas para criar aplicações web interativas e funcionais.
 
 Este portfólio foi criado para documentar o aprendizado e os experimentos realizados com HTML, CSS e JavaScript. Cada projeto foi desenvolvido com um propósito educativo, refletindo o progresso nas habilidades de desenvolvimento web e na compreensão dos fundamentos de programação.
