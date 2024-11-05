@@ -15,7 +15,7 @@ Este portfólio foi criado para documentar o aprendizado e os experimentos reali
 ## Projetos
 
 ### 1. Jogo do Número Secreto
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/Calculadora%20de%20m%C3%A9dia)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/N%C3%BAmero%20secreto)
 
 Este é um jogo de adivinhação em JavaScript no qual o usuário tenta acertar um número secreto gerado aleatoriamente dentro de um intervalo específico. O jogo oferece dicas, ajudando o jogador a se aproximar do número correto. Este projeto é uma versão aprimorada do "Mentalista", um exercício criado durante uma imersão da Alura, com melhorias na lógica e na interatividade para tornar o jogo mais envolvente.
 
