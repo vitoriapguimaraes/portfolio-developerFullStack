@@ -12,9 +12,7 @@ Este repositório contém uma série de projetos que exploram diferentes conceit
 
 Este portfólio foi criado para documentar o aprendizado e os experimentos realizados com HTML, CSS e JavaScript. Cada projeto foi desenvolvido com um propósito educativo, refletindo o progresso nas habilidades de desenvolvimento web e na compreensão dos fundamentos de programação.
 
-## Projetos
-
-### 1. Jogo do Número Secreto
+## 1. Jogo do Número Secreto
 [![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/N%C3%BAmero%20secreto)
 
 Este é um jogo de adivinhação em JavaScript no qual o usuário tenta acertar um número secreto gerado aleatoriamente dentro de um intervalo específico. O jogo oferece dicas, ajudando o jogador a se aproximar do número correto. Este projeto é uma versão aprimorada do "Mentalista", um exercício criado durante uma imersão da Alura, com melhorias na lógica e na interatividade para tornar o jogo mais envolvente.
@@ -25,7 +23,7 @@ Este é um jogo de adivinhação em JavaScript no qual o usuário tenta acertar 
   - Orientação ao usuário, indicando se o número secreto é maior ou menor que o chute.
   - Contagem de tentativas e exibição do número total de tentativas ao final.
 
-### 2. Calculadora de Média
+## 2. Calculadora de Média
 [![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/Calculadora%20de%20m%C3%A9dia)
 
 Neste projeto, foi criada uma calculadora de média para calcular o desempenho do usuário com base nas notas de cada bimestre. Os principais objetivos foram explorar o conceito de variáveis e realizar operações aritméticas em JavaScript.
@@ -34,7 +32,7 @@ Neste projeto, foi criada uma calculadora de média para calcular o desempenho d
   - Captura do nome do usuário e notas de cada bimestre.
   - Cálculo e exibição da média final arredondada.
 
-### 3. Conversor de Moeda
+## 3. Conversor de Moeda
 [![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/Conversor%20de%20moeda)
 
 O Conversor de Moeda foi desenvolvido para converter valores entre diferentes moedas, permitindo que o usuário insira a taxa de conversão e o valor desejado. Este projeto enfatizou a manipulação de valores e a criação de interfaces dinâmicas com JavaScript.
@@ -44,7 +42,7 @@ O Conversor de Moeda foi desenvolvido para converter valores entre diferentes mo
   - Entrada da taxa de conversão e valor a ser convertido.
   - Exibição do valor convertido com base nos dados inseridos pelo usuário.
 
-### 4. Jogo de Adivinhação (Mentalista)
+## 4. Jogo de Adivinhação (Mentalista)
 [![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/Mentalista)
 
 O jogo Mentalista é uma aplicação interativa onde o programa escolhe um número aleatório, e o usuário tenta adivinhar o número correto. Este projeto introduziu conceitos de lógica condicional e manipulação de eventos em JavaScript.
