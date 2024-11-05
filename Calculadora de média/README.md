@@ -1,5 +1,4 @@
 # Calculadora de média
-
 A Calculadora de Média permite que o usuário registre suas notas de cada bimestre e descubra sua média final, introduzindo conceitos básicos como variáveis e operações aritméticas.
 
 ## Ferramentas Utilizadas
