@@ -8,7 +8,7 @@ Para mais informações sobre minhas qualificações e certificações, acesse o
 
 <hr>
 
-Este repositório contém uma série de projetos desenvolvidos durante a Imersão Alura, realizada em setembro de 2022. Cada projeto explora diferentes conceitos de HTML5, CSS3 e JavaScript aplicados em atividades práticas, desde o uso de variáveis até a criação de interações dinâmicas com o usuário. O portfólio reflete o progresso no aprendizado dessas tecnologias e demonstra como elas podem ser usadas para criar aplicações web interativas e funcionais.
+Este repositório contém uma série de projetos que exploram diferentes conceitos de HTML5, CSS3 e JavaScript aplicados em atividades práticas, desde o uso de variáveis até a criação de interações dinâmicas com o usuário. O portfólio reflete o progresso no aprendizado dessas tecnologias e demonstra como elas podem ser usadas para criar aplicações web interativas e funcionais.
 
 Este portfólio foi criado para documentar o aprendizado e os experimentos realizados com HTML, CSS e JavaScript. Cada projeto foi desenvolvido com um propósito educativo, refletindo o progresso nas habilidades de desenvolvimento web e na compreensão dos fundamentos de programação.
 
