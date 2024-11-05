@@ -1,6 +1,6 @@
 # Mentalista - Jogo de Adivinhação
 
-Este projeto foi desenvolvido durante a Imersão Alura em setembro de 2022, como parte da Aula 3. No jogo Mentalista, o programa gera um número aleatório de 0 a 10, e o objetivo é adivinhar esse número em algumas tentativas.
+No jogo Mentalista, o programa gera um número aleatório de 0 a 10, e o objetivo é adivinhar esse número em algumas tentativas.
 
 Ferramentas Utilizadas
 
