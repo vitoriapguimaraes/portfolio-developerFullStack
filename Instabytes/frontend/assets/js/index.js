@@ -14,7 +14,7 @@ async function displayImages() {
     try {
         const postsList = data.map(item => {
           return `
-            <article data-description="${item.descricao}">
+            <article data-description="${item.description}">
               <figure>
                 <img src="${item.imgUrl}" alt="${item.alt}" />
               </figure>
