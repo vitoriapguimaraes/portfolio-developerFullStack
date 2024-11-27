@@ -1,60 +1,71 @@
-import {getTodosPosts, criarPost, atualizarPost} from "../models/postsModel.js";
-import fs from "fs";
-import gerarDescricaoComGemini from "../services/geminiService.js"
+import { getAllPosts, createPost, updatePost } from "../models/postsModel.js";
+import fs from "fs/promises";
+import generateDescriptionWithGemini from "../services/geminiService.js";
 
-export async function listarPosts(req, res) {
-    // Chama a função para buscar os posts
-    const posts = await getTodosPosts();
-    // Envia uma resposta HTTP com status 200 (OK) e os posts no formato JSON
+export async function listPosts(req, res) {
+  try {
+    const posts = await getAllPosts();
     res.status(200).json(posts);
+  } catch (error) {
+    console.error("Error fetching posts:", error.message);
+    res.status(500).json({ error: "Failed to fetch posts." });
+  }
 }
 
-export async function postarNovoPost(req, res) {
-    const novoPost = req.body;
-    try {
-        const postCriado = await criarPost(novoPost);
-        res.status(200).json(postCriado);  
-    } catch(erro) {
-        console.error(erro.message);
-        res.status(500).json({"Erro":"Falha na requisição"})
-    }
+export async function createNewPost(req, res) {
+  const newPost = req.body;
+
+  if (!newPost || Object.keys(newPost).length === 0) {
+    return res.status(400).json({ error: "Post data is missing or invalid." });
+  }
+
+  try {
+    const createdPost = await createPost(newPost);
+    res.status(201).json(createdPost);
+  } catch (error) {
+    console.error("Error creating a new post:", error.message);
+    res.status(500).json({ error: "Failed to create a new post." });
+  }
 }
 
-export async function uploadImagem(req, res) {
-    const novoPost = {
-        descricao: "",
-        imgUrl: req.file.originalname,
-        alt: ""
+export async function uploadImage(req, res) {
+  const newPost = {
+    description: "",
+    imgUrl: req.file?.originalname || "",
+    alt: "",
+  };
+
+  try {
+    const createdPost = await createPost(newPost);
+    const updatedImagePath = `uploads/${createdPost.insertedId}.png`;
+
+    await fs.rename(req.file.path, updatedImagePath);
+
+    res.status(200).json(createdPost);
+  } catch (error) {
+    console.error("Error uploading the image:", error.message);
+    res.status(500).json({ error: "Failed to upload the image." });
+  }
+}
+
+export async function updatePostDescription(req, res) {
+  const id = req.params.id;
+  const imageUrl = `http://localhost:3000/${id}.png`;
+
+  try {
+    const imageBuffer = await fs.readFile(`uploads/${id}.png`);
+    const description = await generateDescriptionWithGemini(imageBuffer);
+
+    const updatedPost = {
+      imgUrl: imageUrl,
+      description: description,
+      alt: req.body.alt,
     };
 
-    try {
-        const postCriado = await criarPost(novoPost);
-        const imagemAtualizada = `uploads/${postCriado.insertedId}.png`
-        fs.renameSync(req.file.path, imagemAtualizada)
-        res.status(200).json(postCriado);  
-    } catch(erro) {
-        console.error(erro.message);
-        res.status(500).json({"Erro":"Falha na requisição"})
-    }
-}
-
-export async function atualizarNovoPost(req, res) {
-    const id = req.params.id;
-    const urlImagem = `http://localhost:3000/${id}.png`
-    try {
-        const imgBuffer = fs.readFileSync(`uploads/${id}.png`)
-        const descricao = await gerarDescricaoComGemini(imgBuffer)
-
-        const post = {
-            imgUrl: urlImagem,
-            descricao: descricao,
-            alt: req.body.alt
-        }
-
-        const postCriado = await atualizarPost(id, post);
-        res.status(200).json(postCriado);  
-    } catch(erro) {
-        console.error(erro.message);
-        res.status(500).json({"Erro":"Falha na requisição"});
-    }
+    const result = await updatePost(id, updatedPost);
+    res.status(200).json(result);
+  } catch (error) {
+    console.error("Error updating the post:", error.message);
+    res.status(500).json({ error: "Failed to update the post." });
+  }
 }

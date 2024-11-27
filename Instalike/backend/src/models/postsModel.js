@@ -1,28 +1,40 @@
-import 'dotenv/config';
+import "dotenv/config";
 import { ObjectId } from "mongodb";
-import conectarAoBanco from "../config/dbConfig.js"
-// Conecta ao banco de dados utilizando a string de conexão fornecida como variável de ambiente
-const conexao = await conectarAoBanco(process.env.STRING_CONEXAO);
+import connectToDatabase from "../config/dbConfig.js";
 
-// Função assíncrona para buscar todos os posts do banco de dados
-export async function getTodosPosts() {
-    // Seleciona o banco de dados "imersao-instabytes"
-    const db = conexao.db("imersao-instabytes");
-    // Seleciona a coleção "posts" dentro do banco de dados
-    const colecao = db.collection("posts");
-    // Retorna um array com todos os documentos da coleção
-    return colecao.find().toArray();
+let connection;
+try {
+  connection = await connectToDatabase(process.env.CONNECTION_STRING);
+} catch (error) {
+  console.error("Failed to connect to the database:", error.message);
+  process.exit(1);
 }
 
-export async function criarPost(novoPost) {
-    const db = conexao.db("imersao-instabytes");
-    const colecao = db.collection("posts");
-    return colecao.insertOne(novoPost);
+const DATABASE_NAME = "imersao-instabytes";
+const COLLECTION_NAME = "posts";
+
+export async function getAllPosts() {
+  const db = connection.db(DATABASE_NAME);
+  const collection = db.collection(COLLECTION_NAME);
+  return collection.find().toArray();
 }
 
-export async function atualizarPost(id, novoPost) {
-    const db = conexao.db("imersao-instabytes");
-    const colecao = db.collection("posts");
-    const objID = ObjectId.createFromHexString(id);
-    return colecao.updateOne({_id: new ObjectId(objID)}, {$set:novoPost});
+export async function createPost(newPost) {
+  const db = connection.db(DATABASE_NAME);
+  const collection = db.collection(COLLECTION_NAME);
+  return collection.insertOne(newPost);
+}
+
+export async function updatePost(id, updatedPost) {
+  const db = connection.db(DATABASE_NAME);
+  const collection = db.collection(COLLECTION_NAME);
+  try {
+    return collection.updateOne(
+      { _id: new ObjectId(id) },
+      { $set: updatedPost }
+    );
+  } catch (error) {
+    console.error(`Failed to update post with ID ${id}:`, error.message);
+    throw error;
+  }
 }

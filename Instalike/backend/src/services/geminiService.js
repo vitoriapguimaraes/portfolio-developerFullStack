@@ -1,23 +1,31 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+const generativeAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 
-export default async function gerarDescricaoComGemini(imageBuffer) {
-  const prompt =
-    "Gere uma descrição em português do brasil para a seguinte imagem";
+const model = generativeAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+
+export default async function generateDescriptionWithGemini(imageBuffer) {
+  const prompt = "Generate a description in Brazilian Portuguese for the following image";
+  const mimeType = "image/png";
 
   try {
     const image = {
       inlineData: {
         data: imageBuffer.toString("base64"),
-        mimeType: "image/png",
+        mimeType: mimeType,
       },
     };
-    const res = await model.generateContent([prompt, image]);
-    return res.response.text() || "Alt-text não disponível.";
-  } catch (erro) {
-    console.error("Erro ao obter alt-text:", erro.message, erro);
-    throw new Error("Erro ao obter o alt-text do Gemini.");
+
+    const response = await model.generateContent([prompt, image]);
+
+    if (response?.response?.text) {
+      return response.response.text;
+    } else {
+      console.warn("Description not available. Returning fallback text.");
+      return "Alt-text not available.";
+    }
+  } catch (error) {
+    console.error("Error generating alt-text:", error.message, error);
+    throw new Error("Failed to generate alt-text using Gemini.");
   }
 }
