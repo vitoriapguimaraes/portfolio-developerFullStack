@@ -16,7 +16,6 @@ Este portfólio foi criado para documentar o aprendizado e os experimentos reali
 ## 1. Gerenciamento de Posts com Upload de Imagens
 [![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/Instalike)
 
-Breve Descrição
 Aplicação backend para gerenciar posts com suporte a upload de imagens e geração automática de descrições, utilizando IA e banco de dados MongoDB.
 
 - Tecnologias: Node.js, Express, MongoDB, Multer, Gemini Service
