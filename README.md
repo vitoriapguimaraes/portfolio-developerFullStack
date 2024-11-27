@@ -14,7 +14,11 @@ Este repositório contém uma série de projetos que exploram diferentes conceit
 Este portfólio foi criado para documentar o aprendizado e os experimentos realizados com HTML, CSS e JavaScript. Cada projeto foi desenvolvido com um propósito educativo, refletindo o progresso nas habilidades de desenvolvimento web e na compreensão dos fundamentos de programação.
 
 ## 1. Gerenciamento de Posts com Upload de Imagens
+<<<<<<< HEAD
 [![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/Instabytes)
+=======
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/Instalike)
+>>>>>>> f746956112644a094205cd21b6ef58337203f74d
 
 Aplicação backend para gerenciar posts com suporte a upload de imagens e geração automática de descrições, utilizando IA e banco de dados MongoDB.
 
