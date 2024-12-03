@@ -4,14 +4,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Documentação Adicional
-Para mais informações sobre minhas qualificações e certificações, acesse os arquivos disponíveis na pasta <code>_DOCUMENTOS</code>. Nela, você encontrará: certificados relevantes, meu currículo atualizado e meu perfil no LinkedIn.
-
-<hr>
-
 Este repositório contém uma série de projetos que exploram diferentes conceitos de HTML5, CSS3, Node e JavaScript aplicados em atividades práticas, desde o uso de variáveis até a criação de interações dinâmicas com o usuário. O portfólio reflete o progresso no aprendizado dessas tecnologias e demonstra como elas podem ser usadas para criar aplicações web interativas e funcionais.
 
 Este portfólio foi criado para documentar o aprendizado e os experimentos realizados com HTML, CSS e JavaScript. Cada projeto foi desenvolvido com um propósito educativo, refletindo o progresso nas habilidades de desenvolvimento web e na compreensão dos fundamentos de programação.
+
+<strong>Abaixo, está a lista de cada projeto com seu respectivo resumo. Sinta-se à vontade para explorar mais sobre demonstrações, resultados e outros detalhes!</strong>
 
 ## 1. Gerenciamento de Posts com Upload de Imagens
 [![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/Instabytes)
@@ -64,6 +61,9 @@ O jogo Mentalista é uma aplicação interativa onde o programa escolhe um núme
   - Validação de tentativas do usuário até que o número correto seja acertado.
   - Exibição de mensagens de feedback para orientar o usuário durante o jogo.
 
-<hr>
+<br>
+<hr> 
 
-Sinta-se à vontade para explorar os projetos, modificar o código e aprender com cada exemplo!
+### Currículos e Documentos
+Acesse os arquivos disponíveis na pasta 
+[![Documentos](https://img.shields.io/badge/DOCUMENTOS-%F0%9F%93%83-blue?style=flat-square)](https://github.com/vitoriapguimaraes/vitoriapguimaraes/tree/main/DOCUMENTOS) para mais informações sobre minhas qualificações e certificações.
