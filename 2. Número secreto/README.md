@@ -1,37 +1,58 @@
 # Jogo do Número Secreto
-Bem-vindo ao Jogo do Número Secreto! Este é um projeto simples de JavaScript que desafia o jogador a adivinhar um número secreto gerado aleatoriamente dentro de um intervalo predefinido. O jogo fornece dicas para ajudar o jogador a descobrir o número certo.
-Este jogo é uma versão aprimorada do "Mentalista", um exercício também desenvolvido durante uma imersão da Alura.
+O Jogo do Número Secreto é um projeto simples e interativo desenvolvido em JavaScript, que desafia o jogador a adivinhar um número secreto gerado aleatoriamente dentro de um intervalo. Ele fornece dicas para guiar o jogador, tornando o jogo envolvente e dinâmico. Este projeto é uma evolução do exercício "Mentalista" realizado durante uma imersão na Alura.
 
-## Ferramentas Utilizadas
-- HTML: Estrutura básica do jogo.
-- CSS: Estilos personalizados, com fonte modernas e layout intuitivo.
-- JavaScript: Lógica do jogo.
-- Alertas e Prompt: usados para interação com o jogador.
+## Demonstração/Visualização
+A demonstração do jogo é ilustrada por quatro imagens que acompanham o fluxo da partida: começando pela tela de boas-vindas, seguida pela primeira tentativa do jogador e a resposta que indica se o número é maior ou menor que o chute. A sequência é finalizada com a tela que exibe o número de tentativas e a confirmação de acerto.
 
-## Como Jogar
-- Digite um número de 0 a 10 no campo de entrada.
-- Clique em "Chutar" para verificar se acertou o número escolhido pelo programa.
-- O resultado será exibido abaixo do botão, informando se você acertou ou errou.
+![Telas do sistema](https://github.com/vitoriapguimaraes/portfolio-web-Java/blob/master/2.%20N%C3%BAmero%20secreto/NumeroSecreto-Demonstacao.png)
 
-## Funcionamento do Jogo, com exemplo de execução
-1. O jogo gera um número secreto aleatório entre 1 e um valor máximo definido (por padrão, 100).
-    - O jogo gera um número secreto (por exemplo, 42).
-2. O jogador tenta adivinhar o número inserindo suas tentativas.
-3. Se o chute for maior ou menor que o número secreto, o jogo informa o jogador, indicando se o número secreto é menor ou maior.
-    - O jogador digita 50. O jogo responde: "O número secreto é menor que 50."
-    - O jogador tenta 30. O jogo responde: "O número secreto é maior que 30."
-4. O jogo continua até que o jogador acerte o número.
-5. Ao acertar, o jogo exibe o número de tentativas necessárias para adivinhar o número correto.
-    - O jogador acerta ao tentar 42. O jogo exibe: "Isso aí! Você descobriu o número secreto 42 com 3 tentativas."
+## Principais Tecnologias Utilizadas
+- HTML: Fornece a estrutura básica do jogo.
+- CSS: Garante um visual amigável e intuitivo.
+- JavaScript: Responsável pela lógica e interação do jogo.
+- Alert e Prompt: Utilizados para comunicação e coleta de dados do jogador.
 
-## Como Jogar
-1. Abra o arquivo index.html no navegador.
-2. Um alerta será exibido com as boas-vindas e iniciando o jogo.
-3. Digite um número entre 1 e 100 quando solicitado.
-4. Continue tentando até acertar!
-5. O jogo termina com uma mensagem mostrando o número de tentativas realizadas.
+## Estrutura do Projeto
+```
+/jogo-numero-secreto/
+├── img/                         # Imagens utilizadas no frontend (ex: ícones e imagens de parabéns)
+├── app.js                       # Lógica principal do jogo, incluindo a geração de números e controle das tentativas
+├── index.html                   # Estrutura HTML que define a página inicial do jogo
+├── style.css                    # Folha de estilos para o layout e design do jogo
+```
 
-## Melhorias Futuras
-- Opção para o jogador definir o intervalo do número secreto.
-- Limitar o número de tentativas.
-- Adicionar sons e animações para tornar o jogo mais envolvente.
+## Como Executar
+1. Clone o repositório:
+```
+git clone https://github.com/seu-usuario/jogo-numero-secreto.git
+cd jogo-numero-secreto
+```
+2. Abra o arquivo <code>index.html</code> no navegador.
+3. O jogo será iniciado automaticamente, exibindo um alerta de boas-vindas.
+4. Digite um número entre 1 e 100 quando solicitado e siga as dicas fornecidas até acertar!
+
+## Funcionalidades
+- Geração de um número secreto aleatório.
+- Dicas para ajudar o jogador a descobrir o número (maior/menor).
+- Contador de tentativas exibido ao final.
+- Mensagem personalizada com uma imagem de parabéns ao acertar o número.
+
+## Resultados e Conclusões
+Este projeto demonstrou conceitos fundamentais de programação, como:
+- Manipulação de DOM.
+- Uso de estruturas condicionais e loops.
+- Interação do usuário com a interface através de alertas e prompts.
+
+## Próximos Passos/Melhorias
+- Permitir que o jogador defina o intervalo do número secreto.
+- Adicionar um limite de tentativas para tornar o jogo mais desafiador.
+- Implementar sons e animações para uma experiência mais imersiva.
+- Exibir uma tabela de melhores tempos ou menor número de tentativas para incentivar a competição entre jogadores.
+- Consertar para que a imagem de parabéns apareça apenas depois de acertar o número, não em todo o sistema.
+
+<br>
+<hr> 
+
+### Currículos e Documentos
+Acesse os arquivos disponíveis na pasta 
+[![Documentos](https://img.shields.io/badge/DOCUMENTOS-%F0%9F%93%83-blue?style=flat-square)](https://github.com/vitoriapguimaraes/vitoriapguimaraes/tree/main/DOCUMENTOS) para mais informações sobre minhas qualificações e certificações.
