@@ -2,7 +2,7 @@
 O Jogo do Número Secreto é um projeto simples e interativo desenvolvido em JavaScript, que desafia o jogador a adivinhar um número secreto gerado aleatoriamente dentro de um intervalo. Ele fornece dicas para guiar o jogador, tornando o jogo envolvente e dinâmico. Este projeto é uma evolução do exercício "Mentalista" realizado durante uma imersão na Alura.
 
 ## Demonstração/Visualização
-A demonstração do jogo é ilustrada por quatro imagens que acompanham o fluxo da partida: começando pela tela de boas-vindas, seguida pela primeira tentativa do jogador e a resposta que indica se o número é maior ou menor que o chute. A sequência é finalizada com a tela que exibe o número de tentativas e a confirmação de acerto.
+A demonstração do jogo é ilustrada por quatro imagens que acompanham o fluxo da partida: começando pela tela de boas-vindas, seguida pela primeira tentativa do jogador e a resposta que indica se o número é maior ou menor que o chute. A sequência é finalizada com a tela que exibe a confirmação de acerto e o número de tentativas.
 
 ![Telas do sistema](https://github.com/vitoriapguimaraes/portfolio-web-Java/blob/master/2.%20N%C3%BAmero%20secreto/NumeroSecreto-Demonstacao.png)
 
