@@ -15,16 +15,11 @@ A aplicação exibe popups que solicitam ao usuário o seu nome e as notas de ca
 ```
 /calculadora-de-media
 │
-├── /assets
-│   └── /images                # Imagens do projeto (se houver)
-│
-├── /css
+├── /src
+│   └── index.html             # Arquivo principal que contém a estrutura HTML
+│   └── script.js              # Lógica JavaScript para interações e cálculos
 │   └── style.css              # Arquivo de estilo do projeto
 │
-├── /js
-│   └── script.js              # Lógica JavaScript para interações e cálculos
-│
-├── index.html                 # Arquivo principal que contém a estrutura HTML
 └── README.md                  # Este arquivo README com instruções e detalhes do projeto
 ```
 
