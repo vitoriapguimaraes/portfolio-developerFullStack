@@ -45,3 +45,10 @@ Este projeto permite que os usuários calculem facilmente a média das suas nota
 - Validação de entrada: Melhorar a validação de entradas para garantir que o usuário insira apenas números válidos.
 - Exibição de gráficos: Adicionar gráficos para uma visualização mais interativa dos resultados, como gráfico de barras ou linhas.
 - Armazenamento de dados: Implementar um sistema de armazenamento para guardar os resultados anteriores e permitir que o usuário veja o histórico de suas médias.
+
+<br>
+<hr> 
+
+### Currículos e Documentos
+Acesse os arquivos disponíveis na pasta 
+[![Documentos](https://img.shields.io/badge/DOCUMENTOS-%F0%9F%93%83-blue?style=flat-square)](https://github.com/vitoriapguimaraes/vitoriapguimaraes/tree/main/DOCUMENTOS) para mais informações sobre minhas qualificações e certificações.
