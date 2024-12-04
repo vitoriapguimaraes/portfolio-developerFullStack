@@ -11,7 +11,7 @@ Este portfólio foi criado para documentar o aprendizado e os experimentos reali
 <strong>Abaixo, está a lista de cada projeto com seu respectivo resumo. Sinta-se à vontade para explorar mais sobre demonstrações, resultados e outros detalhes!</strong>
 
 ## 1. Gerenciamento de Posts com Upload de Imagens
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/Instabytes)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/1.%20Instabytes)
 
 Aplicação backend para gerenciar posts com suporte a upload de imagens e geração automática de descrições, utilizando IA e banco de dados MongoDB.
 
@@ -22,7 +22,7 @@ Aplicação backend para gerenciar posts com suporte a upload de imagens e gera�
   - Geração de descrições automáticas para acessibilidade.
 
 ## 2. Jogo do Número Secreto
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/N%C3%BAmero%20secreto)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/2.%20N%C3%BAmero%20secreto)
 
 Este é um jogo de adivinhação em JavaScript no qual o usuário tenta acertar um número secreto gerado aleatoriamente dentro de um intervalo específico. O jogo oferece dicas, ajudando o jogador a se aproximar do número correto. Este projeto é uma versão aprimorada do "Mentalista", um exercício criado durante uma imersão da Alura, com melhorias na lógica e na interatividade para tornar o jogo mais envolvente.
 
@@ -33,7 +33,7 @@ Este é um jogo de adivinhação em JavaScript no qual o usuário tenta acertar 
   - Contagem de tentativas e exibição do número total de tentativas ao final.
 
 ## 3. Calculadora de Média
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/Calculadora%20de%20m%C3%A9dia)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/3.%20Calculadora%20de%20m%C3%A9dia)
 
 Neste projeto, foi criada uma calculadora de média para calcular o desempenho do usuário com base nas notas de cada bimestre. Os principais objetivos foram explorar o conceito de variáveis e realizar operações aritméticas em JavaScript.
 - Tecnologias: HTML, CSS, JavaScript
@@ -52,7 +52,7 @@ O Conversor de Moeda foi desenvolvido para converter valores entre diferentes mo
   - Exibição do valor convertido com base nos dados inseridos pelo usuário.
 
 ## 5. Jogo de Adivinhação (Mentalista)
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/Mentalista)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/4.%20Mentalista)
 
 O jogo Mentalista é uma aplicação interativa onde o programa escolhe um número aleatório, e o usuário tenta adivinhar o número correto. Este projeto introduziu conceitos de lógica condicional e manipulação de eventos em JavaScript.
 - Tecnologias: HTML, CSS, JavaScript
