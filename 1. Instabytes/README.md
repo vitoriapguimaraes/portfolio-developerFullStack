@@ -62,7 +62,7 @@ npm run dev
     │   ├── js/                        # Scripts JavaScript
     │   │   ├── fetchApos.js           # Lida com requisições HTTP assíncronas
     │   │   └── index.js               # Script principal do frontend
-    │   ├── style.css              # Folha de estilos para o projeto
+    │   ├── style.css                  # Folha de estilos para o projeto
     │   ├── photos/                    # Fotos utilizadas no frontend
     │   │   └── gui.jpeg               # Foto de perfil
     │   └── index.html                 # Página principal do frontend
