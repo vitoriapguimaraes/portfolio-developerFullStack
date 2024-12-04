@@ -4,7 +4,7 @@ A Calculadora de Média permite ao usuário inserir suas notas de cada bimestre 
 ## Demonstração/Visualização
 A aplicação exibe popups que solicitam ao usuário o seu nome e as notas de cada bimestre. Após a inserção das notas, a média final é calculada e apresentada ao usuário, com a possibilidade de reiniciar o processo. A interação ocorre de forma fluida, com uma interface simples e clara para facilitar o uso.
 
-![Exemplo de Gráfico](https://github.com/vitoriapguimaraes/portfolio-web-Java/blob/master/3.%20Calculadora%20de%20m%C3%A9dia/3.%20Calculadora%20de%20m%C3%A9dia%20-%20Demonstracao.png)
+![Exemplo de Gráfico](https://github.com/vitoriapguimaraes/portfolio-web-Java/blob/master/Calculadora%20de%20m%C3%A9dia/3.%20Calculadora%20de%20m%C3%A9dia%20-%20Demonstracao.png)
 
 ## Principais Tecnologias Utilizadas
 - HTML5: Estrutura básica da interface, com campos para exibição do título, instruções e entradas do usuário.
