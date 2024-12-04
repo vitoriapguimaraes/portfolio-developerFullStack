@@ -18,7 +18,7 @@ A demonstração do jogo é ilustrada por quatro imagens que acompanham o fluxo 
 ├── img/                         # Imagens utilizadas no frontend (ex: ícones e imagens de parabéns)
 ├── app.js                       # Lógica principal do jogo, incluindo a geração de números e controle das tentativas
 ├── index.html                   # Estrutura HTML que define a página inicial do jogo
-├── style.css                    # Folha de estilos para o layout e design do jogo
+└── style.css                    # Folha de estilos para o layout e design do jogo
 ```
 
 ## Como Executar
