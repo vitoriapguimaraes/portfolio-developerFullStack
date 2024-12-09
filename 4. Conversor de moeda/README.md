@@ -25,12 +25,16 @@ Abaixo está uma visualização do projeto:
 
 ## Como Executar
 Para rodar o projeto localmente:
+
 1. Clone o repositório para sua máquina:
-```
-git clone https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/4.%20Conversor%20de%20moeda
-```
+    ```
+    git clone https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/4.%20Conversor%20de%20moeda
+    ```
+
 2. Abra o arquivo index.html em seu navegador.
+
 3. Interaja com a interface para realizar suas conversões.
+
 Nota: Não é necessário instalar dependências, pois o projeto é baseado em tecnologias front-end.
 
 ## Funcionalidades
