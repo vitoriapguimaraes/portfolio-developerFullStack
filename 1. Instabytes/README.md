@@ -10,28 +10,33 @@ Abaixo está uma visualização da interface da aplicação:
 ## Como Executar
 Siga as etapas abaixo para rodar o projeto localmente:
 1. Clone o repositório:
-```
-git clone https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/1.%20Instabytes
-```
+    ```
+    git clone https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/1.%20Instabytes
+    ```
+
 2. Crie um arquivo <code>.env</code> na raiz do projeto e configure as variáveis de ambiente para a conexão com o MongoDB e a chave da API do Gemini:
-``` javascript
-CONNECTION_STRING = "sua_string_de_conexao"
-GEMINI_API_KEY = "sua_chave_da_api"
-```
+    ``` javascript
+    CONNECTION_STRING = "sua_string_de_conexao"
+    GEMINI_API_KEY = "sua_chave_da_api"
+    ```
+
 Nota: Certifique-se de manter este arquivo seguro, pois ele contém informações sensíveis.
+
 3. Suba o backend e o frontend separadamente:
   - Acesse a pasta backend e rode os comandos:
-```
-cd backend
-npm install
-npm run dev
-```
+    ```
+    cd backend
+    npm install
+    npm run dev
+    ```
+
   - Em outra aba do terminal, acesse a pasta frontend e rode os comandos:
-```
-cd frontend
-npm install
-npm run dev
-```
+    ```
+    cd frontend
+    npm install
+    npm run dev
+    ```
+
 3. Acesse a aplicação pelo navegador no endereço exibido pelo servidor do frontend.
 
 ## Estrutura do Projeto
@@ -71,10 +76,12 @@ npm run dev
 ```
 
 ## Funcionalidades
+
 ### Backend
 - Gerenciamento de posts.
 - Upload de imagens com suporte a acessibilidade.
 - Geração automática de descrições para imagens.
+
 ### Frontend
 - Interface para visualização e gerenciamento de posts.
 - Experiência de usuário moderna e intuitiva.

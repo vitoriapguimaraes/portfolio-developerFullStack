@@ -23,12 +23,15 @@ A demonstração do jogo é ilustrada por quatro imagens que acompanham o fluxo 
 
 ## Como Executar
 1. Clone o repositório:
-```
-git clone https://github.com/seu-usuario/jogo-numero-secreto.git
-cd jogo-numero-secreto
-```
+    ```
+    git clone https://github.com/seu-usuario/jogo-numero-secreto.git
+    cd jogo-numero-secreto
+    ```
+
 2. Abra o arquivo <code>index.html</code> no navegador.
+
 3. O jogo será iniciado automaticamente, exibindo um alerta de boas-vindas.
+
 4. Digite um número entre 1 e 100 quando solicitado e siga as dicas fornecidas até acertar!
 
 ## Funcionalidades

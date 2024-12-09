@@ -25,9 +25,10 @@ A aplicação exibe popups que solicitam ao usuário o seu nome e as notas de ca
 
 ## Como Executar
 1. Clone o repositório:
-```
-git clone https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/3.%20Calculadora%20de%20m%C3%A9dia
-```
+    ```
+    git clone https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/3.%20Calculadora%20de%20m%C3%A9dia
+    ```
+
 2. Abra o arquivo index.html no seu navegador para visualizar a página e interagir com a calculadora.
 
 Não é necessário instalar dependências adicionais, pois o projeto depende apenas de HTML, CSS e JavaScript que são executados diretamente no navegador.

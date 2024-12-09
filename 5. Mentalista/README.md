@@ -22,8 +22,11 @@ A demonstração do jogo é ilustrada com imagens que mostram as telas em duas e
 
 ## Como Executar
 1. Clone o repositório ou baixe os arquivos.
+
 2. Abra o arquivo index.html em um navegador.
+
 3. O jogo será carregado e estará pronto para jogar. Basta digitar um número de 0 a 10 e clicar no botão "Chutar" para tentar adivinhar o número secreto.
+
 4. O jogo irá fornecer feedback em tempo real sobre a proximidade do número secreto.
 
 ## Funcionalidades
