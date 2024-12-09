@@ -20,7 +20,7 @@ Siga as etapas abaixo para rodar o projeto localmente:
     GEMINI_API_KEY = "sua_chave_da_api"
     ```
 
-Nota: Certifique-se de manter este arquivo seguro, pois ele contém informações sensíveis.
+   Nota: Certifique-se de manter este arquivo seguro, pois ele contém informações sensíveis.
 
 3. Suba o backend e o frontend separadamente:
   - Acesse a pasta backend e rode os comandos:
