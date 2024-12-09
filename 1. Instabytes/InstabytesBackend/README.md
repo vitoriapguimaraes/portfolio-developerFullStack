@@ -32,33 +32,40 @@ Este projeto foi desenvolvido durante a Imersão Backend da Alura e tem como obj
 ### Pré-requisitos
 - Node.js instalado em sua máquina.
 - Uma string de conexão com o MongoDB (pode ser obtida através do MongoDB Atlas).
+
 ### Passos para executar o projeto
 1. Clone o repositório:
-```
-git clone https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/1.%20Instabytes/InstabytesBackend
-```
+    ```
+    git clone https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/1.%20Instabytes/InstabytesBackend
+    ```
+
 2. Instale as dependências:
-```
-npm install
-```
+    ```
+    npm install
+    ```
+
 3. Crie um arquivo <code>.env</code> na raiz do projeto e configure as variáveis de ambiente para a conexão com o MongoDB e a chave da API do Gemini:
-``` javascript
-CONNECTION_STRING = "sua_string_de_conexao"
-GEMINI_API_KEY = "sua_chave_da_api"
-```
-Nota: Certifique-se de manter este arquivo seguro, pois ele contém informações sensíveis.
+    ``` javascript
+    CONNECTION_STRING = "sua_string_de_conexao"
+    GEMINI_API_KEY = "sua_chave_da_api"
+    ```
+
+   Nota: Certifique-se de manter este arquivo seguro, pois ele contém informações sensíveis.
+
 4. Execute o servidor:
-```
-npm run dev
-```
+    ```
+    npm run dev
+    ```
+
 5. Acesse a aplicação localmente:
-- O servidor estará disponível em http://localhost:3000.
-- Utilize o Postman, Insomnia ou qualquer outra ferramenta para testar as rotas da API.
+    - O servidor estará disponível em http://localhost:3000.
+    - Utilize o Postman, Insomnia ou qualquer outra ferramenta para testar as rotas da API.
 
 ## Funcionalidades
 - Upload de imagens diretamente para o servidor.
 - Geração de descrições automáticas para imagens com foco em acessibilidade, utilizando IA (Gemini).
 - CRUD completo para posts:
+
   - Listar todos os posts.
   - Criar novos posts com imagens.
   - Atualizar posts existentes.
