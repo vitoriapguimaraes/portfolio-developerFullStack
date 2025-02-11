@@ -13,11 +13,16 @@
     <link rel="stylesheet" href="./src/styles/media-queries.css">
 
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link rel="shortcut icon" href="src/assets/images/favicon.png" type="image/x-icon">
+
+
 </head>
 
 <body>
 
-    <!-- SIDEBAR -->
+    <!-- SIDEBAR: INÍCIO -->
+    
     <div class="sidebar">
 
         <!-- SIDEBAR: NAVIGATION -->
@@ -71,12 +76,11 @@
                 </button>
             </div>
         </div>
-    </div>   
-    
-    <!-- MAIN -->
+    </div>
+    <!-- SIDEBAR: FIM -->
+
     <main>
 
-        <!-- MAIN -->
         <div class="main-container">
 
             <!-- MAIN: NAVIGATION -->
@@ -105,8 +109,10 @@
             <div class="playlist-container">
                 <div id="result-playlist">
                     <div class="playlist">
-                        <h1 class="greeting">Boas vindas</h1>
+                        <!-- Colocar O Bom dia | Boa Tarde | Boa Noite -->
+                        <h1 id="greeting">Boa Noite</h1>
                         <h2 class="greeting-subtitle">Navegar por todas as seções</h2>
+                        
                     </div>
 
                     <!-- LIST DE CARDS -->
@@ -244,15 +250,14 @@
                         <div class="artist-card" id="">
                             <div class="card-img">
                                 <img id="artist-img" class="artist-img" />
-                                <div class="play">
-                                    <span class="fa fa-solid fa-play"></span>
-                                </div>
+                            </div>
+                            <div class="play">
+                                <ion-icon class="playicon" name="play-outline"></ion-icon>
                             </div>
                             <div class="card-text">
                                 <a title="Foo Fighters" class="vst" href=""></a>
                                 <span class="artist-name" id="artist-name"></span>
                                 <span class="artist-categorie">Artista</span>
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -272,7 +277,8 @@
         <button type="button">Inscreva-se grátis</button>
     </footer>
 
-    <script type="text/javascript" src="./script.js"></script>
+    <script type='text/javascript' src="./src/scripts/search.js"></script>
+    <script type='text/javascript' src="./src/scripts/greeting.js"></script>
     
 </body>
 
