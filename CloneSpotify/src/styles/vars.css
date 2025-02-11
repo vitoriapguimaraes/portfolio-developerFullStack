@@ -31,10 +31,6 @@
     --card13: rgb(186, 93, 7);
     --card14: rgb(0, 30, 80);
     --card15: rgb(60, 30, 80);
-
-    /* DESIGN */
-    --grid-gap: 24px;
-    --column-count: 5;
 }
 
 /* MEDIA QUERYS */

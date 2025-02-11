@@ -5,3 +5,6 @@ E para subir a api: json-server --watch api-artists/artists.json --port 3000
 json-server --watch {caminho}
 
 npx create-react-app spotify-react
+
+# TODO: Implementar função de análise
+# FIXME: Resolver erro na conversão de dados
