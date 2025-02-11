@@ -4,7 +4,7 @@ A Calculadora de Média permite ao usuário inserir suas notas de cada bimestre 
 ## Demonstração/Visualização
 A aplicação exibe popups que solicitam ao usuário o seu nome e as notas de cada bimestre. Após a inserção das notas, a média final é calculada e apresentada ao usuário, com a possibilidade de reiniciar o processo. A interação ocorre de forma fluida, com uma interface simples e clara para facilitar o uso.
 
-![Telas do sistema](https://github.com/vitoriapguimaraes/portfolio-web-Java/blob/master/3.%20Calculadora%20de%20m%C3%A9dia/CalculadoraDeMedia-Demonstracao.png)
+![Telas do sistema](https://github.com/vitoriapguimaraes/portfolio-web-Java/blob/master/HTML_CSS_Java-CalculadoraMedia/display-CalculadoraMedia.png)
 
 ## Principais Tecnologias Utilizadas
 - HTML5: Estrutura básica da interface, com campos para exibição do título, instruções e entradas do usuário.
@@ -26,7 +26,7 @@ A aplicação exibe popups que solicitam ao usuário o seu nome e as notas de ca
 ## Como Executar
 1. Clone o repositório:
     ```
-    git clone https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/3.%20Calculadora%20de%20m%C3%A9dia
+    git clone https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/HTML_CSS_Java-CalculadoraMedia
     ```
 
 2. Abra o arquivo index.html no seu navegador para visualizar a página e interagir com a calculadora.

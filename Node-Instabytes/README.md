@@ -5,13 +5,13 @@ Ambas as pastas (backend e frontend) contêm descrições detalhadas de cada par
 ## Demonstração/Visualização
 Abaixo está uma visualização da interface da aplicação:
 
-![Tela do sistema](https://github.com/vitoriapguimaraes/portfolio-web-Java/blob/master/1.%20Instabytes/Instabytes-Demonstracao.png)
+![Tela do sistema](https://github.com/vitoriapguimaraes/portfolio-web-Java/blob/master/Node-Instabytes/display-Instabytes.png)
 
 ## Como Executar
 Siga as etapas abaixo para rodar o projeto localmente:
 1. Clone o repositório:
     ```
-    git clone https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/1.%20Instabytes
+    git clone https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/Node-Instabytes
     ```
 
 2. Crie um arquivo <code>.env</code> na raiz do projeto e configure as variáveis de ambiente para a conexão com o MongoDB e a chave da API do Gemini:

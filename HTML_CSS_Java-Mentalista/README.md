@@ -4,7 +4,7 @@ O "Mentalista" é um jogo simples onde o jogador tenta adivinhar um número secr
 ## Demonstração/Visualização
 A demonstração do jogo é ilustrada com imagens que mostram as telas em duas etapas: uma quando o jogador erra e outra quando acerta o número secreto.
 
-![Telas do sistema](https://github.com/vitoriapguimaraes/portfolio-web-Java/blob/master/5.%20Mentalista/Mentalista-Demonstracao.png)
+![Telas do sistema](https://github.com/vitoriapguimaraes/portfolio-web-Java/blob/master/HTML_CSS_Java-Mentalista/display-Mentalista.png)
 
 ## Principais Tecnologias Utilizadas
 - HTML: Estrutura básica da página do jogo.

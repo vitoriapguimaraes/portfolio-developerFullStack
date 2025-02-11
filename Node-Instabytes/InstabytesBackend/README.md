@@ -36,7 +36,7 @@ Este projeto foi desenvolvido durante a Imersão Backend da Alura e tem como obj
 ### Passos para executar o projeto
 1. Clone o repositório:
     ```
-    git clone https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/1.%20Instabytes/InstabytesBackend
+    git clone https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/Node-Instabytes/InstabytesBackend
     ```
 
 2. Instale as dependências:

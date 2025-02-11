@@ -4,7 +4,7 @@ O Conversor de Moeda é uma aplicação simples e prática que permite calcular 
 ## Demonstração
 Abaixo está uma visualização do projeto:
 
-![Tela do sistema](https://github.com/vitoriapguimaraes/portfolio-web-Java/blob/master/4.%20Conversor%20de%20moeda/ConversorDeMoeda-Demonstracao.png)
+![Tela do sistema](https://github.com/vitoriapguimaraes/portfolio-web-Java/blob/master/HTML_CSS_Java-ConversorMoeda/display-ConversorMoeda.png)
 
 ## Principais Tecnologias Utilizadas
 - HTML5: Estrutura da aplicação, com campos para entradas de dados.
@@ -28,7 +28,7 @@ Para rodar o projeto localmente:
 
 1. Clone o repositório para sua máquina:
     ```
-    git clone https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/4.%20Conversor%20de%20moeda
+    git clone https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/HTML_CSS_Java-ConversorMoeda
     ```
 
 2. Abra o arquivo index.html em seu navegador.

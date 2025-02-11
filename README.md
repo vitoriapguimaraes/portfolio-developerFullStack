@@ -3,15 +3,30 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-Este repositório contém uma série de projetos que exploram diferentes conceitos de HTML5, CSS3, Node e JavaScript aplicados em atividades práticas, desde o uso de variáveis até a criação de interações dinâmicas com o usuário. O portfólio reflete o progresso no aprendizado dessas tecnologias e demonstra como elas podem ser usadas para criar aplicações web interativas e funcionais.
+Este repositório reúne projetos que exploram conceitos fundamentais de desenvolvimento web, utilizando HTML5, CSS3, JavaScript, Node.js e React. Cada projeto apresenta uma aplicação prática dessas tecnologias, desde manipulação de variáveis até a criação de interfaces dinâmicas e interativas.
 
-Este portfólio foi criado para documentar o aprendizado e os experimentos realizados com HTML, CSS e JavaScript. Cada projeto foi desenvolvido com um propósito educativo, refletindo o progresso nas habilidades de desenvolvimento web e na compreensão dos fundamentos de programação.
+O portfólio documenta meu progresso no aprendizado e aplicação dessas tecnologias, destacando projetos que demonstram habilidades em frontend e backend.
 
-<strong>Abaixo, está a lista de cada projeto com seu respectivo resumo. Sinta-se à vontade para explorar mais sobre demonstrações, resultados e outros detalhes!</strong>
+### Projeto em destaque: Clone do Sporify
 
-## 1. Gerenciamento de Posts com Upload de Imagens
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/1.%20Instabytes)
+[display do clone spotify]
+
+Desenvolvi um clone da interface do Spotify, criando o frontend com React e o backend com Node.js. Esse projeto enfatiza a construção de componentes reutilizáveis, integração com APIs e estilização responsiva. Confira o repositório para mais detalhes!
+
+<br>
+
+<strong>E logo abaixo, está a lista de cada projeto com seu respectivo resumo. Sinta-se à vontade para explorar mais sobre demonstrações, resultados e outros detalhes!</strong>
+
+## Clone do Spotify
+
+[em construção]
+{versões}
+
+
+## Gerenciamento de Posts com Upload de Imagens
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/Node-Instabytes)
 
 Aplicação backend para gerenciar posts com suporte a upload de imagens e geração automática de descrições, utilizando IA e banco de dados MongoDB.
 
@@ -21,8 +36,8 @@ Aplicação backend para gerenciar posts com suporte a upload de imagens e gera�
   - Upload e atualização de imagens.
   - Geração de descrições automáticas para acessibilidade.
 
-## 2. Jogo do Número Secreto
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/2.%20N%C3%BAmero%20secreto)
+## Jogo do Número Secreto
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/HTML_CSS_Java-NumeroSecreto)
 
 Este é um jogo de adivinhação em JavaScript no qual o usuário tenta acertar um número secreto gerado aleatoriamente dentro de um intervalo específico. O jogo oferece dicas, ajudando o jogador a se aproximar do número correto. Este projeto é uma versão aprimorada do "Mentalista", um exercício criado durante uma imersão da Alura, com melhorias na lógica e na interatividade para tornar o jogo mais envolvente.
 
@@ -32,8 +47,8 @@ Este é um jogo de adivinhação em JavaScript no qual o usuário tenta acertar 
   - Orientação ao usuário, indicando se o número secreto é maior ou menor que o chute.
   - Contagem de tentativas e exibição do número total de tentativas ao final.
 
-## 3. Calculadora de Média
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/3.%20Calculadora%20de%20m%C3%A9dia)
+## Calculadora de Média
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/HTML_CSS_Java-CalculadoraMedia)
 
 Neste projeto, foi criada uma calculadora de média para calcular o desempenho do usuário com base nas notas de cada bimestre. Os principais objetivos foram explorar o conceito de variáveis e realizar operações aritméticas em JavaScript.
 - Tecnologias: HTML, CSS, JavaScript
@@ -41,8 +56,8 @@ Neste projeto, foi criada uma calculadora de média para calcular o desempenho d
   - Captura do nome do usuário e notas de cada bimestre.
   - Cálculo e exibição da média final arredondada.
 
-## 4. Conversor de Moeda
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/4.%20Conversor%20de%20moeda)
+## Conversor de Moeda
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/HTML_CSS_Java-ConversorMoeda)
 
 O Conversor de Moeda foi desenvolvido para converter valores entre diferentes moedas, permitindo que o usuário insira a taxa de conversão e o valor desejado. Este projeto enfatizou a manipulação de valores e a criação de interfaces dinâmicas com JavaScript.
 - Tecnologias: HTML, CSS, JavaScript
@@ -51,8 +66,8 @@ O Conversor de Moeda foi desenvolvido para converter valores entre diferentes mo
   - Entrada da taxa de conversão e valor a ser convertido.
   - Exibição do valor convertido com base nos dados inseridos pelo usuário.
 
-## 5. Jogo de Adivinhação (Mentalista)
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/5.%20Mentalista)
+## Jogo de Adivinhação (Mentalista)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/HTML_CSS_Java-Mentalista)
 
 O jogo Mentalista é uma aplicação interativa onde o programa escolhe um número aleatório, e o usuário tenta adivinhar o número correto. Este projeto introduziu conceitos de lógica condicional e manipulação de eventos em JavaScript.
 - Tecnologias: HTML, CSS, JavaScript

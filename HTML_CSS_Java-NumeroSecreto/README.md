@@ -4,7 +4,7 @@ O Jogo do Número Secreto é um projeto simples e interativo desenvolvido em Jav
 ## Demonstração/Visualização
 A demonstração do jogo é ilustrada por quatro imagens que acompanham o fluxo da partida: começando pela tela de boas-vindas, seguida pela primeira tentativa do jogador e a resposta que indica se o número é maior ou menor que o chute. A sequência é finalizada com a tela que exibe a confirmação de acerto e o número de tentativas.
 
-![Telas do sistema](https://github.com/vitoriapguimaraes/portfolio-web-Java/blob/master/2.%20N%C3%BAmero%20secreto/NumeroSecreto-Demonstacao.png)
+![Tela do sistema](https://github.com/vitoriapguimaraes/portfolio-web-Java/blob/master/HTML_CSS_Java-NumeroSecreto/display-NumeroSecreto.png)
 
 ## Principais Tecnologias Utilizadas
 - HTML: Fornece a estrutura básica do jogo.
@@ -23,10 +23,6 @@ A demonstração do jogo é ilustrada por quatro imagens que acompanham o fluxo 
 
 ## Como Executar
 1. Clone o repositório:
-    ```
-    git clone https://github.com/seu-usuario/jogo-numero-secreto.git
-    cd jogo-numero-secreto
-    ```
 
 2. Abra o arquivo <code>index.html</code> no navegador.
 
