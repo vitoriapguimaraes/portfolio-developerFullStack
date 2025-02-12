@@ -5,30 +5,29 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-Este repositório reúne projetos que exploram conceitos fundamentais de desenvolvimento web, utilizando HTML5, CSS3, JavaScript, Node.js e React. Cada projeto apresenta uma aplicação prática dessas tecnologias, desde manipulação de variáveis até a criação de interfaces dinâmicas e interativas.
+Este repositório reúne projetos que exploram conceitos fundamentais de desenvolvimento web, utilizando HTML5, CSS3, JavaScript, Node.js e React. Cada projeto apresenta uma aplicação prática dessas tecnologias, desde manipulação de variáveis até a criação de interfaces dinâmicas e interativas. O portfólio documenta meu progresso no aprendizado e aplicação dessas tecnologias, destacando projetos que demonstram habilidades em frontend e backend.
 
-O portfólio documenta meu progresso no aprendizado e aplicação dessas tecnologias, destacando projetos que demonstram habilidades em frontend e backend.
-
-### Projeto em destaque: Clone do Sporify
+### Projeto em destaque: Clone da Página do Spotify
 
 ![Tela do sistema](https://github.com/vitoriapguimaraes/portfolio-developerFullStack-web/blob/master/HTML_CSS_Java-PaginaSpotify/display-PaginaSpotify.gif)
 
-Desenvolvi um clone da interface do Spotify, criando o frontend com React e o backend com Node.js. Esse projeto enfatiza a construção de componentes reutilizáveis, integração com APIs e estilização responsiva. Confira o repositório para mais detalhes!
+_Desenvolvi um clone da interface do Spotify, criando o frontend com HTML, CSS e React e o backend com Node.js. Esse projeto enfatiza a construção de componentes reutilizáveis, integração com APIs e estilização responsiva. Confira o repositório para mais detalhes!_
 
 <br>
 
 <strong>E logo abaixo, está a lista de cada projeto com seu respectivo resumo. Sinta-se à vontade para explorar mais sobre demonstrações, resultados e outros detalhes!</strong>
 
+<br>
 
 ## Clone da Página do Spotify
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](link1)
-[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](link2)
+[![Acesse o Repositório HTML|CSS](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio%20HTML|CSS-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-developerFullStack-web/tree/master/HTML_CSS_Java-PaginaSpotify)
+[![Acesse o Repositório React](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio%20React-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-developerFullStack-web/tree/master/React_Java-PaginaSpotify)
 
 Recriação da interface do Spotify com duas versões distintas, utilizando tecnologias modernas para desenvolvimento web e foco em responsividade e experiência do usuário.
 
 - Tecnologias:
-    Versão 1: HTML, CSS, JavaScript, JSON Server
-    Versão 2: React, Vite, Styled Components ou CSS Modules, React Hooks
+  - Versão 1: HTML, CSS, JavaScript, JSON Server
+  - Versão 2: React, Vite, Styled Components, React Hooks
 - Funcionalidades:
   - Exibição dinâmica de artistas consumindo API fake.
   - Saudação automática baseada no horário do dia.
