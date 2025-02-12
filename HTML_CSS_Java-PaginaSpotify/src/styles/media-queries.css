@@ -1,0 +1,50 @@
+/* Oculta a barra de pesquisa em telas menores que 1015px */
+@media screen and (max-width: 1015px) {
+  .header__search {
+    display: none !important;
+    width: auto !important;
+  }
+}
+
+/* Oculta a barra de pesquisa entre 1016px e 1140px */
+@media screen and (min-width: 1016px) and (max-width: 1140px) {
+  .header__search {
+    display: none !important;
+    width: auto !important;
+  }
+}
+
+/* Ajustes para telas menores que 375px */
+@media screen and (max-width: 440px) {
+  .playlist {
+    display: none;
+  }
+
+  .main-container {
+    width: calc(100vw - 0.6rem);
+    margin: 0.3rem 0.3rem 0.3rem 0.3rem;
+    overflow: hidden;
+  }
+
+  .sidebar {
+    display: none;
+  }
+
+  .offer__list-item {
+    grid-template-columns: 1fr;
+  }
+
+  .offer__scroll-container {
+    overflow-y: visible;
+  }
+}
+
+/* fazer 
+Estilos para telas menores que 767px
+@media screen and (max-width: 767px) {
+}
+
+Estilos para telas entre 768px e 1274px
+@media screen and (min-width: 768px) and (max-width: 1274px) {
+}
+*/
