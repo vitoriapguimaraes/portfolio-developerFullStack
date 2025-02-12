@@ -1,5 +1,5 @@
 # Clone da Página do Spotify
-Este projeto é um clone da interface do Spotify, desenvolvido com HTML, CSS e JavaScript. Ele enfatiza a construção de componentes reutilizáveis, integração com APIs e estilização responsiva. O objetivo principal é recriar a experiência visual e interativa da plataforma original.
+Esta é a versão do clone da interface do Spotify, desenvolvido com HTML, CSS e JavaScript. Ele enfatiza a construção de componentes reutilizáveis, integração com APIs e estilização responsiva. O objetivo principal é recriar a experiência visual e interativa da plataforma original.
 
 ## Demonstração/Visualização
 Abaixo está uma visualização da interface da aplicação:
@@ -27,7 +27,7 @@ Abaixo está uma visualização da interface da aplicação:
 │       ├── main-content-rem.css   # Estilização da interface
 │       ├── media-queries.css      # Ajustes responsivos
 │       ├── reset.css
-│   │   └── vars.css
+│       └── vars.css
 ├── index.html                     # Estrutura principal da página
 │
 └── README.md
@@ -40,7 +40,7 @@ Abaixo está uma visualização da interface da aplicação:
    ```
 2. Inicie a API fake:
    ```bash
-   json-server --watch HTML_CSS_Java-PaginaSpotify/api-artists/artists.json --port 3000
+   json-server --watch {caminho} --port 3000
    ```
 3. Abra o `index.html` no navegador ou utilize uma extensão como Live Server para facilitar o desenvolvimento.
 
