@@ -1,0 +1,45 @@
+.disclaimer-premium {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to right, #ae2896, #509bf5);
+    padding: 1rem 2rem;
+    font-size: 0.875rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.disclaimer-premium .text {
+    flex-shrink: 0;
+}
+
+.disclaimer-premium .disclaimer-premium__title {
+    color: var(--color-white);
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 0.85rem;
+    margin-bottom: 0.7rem;
+}
+
+.disclaimer-premium .disclaimer-premium__subtitle {
+    color: var(--color-white);
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.disclaimer-premium button {
+    text-decoration: none;
+    text-transform: none;
+    font-family: var(--font--dm-sans);
+    background-color: var(--color-white);
+    color: var(--color-black);
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 0.75rem 1.5rem;
+    border: 0rem;
+    border-radius: 2.8rem;
+    cursor: pointer;
+    flex-shrink: 0;
+}

@@ -9,24 +9,32 @@ Este repositório reúne projetos que exploram conceitos fundamentais de desenvo
 
 O portfólio documenta meu progresso no aprendizado e aplicação dessas tecnologias, destacando projetos que demonstram habilidades em frontend e backend.
 
-<!-- 
 ### Projeto em destaque: Clone do Sporify
 
-[display do clone spotify]
+![Tela do sistema](https://github.com/vitoriapguimaraes/portfolio-developerFullStack-web/blob/master/HTML_CSS_Java-PaginaSpotify/display-PaginaSpotify.gif)
 
 Desenvolvi um clone da interface do Spotify, criando o frontend com React e o backend com Node.js. Esse projeto enfatiza a construção de componentes reutilizáveis, integração com APIs e estilização responsiva. Confira o repositório para mais detalhes!
 
 <br>
--->
 
 <strong>E logo abaixo, está a lista de cada projeto com seu respectivo resumo. Sinta-se à vontade para explorar mais sobre demonstrações, resultados e outros detalhes!</strong>
 
-<!-- 
-## Clone do Spotify
 
-[em construção]
-{versões}
--->
+## Clone da Página do Spotify
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](link1)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](link2)
+
+Recriação da interface do Spotify com duas versões distintas, utilizando tecnologias modernas para desenvolvimento web e foco em responsividade e experiência do usuário.
+
+- Tecnologias:
+    Versão 1: HTML, CSS, JavaScript, JSON Server
+    Versão 2: React, Vite, Styled Components ou CSS Modules, React Hooks
+- Funcionalidades:
+  - Exibição dinâmica de artistas consumindo API fake.
+  - Saudação automática baseada no horário do dia.
+  - Sidebar funcional simulando a navegação do Spotify.
+  - Design responsivo adaptado para diferentes dispositivos.
+  - Melhor modularização e reutilização de componentes na versão React.
 
 ## Gerenciamento de Posts com Upload de Imagens
 [![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/Node-Instabytes)
