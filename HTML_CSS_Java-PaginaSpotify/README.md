@@ -4,7 +4,7 @@ Este projeto é um clone da interface do Spotify, desenvolvido com HTML, CSS e J
 ## Demonstração/Visualização
 Abaixo está uma visualização da interface da aplicação:
 
-![Tela do sistema](link)
+![Tela do sistema](https://github.com/vitoriapguimaraes/portfolio-developerFullStack-web/blob/master/HTML_CSS_Java-PaginaSpotify/display-PaginaSpotify.gif)
 
 ## Principais Tecnologias Utilizadas
 - Frontend: HTML, CSS
@@ -58,6 +58,8 @@ Este projeto demonstrou a viabilidade da criação de um clone funcional da inte
     - Implementar a sidebar como um menu hambúrguer
     - Melhorar a experiência da busca de artistas
 - Refinar detalhes visuais e interações
+
+![Tela do sistema](https://github.com/vitoriapguimaraes/portfolio-developerFullStack-web/blob/master/HTML_CSS_Java-PaginaSpotify/display-PaginaSpotify_rem.gif)
 
 <br>
 <hr> 
