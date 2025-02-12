@@ -1,13 +1,15 @@
 # Clone da Página do Spotify (React + Vite)
 
-Eu repliquei esse projeto para tecnologia de HTML e CSS no frontend. Confira aqui o repositório: (link).
+Eu repliquei esse projeto para tecnologia de HTML e CSS no frontend. Confira aqui o repositório: [Clone Spotify HTML | CSS](https://github.com/vitoriapguimaraes/portfolio-developerFullStack-web/tree/master/HTML_CSS_Java-PaginaSpotify).  
 
 Esta é a versão do clone da interface do Spotify desenvolvida com React e Vite. O projeto enfatiza a construção de componentes reutilizáveis, integração com APIs e estilização responsiva. A migração para React permite uma melhor organização do código e maior eficiência na renderização dos componentes.
 
+<!--
 ## Demonstração/Visualização
 Abaixo está uma visualização da interface da aplicação:
 
 ![Tela do sistema](link)
+-->
 
 ## Principais Tecnologias Utilizadas
 - Frontend: React + Vite, Styled Components
