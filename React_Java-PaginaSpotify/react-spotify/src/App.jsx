@@ -6,7 +6,7 @@ import './App.css';
 import Header from './componentes/Header/Header.jsx';
 import Sidebar from './componentes/Sidebar/Sidebar.jsx';
 import Footer from './componentes/Footer/Footer.jsx';
-import Playlist from './componentes/Playlist/Playlist.jsx';
+import Main from './componentes/Main/Main.jsx';
 
 function App() {
   return (
