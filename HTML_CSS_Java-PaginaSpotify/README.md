@@ -1,10 +1,12 @@
 # Clone da Página do Spotify
+Eu repliquei esse projeto para tecnologia de React no frontend. Confira aqui o repositório: [link](#).  
+
 Esta é a versão do clone da interface do Spotify, desenvolvido com HTML, CSS e JavaScript. Ele enfatiza a construção de componentes reutilizáveis, integração com APIs e estilização responsiva. O objetivo principal é recriar a experiência visual e interativa da plataforma original.
 
 ## Demonstração/Visualização
 Abaixo está uma visualização da interface da aplicação:
 
-![Tela do sistema](link)
+![Tela do sistema](https://github.com/vitoriapguimaraes/portfolio-developerFullStack-web/blob/master/HTML_CSS_Java-PaginaSpotify/display-PaginaSpotify.gif)
 
 ## Principais Tecnologias Utilizadas
 - Frontend: HTML, CSS
@@ -58,6 +60,8 @@ Este projeto demonstrou a viabilidade da criação de um clone funcional da inte
     - Implementar a sidebar como um menu hambúrguer
     - Melhorar a experiência da busca de artistas
 - Refinar detalhes visuais e interações
+
+![Tela do sistema](https://github.com/vitoriapguimaraes/portfolio-developerFullStack-web/blob/master/HTML_CSS_Java-PaginaSpotify/display-PaginaSpotify_rem.gif)
 
 <br>
 <hr> 
