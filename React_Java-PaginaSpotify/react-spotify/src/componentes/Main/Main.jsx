@@ -1,8 +1,8 @@
-import "./Playlist.css";
+import "./Main.css";
 
 import card1 from "../../assets/playlist/1.jpeg";
 
-const Playlist = () => {
+const Main = () => {
     return (
 
     <div class="playlist-container">
@@ -145,7 +145,7 @@ const Playlist = () => {
     )
 };
 
-export default Playlist;
+export default Main;
 
 {/*}
 <script type='text/javascript' src="./src/scripts/search.js"></script>
