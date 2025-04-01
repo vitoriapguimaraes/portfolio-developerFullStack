@@ -5,7 +5,6 @@ body {
   padding: 0;
   font-family: Arial, sans-serif;
   color: white;
-  position: relative;
 }
 
 /* Container with the background image */
@@ -23,6 +22,8 @@ body {
   background-color: rgba(0, 0, 0, 0.5);
   padding: 20px 40px;
   border-radius: 8px;
+  height: 19rem;
+  width: 30rem;
 }
 
 .content h2 {
@@ -31,15 +32,31 @@ body {
 
 /* Button Styles */
 button {
-  background-color: #ff1b7b;
+  background-color: #4c005c;
   border: none;
   padding: 10px 20px;
   font-size: 1.2em;
   color: white;
   cursor: pointer;
   transition: background-color 0.3s ease;
+  font-size: 20px;
+  margin: 5px;
 }
 
 button:hover {
   background-color: #1ABC9C;
+}
+
+.selecionado {
+  background-color: #1ABC9C !important;
+}
+
+#jogarNovamente {
+  margin-top: 20px;
+  display: none;
+  font-size: 18px;
+  padding: 10px 20px;
+  background-color: black;
+  color: white;
+  border: none;
 }
