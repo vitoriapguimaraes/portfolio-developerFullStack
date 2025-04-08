@@ -1,11 +1,11 @@
 function Chutar(escolhaJogador, botaoClicado) {
 
-    var elementoResultado = document.getElementById("resultado");
+    let elementoResultado = document.getElementById("resultado");
 
-    var opcoes = ["PEDRA", "PAPEL", "TESOURA"];
-    var escolhaComputador = opcoes[Math.floor(Math.random() * 3)];
+    let opcoes = ["PEDRA", "PAPEL", "TESOURA"];
+    let escolhaComputador = opcoes[Math.floor(Math.random() * 3)];
 
-    var vitorias = {
+    let vitorias = {
         "PEDRA": "TESOURA", // Pedra vence Tesoura
         "PAPEL": "PEDRA",   // Papel vence Pedra
         "TESOURA": "PAPEL"  // Tesoura vence Papel
