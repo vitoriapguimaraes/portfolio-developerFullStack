@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-    background: url('../src/images/background-img.png') center/cover no-repeat;
+    background: url('./assets/background-img.png') center/cover no-repeat;
     background-size: cover;
     font-family: "Gabarito", sans-serif;
     display: flex;
