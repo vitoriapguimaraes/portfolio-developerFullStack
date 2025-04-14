@@ -31,6 +31,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 ![Tela do sistema](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-CaboDeGuerra/blob/main/results/game.gif)
 
 > Um jogo interativo que simula um cabo de guerra com campeões do League of Legends. Escolha seu time de 3 campeões, cada um com diferentes atributos de força, e compare a força total do seu time com um time adversário aleatório.
+> 
 > **Tecnologias:** HTML, CSS, JavaScript
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-CaboDeGuerra)
@@ -41,6 +42,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 ![Tela do sistema](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-CalculadoraMedia/blob/main/results/calculate.gif)
 
 > Uma aplicação web que permite calcular a média aritmética das notas de um aluno de forma simples e intuitiva.
+> 
 > **Tecnologias:** HTML, CSS, JavaScript
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-CalculadoraMedia)
@@ -48,17 +50,11 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### Clone da Página do Spotify
 
->   Recriação da interface do Spotify com duas versões distintas, utilizando tecnologias modernas para desenvolvimento web e foco em responsividade e experiência do usuário.
+> Recriação da interface do Spotify com duas versões distintas, utilizando tecnologias modernas para desenvolvimento web e foco em responsividade e experiência do usuário.
 >
->   * **Tecnologias:**
->       * Versão 1: HTML, CSS, JavaScript, JSON Server
->       * Versão 2: React, Vite, Styled Components, React Hooks
->   * **Funcionalidades:**
->       * Exibição dinâmica de artistas consumindo API fake.
->       * Saudação automática baseada no horário do dia.
->       * Sidebar funcional simulando a navegação do Spotify.
->       * Design responsivo adaptado para diferentes dispositivos.
->       * Melhor modularização e reutilização de componentes na versão React.
+> **Tecnologias:**
+>   * Versão 1: HTML, CSS, JavaScript, JSON Server
+>   * Versão 2: React, Vite, Styled Components, React Hooks
 
 ![Tela do sistema](https://github.com/vitoriapguimaraes/portfolio-developerFullStack-web/blob/master/HTML_CSS_Java-PaginaSpotify/display-PaginaSpotify.gif)
 
@@ -69,6 +65,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 ### Gerenciamento de Posts com Upload
 
 > Aplicação backend para gerenciar posts com suporte a upload de imagens e geração de descrições automáticas, utilizando IA e banco de dados MongoDB.
+> 
 > **Tecnologias:** Node.js, Express, MongoDB, Multer, Gemini Service
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/Node-Instabytes)
@@ -76,6 +73,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 ### Jogo do Número Secreto
 
 > Este é um jogo de adivinhação em JavaScript no qual o usuário tenta acertar um número secreto gerado aleatoriamente dentro de um intervalo específico. O jogo oferece dicas, ajudando o jogador a se aproximar do número correto.
+> 
 > **Tecnologias:** HTML, CSS, JavaScript
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/HTML_CSS_Java-NumeroSecreto)
@@ -84,6 +82,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 ### Conversor de Moeda
 
 > O Conversor de Moeda foi desenvolvido para converter valores entre diferentes moedas, permitindo que o usuário insira a taxa de conversão e o valor desejado.
+> 
 > **Tecnologias:** HTML, CSS, JavaScript
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/HTML_CSS_Java-ConversorMoeda)
@@ -92,6 +91,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 ### Jogo de Adivinhação (Mentalista)
 
 > O jogo Mentalista é uma aplicação interativa onde o programa escolhe um número aleatório, e o usuário tenta adivinhar o número correto.
+> 
 > **Tecnologias:** HTML, CSS, JavaScript
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/HTML_CSS_Java-Mentalista)
