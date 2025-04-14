@@ -14,16 +14,37 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 
 | Projeto                                  | Descrição                                                                                                  | Tecnologias Utilizadas                        |
 | :--------------------------------------- | :--------------------------------------------------------------------------------------------------------- | :-------------------------------------------- |
+| [Cabo de Guerra com Campeões de LoL](#cabo-de-guerra-com-campeoes-de-lol) | Um jogo interativo que simula um cabo de guerra com campeões do League of Legends.                            | HTML, CSS, JavaScript                           |
+| [Calculadora de Média](#calculadora-de-media) | Calculadora web para calcular a média de notas bimestrais.                                                    | HTML, CSS, JavaScript                           |
 | Clone da Página do Spotify                | Recriação da interface do Spotify com versões em HTML/CSS/JavaScript e React, focado em responsividade e UX. | HTML, CSS, JavaScript, React, Node.js        |
 | Gerenciamento de Posts com Upload         | Backend para gerenciar posts com upload de imagens e geração de descrições automáticas com IA.                | Node.js, Express, MongoDB, Multer, Gemini Service |
 | Jogo do Número Secreto                    | Jogo de adivinhação com dicas e contagem de tentativas.                                                    | HTML, CSS, JavaScript                           |
-| Calculadora de Média                      | Calculadora web para calcular a média de notas bimestrais.                                                    | HTML, CSS, JavaScript                           |
 | Conversor de Moeda                        | Aplicação para converter valores entre diferentes moedas.                                                     | HTML, CSS, JavaScript                           |
 | Jogo de Adivinhação (Mentalista)          | Jogo interativo onde o usuário tenta adivinhar um número aleatório.                                          | HTML, CSS, JavaScript                           |
 
 ## Detalhes dos Projetos
 
 Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluindo demonstrações visuais e links para os repositórios e sites.
+
+### Cabo de Guerra com Campeões de LoL
+
+![Tela do sistema](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-CaboDeGuerra/blob/main/results/game.gif)
+
+> Um jogo interativo que simula um cabo de guerra com campeões do League of Legends. Escolha seu time de 3 campeões, cada um com diferentes atributos de força, e compare a força total do seu time com um time adversário aleatório.
+> **Tecnologias:** HTML, CSS, JavaScript
+
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-CaboDeGuerra)
+[![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-lightgray?style=for-the-badge)](https://vitoriapguimaraes.github.io/HTML_CSS_Javascript-CaboDeGuerra/)
+
+### Calculadora de Média
+
+![Tela do sistema](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-CalculadoraMedia/blob/main/results/calculate.gif)
+
+> Uma aplicação web que permite calcular a média aritmética das notas de um aluno de forma simples e intuitiva.
+> **Tecnologias:** HTML, CSS, JavaScript
+
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-CalculadoraMedia)
+[![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-lightgray?style=for-the-badge)](https://vitoriapguimaraes.github.io/HTML_CSS_Javascript-CalculadoraMedia/)
 
 ### Clone da Página do Spotify
 
@@ -41,72 +62,40 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ![Tela do sistema](https://github.com/vitoriapguimaraes/portfolio-developerFullStack-web/blob/master/HTML_CSS_Java-PaginaSpotify/display-PaginaSpotify.gif)
 
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge&logo=github)](https://github.com/vitoriapguimaraes/portfolio-developerFullStack-web/tree/master/HTML_CSS_Java-PaginaSpotify)
-[![Ver Deploy (HTML/CSS/JS)](https://img.shields.io/badge/Ver%20Deploy-lightgray?style=for-the-badge&logo=github)](https://vitoriapguimaraes.github.io/pagina-do-spotify/)
-[![Ver Deploy (React)](https://img.shields.io/badge/Ver%20Deploy%20(React)-lightgray?style=for-the-badge&logo=github)](https://vitoriapguimaraes.github.io/react-spotify-clone/)
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-developerFullStack-web/tree/master/HTML_CSS_Java-PaginaSpotify)
+[![Ver Deploy (HTML/CSS/JS)](https://img.shields.io/badge/Ver%20Deploy-lightgray?style=for-the-badge)](https://vitoriapguimaraes.github.io/pagina-do-spotify/)
+[![Ver Deploy (React)](https://img.shields.io/badge/Ver%20Deploy%20(React)-lightgray?style=for-the-badge)](https://vitoriapguimaraes.github.io/react-spotify-clone/)
 
 ### Gerenciamento de Posts com Upload
 
->   Aplicação backend para gerenciar posts com suporte a upload de imagens e geração de descrições automáticas, utilizando IA e banco de dados MongoDB.
->
->   * **Tecnologias:** Node.js, Express, MongoDB, Multer, Gemini Service
->   * **Funcionalidades:**
->       * CRUD de posts.
->       * Upload e atualização de imagens.
->       * Geração de descrições automáticas para acessibilidade.
+> Aplicação backend para gerenciar posts com suporte a upload de imagens e geração de descrições automáticas, utilizando IA e banco de dados MongoDB.
+> **Tecnologias:** Node.js, Express, MongoDB, Multer, Gemini Service
 
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge&logo=github)](https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/Node-Instabytes)
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/Node-Instabytes)
 
 ### Jogo do Número Secreto
 
->   Este é um jogo de adivinhação em JavaScript no qual o usuário tenta acertar um número secreto gerado aleatoriamente dentro de um intervalo específico. O jogo oferece dicas, ajudando o jogador a se aproximar do número correto.
->
->   * **Tecnologias:** HTML, CSS, JavaScript
->   * **Funcionalidades:**
->       * Geração de um número secreto aleatório.
->       * Orientação ao usuário, indicando se o número secreto é maior ou menor que o chute.
->       * Contagem de tentativas e exibição do número total de tentativas ao final.
+> Este é um jogo de adivinhação em JavaScript no qual o usuário tenta acertar um número secreto gerado aleatoriamente dentro de um intervalo específico. O jogo oferece dicas, ajudando o jogador a se aproximar do número correto.
+> **Tecnologias:** HTML, CSS, JavaScript
 
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge&logo=github)](https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/HTML_CSS_Java-NumeroSecreto)
-[![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-lightgray?style=for-the-badge&logo=github)](https://vitoriapguimaraes.github.io/jogo-do-numero-secreto/)
-
-### Calculadora de Média
-
->   Neste projeto, foi criada uma calculadora de média para calcular o desempenho do usuário com base nas notas de cada bimestre.
->
->   * **Tecnologias:** HTML, CSS, JavaScript
->   * **Funcionalidades:**
->       * Captura do nome do usuário e notas de cada bimestre.
->       * Cálculo e exibição da média final arredondada.
-
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge&logo=github)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/HTML_CSS_Java-CalculadoraMedia)
-[![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-lightgray?style=for-the-badge&logo=github)](https://vitoriapguimaraes.github.io/HTML_CSS_Javascript-CalculadoraMedia/)
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-web-Java/tree/master/HTML_CSS_Java-NumeroSecreto)
+[![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-lightgray?style=for-the-badge)](https://vitoriapguimaraes.github.io/jogo-do-numero-secreto/)
 
 ### Conversor de Moeda
 
->   O Conversor de Moeda foi desenvolvido para converter valores entre diferentes moedas, permitindo que o usuário insira a taxa de conversão e o valor desejado.
->
->   * **Tecnologias:** HTML, CSS, JavaScript
->   * **Funcionalidades:**
->       * Seleção das moedas de origem e destino.
->       * Entrada da taxa de conversão e valor a ser convertido.
->       * Exibição do valor convertido com base nos dados inseridos pelo usuário.
+> O Conversor de Moeda foi desenvolvido para converter valores entre diferentes moedas, permitindo que o usuário insira a taxa de conversão e o valor desejado.
+> **Tecnologias:** HTML, CSS, JavaScript
 
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge&logo=github)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/HTML_CSS_Java-ConversorMoeda)
-[![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-lightgray?style=for-the-badge&logo=github)](https://vitoriapguimaraes.github.io/conversor-de-moedas/)
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/HTML_CSS_Java-ConversorMoeda)
+[![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-lightgray?style=for-the-badge)](https://vitoriapguimaraes.github.io/conversor-de-moedas/)
 
 ### Jogo de Adivinhação (Mentalista)
 
->   O jogo Mentalista é uma aplicação interativa onde o programa escolhe um número aleatório, e o usuário tenta adivinhar o número correto.
->
->   * **Tecnologias:** HTML, CSS, JavaScript
->   * **Funcionalidades:**
->       * Geração de um número aleatório entre 0 e 10.
->       * Validação de tentativas do usuário até que o número correto seja acertado.
->       * Exibição de mensagens de feedback para orientar o usuário durante o jogo.
+> O jogo Mentalista é uma aplicação interativa onde o programa escolhe um número aleatório, e o usuário tenta adivinhar o número correto.
+> **Tecnologias:** HTML, CSS, JavaScript
 
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge&logo=github)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/HTML_CSS_Java-Mentalista)
-[![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-lightgray?style=for-the-badge&logo=github)](https://vitoriapguimaraes.github.io/jogo-mentalista/)
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/HTML_CSS_Java-Mentalista)
+[![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-lightgray?style=for-the-badge)](https://vitoriapguimaraes.github.io/jogo-mentalista/)
 
 ---
 
