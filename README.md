@@ -26,7 +26,7 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 
 Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluindo demonstrações visuais e links para os repositórios e sites.
 
-### Cabo de Guerra com Campeões de LoL
+### Cabo de Guerra com Campeoes de LoL
 
 ![Tela do sistema](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-CaboDeGuerra/blob/main/results/game.gif)
 
@@ -36,7 +36,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-CaboDeGuerra)
 [![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-lightgray?style=for-the-badge)](https://vitoriapguimaraes.github.io/HTML_CSS_Javascript-CaboDeGuerra/)
 
-### Calculadora de Média
+### Calculadora de Media
 
 ![Tela do sistema](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-CalculadoraMedia/blob/main/results/calculate.gif)
 
