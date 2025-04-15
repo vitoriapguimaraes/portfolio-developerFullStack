@@ -29,8 +29,10 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | Jogo do Número Secreto                    | Jogo de adivinhação com dicas e contagem de tentativas.                                                    | HTML, CSS, JavaScript                           | 🛠️ |
 | [Conversor de Moeda](#conversor-de-moeda)      | Aplicação para converter valores entre diferentes moedas/câmbeos.                                                     | HTML, CSS, JavaScript             | ✅ |
 | Jogo de Adivinhação (Mentalista)          | Jogo interativo onde o usuário tenta adivinhar um número aleatório.                                          | HTML, CSS, JavaScript                           | 🛠️ |
-| Meu portifólio                            | Meu site interativo com todo os meus portifólios.                                                            | React                                             | 🚧 |
-| APP SOS Cancêr                            | Projeto voluntário para desenvolvimento web e mobile para ONG de Pongaí.                                     | React. React Native                                | 🚧 |
+| [Meu portifolio](#meu-portifolio)         | Meu site interativo com todo os meus portifólios.                                                            | React                                             | 🚧 |
+| [APP SOS Cancer](#app-sos-cancer)         | Projeto voluntário para desenvolvimento web e mobile para ONG de Pongaí.                                     | React. React Native                                | 🚧 |
+| [TechTaste](#techtaste)                 | Minha primeira aplicação mobile com flutter. Um APP como o ifood.                                    | Flutter                                | 🚧 |
+
 
 > 🧭 Legenda dos Status: <br>
 >> ✅ Concluído <br>
@@ -117,6 +119,36 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/HTML_CSS_Java-Mentalista)
 [![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-lightgray?style=for-the-badge)](https://vitoriapguimaraes.github.io/jogo-mentalista/)
+
+### Meu portifolio
+
+> Meu site portifólio para mostrar todos meus projetos
+>
+> **Tecnologias:** React
+> 
+> 🚧 Em desenvolvimento
+
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/React-PortfolioWeb)
+
+### APP SOS Cancer
+
+> Projeto voluntário para desenvolvimento web e mobile para ONG de Pongaí. 
+>
+> **Tecnologias:** React
+> 
+> 🚧 Em desenvolvimento
+
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/React-PortfolioWeb)
+
+### TechTaste
+
+> Minha primeira aplicação mobile com flutter. Um APP como o ifood.
+>
+> **Tecnologias:** Flutter
+> 
+> 🚧 Em desenvolvimento
+
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Flutter-TechTaste)
 
 ---
 
