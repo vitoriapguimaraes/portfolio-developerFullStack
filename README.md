@@ -8,9 +8,17 @@ Olá! 👋 Bem-vindo ao meu portfólio, onde apresento uma coleção de projetos
 [![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 
+<!--
+
+| Projeto                                  | Descrição                                                                                                  | Tecnologias Utilizadas                        | Status     |
+| :--------------------------------------- | :--------------------------------------------------------------------------------------------------------- | :-------------------------------------------- | :--------- |
+| [Cabo de Guerra com Campeões de LoL](#cabo-de-guerra-com-campeoes-de-lol) | Um jogo interativo que simula um cabo de guerra com campeões do League of Legends.   | [![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)              | ✅ |
+
+-->
+
 ## Resumo dos Projetos
 
-Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacando as principais tecnologias utilizadas e uma breve descrição de cada um.
+Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacando seu status, as principais tecnologias utilizadas e uma breve descrição de cada um.
 
 | Projeto                                  | Descrição                                                                                                  | Tecnologias Utilizadas                        | Status     |
 | :--------------------------------------- | :--------------------------------------------------------------------------------------------------------- | :-------------------------------------------- | :--------- |
@@ -19,7 +27,7 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | Clone da Página do Spotify                | Recriação da interface do Spotify com versões em HTML/CSS/JavaScript e React, focado em responsividade e UX. | HTML, CSS, JavaScript, React, Node.js        | 🛠️ |
 | Gerenciamento de Posts com Upload         | Backend para gerenciar posts com upload de imagens e geração de descrições automáticas com IA.                | Node.js, Express, MongoDB, Multer, Gemini Service | 🛠️ |
 | Jogo do Número Secreto                    | Jogo de adivinhação com dicas e contagem de tentativas.                                                    | HTML, CSS, JavaScript                           | 🛠️ |
-| Conversor de Moeda                        | Aplicação para converter valores entre diferentes moedas.                                                     | HTML, CSS, JavaScript                           | 🛠️ |
+| [Conversor de Moeda](#conversor-de-moeda)      | Aplicação para converter valores entre diferentes moedas/câmbeos.                                                     | HTML, CSS, JavaScript             | ✅ |
 | Jogo de Adivinhação (Mentalista)          | Jogo interativo onde o usuário tenta adivinhar um número aleatório.                                          | HTML, CSS, JavaScript                           | 🛠️ |
 | Meu portifólio                            | Meu site interativo com todo os meus portifólios.                                                            | React                                             | 🚧 |
 | APP SOS Cancêr                            | Projeto voluntário para desenvolvimento web e mobile para ONG de Pongaí.                                     | React. React Native                                | 🚧 |
@@ -92,12 +100,14 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### Conversor de Moeda
 
-> O Conversor de Moeda foi desenvolvido para converter valores entre diferentes moedas, permitindo que o usuário insira a taxa de conversão e o valor desejado.
+![Tela do sistema](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-ConversorMoeda/blob/main/results/converter.gif)
+
+> O projeto oferece uma interface intuitiva para inserir o valor, escolher as moedas de origem e destino, e visualizar o resultado da conversão, além de manter um histórico das conversões realizadas.
 > 
 > **Tecnologias:** HTML, CSS, JavaScript
 
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/HTML_CSS_Java-ConversorMoeda)
-[![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-lightgray?style=for-the-badge)](https://vitoriapguimaraes.github.io/conversor-de-moedas/)
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-ConversorMoeda)
+[![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-lightgray?style=for-the-badge)](https://vitoriapguimaraes.github.io/HTML_CSS_Javascript-ConversorMoeda/)
 
 ### Jogo de Adivinhação (Mentalista)
 
