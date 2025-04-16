@@ -21,9 +21,10 @@ Olá! 👋 Bem-vindo ao meu portfólio, onde apresento uma coleção de projetos
 Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacando seu status, as principais tecnologias utilizadas e uma breve descrição de cada um.
 
 | Projeto                                  | Descrição                                                                                                  | Tecnologias Utilizadas                        | Status     |
-| :--------------------------------------- | :--------------------------------------------------------------------------------------------------------- | :-------------------------------------------- | :--------- |
-| [Cabo de Guerra com Campeões de LoL](#cabo-de-guerra-com-campeoes-de-lol) | Um jogo interativo que simula um cabo de guerra com campeões do League of Legends.   | HTML, CSS, JavaScript              | ✅ |
-| [Calculadora de Média](#calculadora-de-media) | Calculadora web para calcular a média de notas bimestrais.                                                    | HTML, CSS, JavaScript                           | ✅ |
+| :--------------------------------------- | :---------------------------------------------------------------------------------------------------------- | :-------------------------------------------- | :--------- |
+| [Jogo da Ponte](#jogo-da-ponte)         | Um jogo interativo que desafia sua coragem e sorte ao atravessar uma ponte de vidro.                         | HTML, CSS, JavaScript                           | ✅ |
+| [Cabo de Guerra com Campeões de LoL](#cabo-de-guerra-com-campeoes-de-lol) | Um jogo interativo que simula um cabo de guerra com campeões do League of Legends.   | HTML, CSS, JavaScript                  | ✅ |
+| [Calculadora de Média](#calculadora-de-media) | Calculadora web para calcular a média de notas bimestrais.                                                    | HTML, CSS, JavaScript                     | ✅ |
 | Clone da Página do Spotify                | Recriação da interface do Spotify com versões em HTML/CSS/JavaScript e React, focado em responsividade e UX. | HTML, CSS, JavaScript, React, Node.js        | 🛠️ |
 | Gerenciamento de Posts com Upload         | Backend para gerenciar posts com upload de imagens e geração de descrições automáticas com IA.                | Node.js, Express, MongoDB, Multer, Gemini Service | 🛠️ |
 | Jogo do Número Secreto                    | Jogo de adivinhação com dicas e contagem de tentativas.                                                    | HTML, CSS, JavaScript                           | 🛠️ |
@@ -33,7 +34,6 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | [APP SOS Cancer](#app-sos-cancer)         | Projeto voluntário para desenvolvimento web e mobile para ONG de Pongaí.                                     | React. React Native                                | 🚧 |
 | [TechTaste](#techtaste)                 | Minha primeira aplicação mobile com flutter. Um APP como o ifood.                                    | Flutter                                | 🚧 |
 
-
 > 🧭 Legenda dos Status: <br>
 >> ✅ Concluído <br>
 >> 🛠️ Em manutenção <br>
@@ -42,6 +42,19 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 ## Detalhes dos Projetos
 
 Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluindo demonstrações visuais e links para os repositórios e sites.
+
+### Jogo da Ponte
+
+![Tela do sistema](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-JogoPonte/blob/dev/results/game.gif)
+
+> Um jogo interativo que desafia sua coragem e sorte ao atravessar uma ponte de vidro.
+> 
+> **Tecnologias:** HTML, CSS, JavaScript
+> 
+> ✅ Concluído
+
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-JogoPonte)
+[![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-darkgreen?style=for-the-badge)](https://vitoriapguimaraes.github.io/HTML_CSS_Javascript-JogoPonte/)
 
 ### Cabo de Guerra com Campeoes de LoL
 
