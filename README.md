@@ -9,6 +9,7 @@ Olá! 👋 Seja bem-vindo(a) ao meu portfólio, onde apresento uma coleção de 
 > > [![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 > > [![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 > > [![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+> > [![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 > > 
 > 🐍 **Linguagens e Frameworks**
 > > [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -171,6 +172,8 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/React-PortfolioWeb)
 
 ### TechTaste
+
+<img src="https://github.com/vitoriapguimaraes/Flutter-TechTaste/blob/main/software_view.gif?raw=true" alt="Tela do sistema" width="400"/>
 
 > Minha primeira aplicação mobile com flutter. Um APP como o ifood.
 >
