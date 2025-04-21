@@ -54,7 +54,7 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | [HashZap](#hashzap)                                                                 | Chat em tempo real para múltiplos usuários com Flask-SocketIO e versão alternativa em Flet.                  | Python, Flask-SocketIO, Flet                      | 🛠️ |
 | [Relatório de Dados por E-mail](#relatorio-de-dados-por-email)                      | Automatiza envio de relatórios de vendas em HTML por e-mail.                                                 | Python, Pandas, win32com.client                   | 🛠️ |
 | [Jogo da Forca](#jogo-da-forca)                                                     | Versão orientada a objetos do clássico jogo da forca em Python.                                              | Python                                            | 🛠️ |
-| [Calculadora Simples](#calculadora-simples)                                         | Calculadora de operações básicas com tratamento de erros.                                                    | Python                                            | 🛠️ |
+| [Calculadora Python](#calculadora-python)                                           | Calculadora de operações básicas com tratamento de erros.                                                    | Python, HTML, CSS, JavaScript                     | ✅ |
 
 > 🧭 Legenda dos Status: <br>
 >> ✅ Concluído <br>
@@ -255,13 +255,16 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### Calculadora Simples
 
-> Realiza operações básicas com validação de entradas e tratamento de erros. Versão futura terá modularização com funções.
+![Tela do sistema](https://github.com/vitoriapguimaraes/Python-Calculadora/blob/main/results/calculate.gif)
+
+> Realiza operações básicas com validação de entradas e tratamento de erros.
 >
-> **Tecnologias:** Python
+> **Tecnologias:** Python, HTML, CSS, JavaScript
 > 
-> 🛠️ Em manutenção
+> ✅ Concluído
 
 [![Acesse o Repositório](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Python-Calculadora)
+[![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-darkgreen?style=for-the-badge)](https://python-calculadora.onrender.com/)
 
 ---
 
