@@ -49,7 +49,7 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | [TechTaste](#techtaste)                                                             | Minha primeira aplicação mobile com flutter. Um APP como o ifood.                                            | Flutter                                           | 🚧 |
 | [Automação de Cadastro de Produtos](#automacao-de-cadastro-de-produtos)             | Automatiza o cadastro de produtos em site de vendas com dados de um CSV.                                     | Python, PyAutoGUI, Pandas                         | 🛠️ |
 | [Automação de Backup](#automacao-de-backup)                                         | Realiza backups de arquivos e pastas com organização por data e hora.                                        | Python, OS, Shutil, Tkinter                       | 🛠️ |
-| [Classificação de Imagens com TensorFlow](#classificacao-de-imagens-com-tensorflow) | Classificação de imagens com CNNs usando o dataset CIFAR-10.                                                 | Python, TensorFlow, Keras, Numpy, Matplotlib, PIL | 🛠️ |
+| [Classificação de Imagens com TensorFlow](#classificacao-de-imagens-com-tensorflow) | Classificação de imagens com CNNs usando o dataset CIFAR-10.                                                 | Python, TensorFlow, Keras, Numpy, Matplotlib, PIL | ✅ |
 | [Robô Trading com Q-Learning](#robo-trading-com-q-learning)                         | Robô que decide comprar ou vender ações para maximizar lucros com IA.                                        | Python, Pandas, Numpy, Plotly, Q-Learning         | 🛠️ |
 | [HashZap](#hashzap)                                                                 | Chat em tempo real para múltiplos usuários com Flask-SocketIO e versão alternativa em Flet.                  | Python, Flask-SocketIO, Flet                      | 🛠️ |
 | [Relatório de Dados por E-mail](#relatorio-de-dados-por-email)                      | Automatiza envio de relatórios de vendas em HTML por e-mail.                                                 | Python, Pandas, win32com.client                   | 🛠️ |
@@ -205,11 +205,13 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### Classificacao de Imagens com TensorFlow
 
+![Tela do sistema](https://github.com/vitoriapguimaraes/Python-ClassificacaoImagensTensorFlow/blob/main/results/software.gif)
+
 > Modelo de IA para classificar imagens do dataset CIFAR-10 com uso de Redes Neurais Convolucionais.
 >
 > **Tecnologias:** Python, TensorFlow, Keras, Numpy, Matplotlib, PIL
 > 
-> 🛠️ Em manutenção
+> ✅ Concluído
 
 [![Acesse o Repositório](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Python-ClassificacaoImagensTensorFlow)
 
