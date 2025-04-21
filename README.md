@@ -253,7 +253,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 [![Acesse o Repositório](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Python-JogoForca)
 
-### Calculadora Simples
+### Calculadora Python
 
 ![Tela do sistema](https://github.com/vitoriapguimaraes/Python-Calculadora/blob/main/results/calculate.gif)
 
