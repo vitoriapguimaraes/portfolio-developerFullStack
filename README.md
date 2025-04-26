@@ -40,7 +40,8 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | [Jogo da Ponte](#jogo-da-ponte)                                                     | Um jogo interativo que desafia sua coragem e sorte ao atravessar uma ponte de vidro.                         | HTML, CSS, JavaScript                             | ✅ |
 | [Cabo de Guerra com Campeões de LoL](#cabo-de-guerra-com-campeoes-de-lol)           | Um jogo interativo que simula um cabo de guerra com campeões do League of Legends.                           | HTML, CSS, JavaScript                             | ✅ |
 | [Calculadora de Média](#calculadora-de-media)                                       | Calculadora web para calcular a média de notas bimestrais.                                                   | HTML, CSS, JavaScript                             | ✅ |
-| [Clone da Página do Spotify](#clone-da-pagina-do-spotify)                           | Recriação da interface do Spotify com versões em HTML/CSS/JavaScript e React, focado em responsividade e UX. | HTML, CSS, JavaScript, React, Node.js             | 🛠️ |
+| [Clone da Página do Spotify](#clone-da-pagina-do-spotify)                           | Recriação de uma parte interface do Spotify                                                                  | HTML, CSS, JavaScript                             | ✅ |
+| [Clone do Spotify](#clone-do-spotify)                                               | Recriação da interface do Spotify, focado em responsividade e UX.                                            | HTML, CSS, JavaScript, React, Node.js             | 🛠️ |
 | [Instabytes](#instabytes)                                                           | Gerenciamento de posts com upload de imagens e geração de descrições automáticas com IA.                     | Node.js, Express, MongoDB, Multer, Gemini Service | 🛠️ |
 | [Jogos de Adivinhação](#jogos-de-adivinhacao)                                       | Jogos de adivinhação com dicas e contagem de tentativas.                                                     | HTML, CSS, JavaScript                             | 🛠️ |
 | [Conversor de Moeda](#conversor-de-moeda)                                           | Aplicação para converter valores entre diferentes moedas/câmbeos.                                            | HTML, CSS, JavaScript                             | ✅ |
@@ -106,11 +107,21 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### Clone da Pagina do Spotify
 
-> Recriação da interface do Spotify com duas versões distintas, utilizando tecnologias modernas para desenvolvimento web e foco em responsividade e experiência do usuário.
+![Tela do sistema](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-PaginaSpotify/blob/main/results/display-PaginaSpotify.gif)
+
+> Recriação da interface do Spotify: página principal e busca de artistas.
 >
-> **Tecnologias:**
->   * Versão 1: HTML, CSS, JavaScript, JSON Server
->   * Versão 2: React, Vite, Styled Components, React Hooks
+> **Tecnologias:** HTML, CSS, JavaScript, JSON Server
+>
+> ✅ Concluído
+
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-PaginaSpotify)
+
+### Clone do Spotify
+
+> Recriação da interface do Spotify com foco em responsividade e experiência do usuário.
+>
+> **Tecnologias:** React, HTML, CSS, JavaScript
 >
 > 🛠️ Em manutenção
 
