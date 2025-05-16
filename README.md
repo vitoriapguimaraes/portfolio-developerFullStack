@@ -37,6 +37,7 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 
 | Projeto                                                                             | Descrição                                                                                                    | Tecnologias Utilizadas                            | Status |
 | :---------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :------------------------------------------------ | :----- |
+| [Recicla Fácil](#recicla-facil)                                                     | Uma aplicação web que simplifica a reciclagem no dia a dia.                                                  | Python, HTML, CSS, JavaScript                     | 🚧 |
 | [Jogo da Ponte](#jogo-da-ponte)                                                     | Um jogo interativo que desafia sua coragem e sorte ao atravessar uma ponte de vidro.                         | HTML, CSS, JavaScript                             | ✅ |
 | [Cabo de Guerra com Campeões de LoL](#cabo-de-guerra-com-campeoes-de-lol)           | Um jogo interativo que simula um cabo de guerra com campeões do League of Legends.                           | HTML, CSS, JavaScript                             | ✅ |
 | [Calculadora de Média](#calculadora-de-media)                                       | Calculadora web para calcular a média de notas bimestrais.                                                   | HTML, CSS, JavaScript                             | ✅ |
@@ -65,6 +66,19 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 ## Detalhes dos Projetos
 
 Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluindo demonstrações visuais e links para os repositórios e sites.
+
+### Recicla Facil
+
+![Tela do sistema](https://github.com/vitoriapguimaraes/Python-ReciclaCerto/blob/main/results/display.gif)
+
+> Uma aplicação web que simplifica a reciclagem no dia a dia, conectando o usuário a informações essenciais sobre descarte correto de resíduos e pontos de coleta próximos, utilizando Inteligência Artificial e mapas interativos.
+> 
+> **Tecnologias:** Python, Flask, Google Gemini API, python-dotenv, HTML5, CSS3, JavaScript, Leaflet.js, OpenStreetMap (OSM), Nominatim
+> 
+> 🚧 Em desenvolvimento
+
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Python-ReciclaCerto)
+[![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-darkgreen?style=for-the-badge)](https://projetoreciclacerto.onrender.com/)
 
 ### Jogo da Ponte
 
