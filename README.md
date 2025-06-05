@@ -23,11 +23,6 @@ Olá! 👋 Seja bem-vindo(a) ao meu portfólio, onde apresento uma coleção de 
 > > [![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge)](https://matplotlib.org/)
 > > [![Plotly](https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 > 
-> 🤖 **Machine Learning e Processamento de Imagens**
-> > [![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
-> > [![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-> > [![PIL](https://img.shields.io/badge/PIL-000000?style=for-the-badge&logo=python&logoColor=white)](https://pillow.readthedocs.io/en/stable/)
-> 
 > ⚙️ **Automação**
 > > [![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-000000?style=for-the-badge&logo=python&logoColor=white)](https://pyautogui.readthedocs.io/en/latest/)
 
@@ -51,8 +46,6 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | [TechTaste](#techtaste)                                                             | Minha primeira aplicação mobile com flutter. Um APP como o ifood.                                            | Flutter                                           | 🚧 |
 | [Automação de Cadastro de Produtos](#automacao-de-cadastro-de-produtos)             | Automatiza o cadastro de produtos em site de vendas com dados de um CSV.                                     | Python, PyAutoGUI, Pandas                         | 🛠️ |
 | [Automação de Backup](#automacao-de-backup)                                         | Realiza backups de arquivos e pastas com organização por data e hora.                                        | Python, OS, Shutil, Tkinter                       | 🛠️ |
-| [Classificação de Imagens com TensorFlow](#classificacao-de-imagens-com-tensorflow) | Classificação de imagens com CNNs usando o dataset CIFAR-10.                                                 | Python, TensorFlow, Keras, Numpy, Matplotlib, PIL | ✅ |
-| [Robô Trading com Q-Learning](#robo-trading-com-q-learning)                         | Robô que decide comprar ou vender ações para maximizar lucros com IA.                                        | Python, Pandas, Numpy, Plotly, Q-Learning         | 🛠️ |
 | [HashZap](#hashzap)                                                                 | Chat em tempo real para múltiplos usuários com Flask-SocketIO e versão alternativa em Flet.                  | Python, Flask-SocketIO, Flet                      | 🛠️ |
 | [Relatório de Dados por E-mail](#relatorio-de-dados-por-email)                      | Automatiza envio de relatórios de vendas em HTML por e-mail.                                                 | Python, Pandas, win32com.client                   | 🛠️ |
 | [Jogo da Forca](#jogo-da-forca)                                                     | Versão orientada a objetos do clássico jogo da forca em Python.                                              | Python                                            | 🛠️ |
@@ -227,28 +220,6 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 > 🛠️ Em manutenção
 
 [![Acesse o Repositório](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Python-AutomocaoBackup)
-
-### Classificacao de Imagens com TensorFlow
-
-![Tela do sistema](https://github.com/vitoriapguimaraes/Python-ClassificacaoImagensTensorFlow/blob/main/results/software.gif)
-
-> Modelo de IA para classificar imagens do dataset CIFAR-10 com uso de Redes Neurais Convolucionais.
->
-> **Tecnologias:** Python, TensorFlow, Keras, Numpy, Matplotlib, PIL
-> 
-> ✅ Concluído
-
-[![Acesse o Repositório](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Python-ClassificacaoImagensTensorFlow)
-
-### Robo Trading com Q-Learning
-
-> Robô inteligente que realiza operações de compra e venda de ações com base em algoritmos de aprendizado por reforço.
->
-> **Tecnologias:** Python, Pandas, Numpy, Plotly, Q-Learning
-> 
-> 🛠️ Em manutenção
-
-[![Acesse o Repositório](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Python-RoboTradingQLearning)
 
 ### HashZap
 
