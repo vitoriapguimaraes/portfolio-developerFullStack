@@ -52,9 +52,9 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | [Calculadora Python](#calculadora-python)                                           | Calculadora de operações básicas com tratamento de erros.                                                    | Python, HTML, CSS, JavaScript                     | ✅ |
 
 > 🧭 Legenda dos Status: <br>
->> ✅ Concluído <br>
->> 🛠️ Em manutenção <br>
->> 🚧 Em desenvolvimento
+>> ✅ Concluído: versão atual funcional entregue <br>
+>> 🛠️ Em manutenção: ajustes e correções em andamento <br>
+>> 🚧 Em desenvolvimento: funcionalidades ativas sendo construídas
 
 ## Detalhes dos Projetos
 
