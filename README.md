@@ -43,7 +43,7 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | [Conversor de Moeda](#conversor-de-moeda)                                           | Aplicação para converter valores entre diferentes moedas/câmbeos.                                            | HTML, CSS, JavaScript                             | ✅ |
 | [Meu portifolio](#meu-portifolio)                                                   | Meu site interativo com todo os meus portifólios.                                                            | React                                             | 🚧 |
 | [APP SOS Cancer](#app-sos-cancer)                                                   | Projeto voluntário para desenvolvimento web e mobile para ONG de Pongaí.                                     | React. React Native                               | 🚧 |
-| [TechTaste](#techtaste)                                                             | Minha primeira aplicação mobile com flutter. Um APP como o ifood.                                            | Flutter                                           | 🚧 |
+| [TechTaste](#techtaste)                                                             | Minha primeira aplicação mobile com flutter. Um APP como o ifood.                                            | Flutter                                           | ✅ |
 | [Automação de Cadastro de Produtos](#automacao-de-cadastro-de-produtos)             | Automatiza o cadastro de produtos em site de vendas com dados de um CSV.                                     | Python, PyAutoGUI, Pandas                         | 🛠️ |
 | [Automação de Backup](#automacao-de-backup)                                         | Realiza backups de arquivos e pastas com organização por data e hora.                                        | Python, OS, Shutil, Tkinter                       | 🛠️ |
 | [HashZap](#hashzap)                                                                 | Chat em tempo real para múltiplos usuários com Flask-SocketIO e versão alternativa em Flet.                  | Python, Flask-SocketIO, Flet                      | 🛠️ |
@@ -196,8 +196,8 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 > Minha primeira aplicação mobile com flutter. Um APP como o ifood.
 >
 > **Tecnologias:** Flutter
-> 
-> 🚧 Em desenvolvimento
+>
+> ✅ Concluído
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Flutter-TechTaste)
 
