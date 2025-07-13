@@ -62,7 +62,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### Recicla Facil
 
-![Tela do sistema](https://github.com/vitoriapguimaraes/Python-ReciclaCerto/blob/main/results/display.gif)
+<img src="https://github.com/vitoriapguimaraes/Python-ReciclaCerto/blob/main/results/display.gif" alt="Tela do sistema" width="800"/>
 
 > Uma aplicação web que simplifica a reciclagem no dia a dia, conectando o usuário a informações essenciais sobre descarte correto de resíduos e pontos de coleta próximos, utilizando Inteligência Artificial e mapas interativos.
 > 
@@ -75,7 +75,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### Jogo da Ponte
 
-![Tela do sistema](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-JogoPonte/blob/dev/results/game.gif)
+<img src="https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-JogoPonte/blob/dev/results/game.gif" alt="Tela do sistema" width="800"/>
 
 > Um jogo interativo que desafia sua coragem e sorte ao atravessar uma ponte de vidro.
 > 
@@ -88,7 +88,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### Cabo de Guerra com Campeoes de LoL
 
-![Tela do sistema](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-CaboDeGuerra/blob/main/results/game.gif)
+<img src="https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-CaboDeGuerra/blob/main/results/game.gif" alt="Tela do sistema" width="800"/>
 
 > Um jogo interativo que simula um cabo de guerra com campeões do League of Legends. Escolha seu time de 3 campeões, cada um com diferentes atributos de força, e compare a força total do seu time com um time adversário aleatório.
 > 
@@ -101,7 +101,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### Calculadora de Media
 
-![Tela do sistema](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-CalculadoraMedia/blob/main/results/calculate.gif)
+<img src="https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-CalculadoraMedia/blob/main/results/calculate.gif" alt="Tela do sistema" width="800"/>
 
 > Uma aplicação web que permite calcular a média aritmética das notas de um aluno de forma simples e intuitiva.
 > 
@@ -114,7 +114,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### Clone da Pagina do Spotify
 
-![Tela do sistema](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-PaginaSpotify/blob/main/results/display-PaginaSpotify.gif)
+<img src="https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-PaginaSpotify/blob/main/results/display-PaginaSpotify.gif" alt="Tela do sistema" width="800"/>
 
 > Recriação da interface do Spotify: página principal e busca de artistas.
 >
@@ -158,7 +158,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### Conversor de Moeda
 
-![Tela do sistema](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-ConversorMoeda/blob/main/results/converter.gif)
+<img src="https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-ConversorMoeda/blob/main/results/converter.gif" alt="Tela do sistema" width="800"/>
 
 > O projeto oferece uma interface intuitiva para inserir o valor, escolher as moedas de origem e destino, e visualizar o resultado da conversão, além de manter um histórico das conversões realizadas.
 > 
@@ -253,7 +253,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### Calculadora Python
 
-![Tela do sistema](https://github.com/vitoriapguimaraes/Python-Calculadora/blob/main/results/calculate.gif)
+<img src="https://github.com/vitoriapguimaraes/Python-Calculadora/blob/main/results/calculate.gif" alt="Tela do sistema" width="800"/>
 
 > Realiza operações básicas com validação de entradas e tratamento de erros.
 >
