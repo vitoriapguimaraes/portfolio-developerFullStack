@@ -131,7 +131,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### Clone do Spotify
 
-<img src="https://github.com/vitoriapguimaraes/cloneSpotify-react/blob/main/results/display-PaginaSpotify.gif" alt="Tela do sistema" width="800"/>
+<img src="https://github.com/vitoriapguimaraes/cloneSpotify/blob/main/results/display-PaginaSpotify.gif" alt="Tela do sistema" width="800"/>
 
 > Recriação da interface do Spotify: página principal e busca de artistas.
 >
