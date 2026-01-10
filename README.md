@@ -41,7 +41,7 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | [Recicla Certo](#recicla-certo)                                         | Uma aplicação web que simplifica a reciclagem no dia a dia.                                 | Python, HTML, CSS, JavaScript                     | ✅     |
 | [ArcadeHub](#arcadehub)                                                 | Plataforma unificada de jogos clássicos e interativos modernizados.                         | React, Vite                                       | ✅     |
 | [Calculadora de Média](#calculadora-de-media)                           | Calculadora web para calcular a média de notas bimestrais.                                  | HTML, CSS, JavaScript                             | ✅     |
-| [Clone do Spotify com React](#clone-do-spotify-com-react)                                   | Recriação da interface do Spotify, focado em responsividade e UX.                           | HTML, CSS, JavaScript, React, Node.js             | 🛠️     |
+| [Clone do Spotify com React](#clone-do-spotify-com-react)                                   | Recriação da interface do Spotify, focado em responsividade e UX.                           | HTML, CSS, JavaScript, React, Node.js             | ✅     |
 | [Clone do Spotify](#clone-do-spotify)               | Recriação de uma parte interface do Spotify                                                 | HTML, CSS, JavaScript                             | ✅     |
 | [Instabytes](#instabytes)                                               | Gerenciamento de posts com upload de imagens e geração de descrições automáticas com IA.    | Node.js, Express, MongoDB, Multer, Gemini Service | 🛠️     |
 | [Conversor de Moeda](#conversor-de-moeda)                               | Aplicação para converter valores entre diferentes moedas/câmbeos.                           | HTML, CSS, JavaScript                             | ✅     |
@@ -119,11 +119,13 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### Clone do Spotify com React
 
+<img src="https://github.com/vitoriapguimaraes/cloneSpotify-react/blob/main/public/demos/screenshot_home.png" alt="Tela do sistema" width="800"/>
+
 > Recriação da interface do Spotify com foco em responsividade e experiência do usuário.
 >
 > **Tecnologias:** React, HTML, CSS, JavaScript
 >
-> 🛠️ Em manutenção
+> ✅ Concluído
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/cloneSpotify-react)
 
