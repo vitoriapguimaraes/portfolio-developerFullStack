@@ -12,8 +12,8 @@ Olá! 👋 Seja bem-vindo(a) ao meu portfólio, onde apresento uma coleção de 
 > > [![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 > > [![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 > > [![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-> >
-> > 🐍 **Linguagens e Frameworks**
+> 
+> 🐍 **Linguagens e Frameworks**
 >
 > > [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 > > [![Tkinter](https://img.shields.io/badge/Tkinter-000000?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/tkinter.html)
@@ -39,7 +39,7 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | :---------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :------------------------------------------------ | :----- |
 | [BookStack AI](#bookstack-ai)                                           | Gerenciamento de biblioteca pessoal com sugestões de IA e analytics.                        | React, Vite, FastAPI, SQLModel, Groq AI           | 🚧     |
 | [Recicla Fácil](#recicla-facil)                                         | Uma aplicação web que simplifica a reciclagem no dia a dia.                                 | Python, HTML, CSS, JavaScript                     | ✅     |
-| [ArcadeHub](#arcadehub)                                                 | Plataforma unificada de jogos clássicos e interativos modernizados.                         | React, Vite                                       | 🚧     |
+| [ArcadeHub](#arcadehub)                                                 | Plataforma unificada de jogos clássicos e interativos modernizados.                         | React, Vite                                       | ✅     |
 | [Calculadora de Média](#calculadora-de-media)                           | Calculadora web para calcular a média de notas bimestrais.                                  | HTML, CSS, JavaScript                             | ✅     |
 | [Clone da Página do Spotify](#clone-da-pagina-do-spotify)               | Recriação de uma parte interface do Spotify                                                 | HTML, CSS, JavaScript                             | ✅     |
 | [Clone do Spotify](#clone-do-spotify)                                   | Recriação da interface do Spotify, focado em responsividade e UX.                           | HTML, CSS, JavaScript, React, Node.js             | 🛠️     |
@@ -79,7 +79,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### ArcadeHub
 
-![Demonstração do ArcadeHub](https://github.com/vitoriapguimaraes/REPO_ON_WORKING/blob/main/results/arcadehub-demo.gif)
+![Demonstração do ArcadeHub](https://github.com/vitoriapguimaraes/arcadeHub/blob/main/demonstrations/printshot_home.png)
 
 > **ArcadeHub** é uma plataforma web moderna que consolida diversos jogos clássicos e interativos em uma única interface unificada. Este projeto representa a evolução e persistência no aprendizado de desenvolvimento Fullstack, migrando jogos originalmente criados em diferentes tecnologias (Python, JS puro, HTML/CSS) para uma aplicação React robusta e responsiva.
 >
@@ -87,9 +87,10 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 >
 > **Tecnologias:** React, Vite, CSS Modules, Lucide React
 >
-> 🚧 Em desenvolvimento
+> ✅ Concluído
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/arcadeHub)
+[![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-darkgreen?style=for-the-badge)](https://arcade-hub-alpha.vercel.app/)
 
 ### Recicla Facil
 
