@@ -38,11 +38,11 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | Projeto                                                                 | Descrição                                                                                   | Tecnologias Utilizadas                            | Status |
 | :---------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :------------------------------------------------ | :----- |
 | [BookStack AI](#bookstack-ai)                                           | Gerenciamento de biblioteca pessoal com sugestões de IA e analytics.                        | React, Vite, FastAPI, SQLModel, Groq AI           | 🚧     |
-| [Recicla Fácil](#recicla-facil)                                         | Uma aplicação web que simplifica a reciclagem no dia a dia.                                 | Python, HTML, CSS, JavaScript                     | ✅     |
+| [Recicla Certo](#recicla-certo)                                         | Uma aplicação web que simplifica a reciclagem no dia a dia.                                 | Python, HTML, CSS, JavaScript                     | ✅     |
 | [ArcadeHub](#arcadehub)                                                 | Plataforma unificada de jogos clássicos e interativos modernizados.                         | React, Vite                                       | ✅     |
 | [Calculadora de Média](#calculadora-de-media)                           | Calculadora web para calcular a média de notas bimestrais.                                  | HTML, CSS, JavaScript                             | ✅     |
-| [Clone da Página do Spotify](#clone-da-pagina-do-spotify)               | Recriação de uma parte interface do Spotify                                                 | HTML, CSS, JavaScript                             | ✅     |
-| [Clone do Spotify](#clone-do-spotify)                                   | Recriação da interface do Spotify, focado em responsividade e UX.                           | HTML, CSS, JavaScript, React, Node.js             | 🛠️     |
+| [Clone do Spotify com React](#clone-do-spotify-com-react)                                   | Recriação da interface do Spotify, focado em responsividade e UX.                           | HTML, CSS, JavaScript, React, Node.js             | ✅     |
+| [Clone do Spotify](#clone-do-spotify)               | Recriação de uma parte interface do Spotify                                                 | HTML, CSS, JavaScript                             | ✅     |
 | [Instabytes](#instabytes)                                               | Gerenciamento de posts com upload de imagens e geração de descrições automáticas com IA.    | Node.js, Express, MongoDB, Multer, Gemini Service | 🛠️     |
 | [Conversor de Moeda](#conversor-de-moeda)                               | Aplicação para converter valores entre diferentes moedas/câmbeos.                           | HTML, CSS, JavaScript                             | ✅     |
 | [Meu portifolio](#meu-portifolio)                                       | Meu site interativo com todo os meus portifólios.                                           | React                                             | 🚧     |
@@ -92,9 +92,9 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/arcadeHub)
 [![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-darkgreen?style=for-the-badge)](https://arcade-hub-alpha.vercel.app/)
 
-### Recicla Facil
+### Recicla Certo
 
-<img src="https://github.com/vitoriapguimaraes/Python-reciclaFacil/blob/main/results/display.gif" alt="Tela do sistema" width="800"/>
+<img src="https://github.com/vitoriapguimaraes/reciclaCerto/blob/main/results/display.gif" alt="Tela do sistema" width="800"/>
 
 > Uma aplicação web que simplifica a reciclagem no dia a dia, conectando o usuário a informações essenciais sobre descarte correto de resíduos e pontos de coleta próximos, utilizando Inteligência Artificial e mapas interativos.
 >
@@ -102,8 +102,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 >
 > ✅ Concluído
 
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Python-reciclaFacil)
-[![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-darkgreen?style=for-the-badge)](https://projetoreciclacerto.onrender.com/)
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/reciclaCerto)
 
 ### Calculadora de Media
 
@@ -118,9 +117,21 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-CalculadoraMedia)
 [![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-darkgreen?style=for-the-badge)](https://vitoriapguimaraes.github.io/HTML_CSS_Javascript-CalculadoraMedia/)
 
-### Clone da Pagina do Spotify
+### Clone do Spotify com React
 
-<img src="https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-PaginaSpotify/blob/main/results/display-PaginaSpotify.gif" alt="Tela do sistema" width="800"/>
+<img src="https://github.com/vitoriapguimaraes/cloneSpotify-react/blob/main/public/demos/screenshot_home.png" alt="Tela do sistema" width="800"/>
+
+> Recriação da interface do Spotify com foco em responsividade e experiência do usuário.
+>
+> **Tecnologias:** React, HTML, CSS, JavaScript
+>
+> ✅ Concluído
+
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/cloneSpotify-react)
+
+### Clone do Spotify
+
+<img src="https://github.com/vitoriapguimaraes/cloneSpotify-react/blob/main/results/display-PaginaSpotify.gif" alt="Tela do sistema" width="800"/>
 
 > Recriação da interface do Spotify: página principal e busca de artistas.
 >
@@ -128,17 +139,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 >
 > ✅ Concluído
 
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-PaginaSpotify)
-
-### Clone do Spotify
-
-> Recriação da interface do Spotify com foco em responsividade e experiência do usuário.
->
-> **Tecnologias:** React, HTML, CSS, JavaScript
->
-> 🛠️ Em manutenção
-
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript_React-CloneSpotify)
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/cloneSpotify)
 
 ### Instabytes
 
