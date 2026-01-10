@@ -38,8 +38,8 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | Projeto                                                                 | Descrição                                                                                   | Tecnologias Utilizadas                            | Status |
 | :---------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :------------------------------------------------ | :----- |
 | [BookStack AI](#bookstack-ai)                                           | Gerenciamento de biblioteca pessoal com sugestões de IA e analytics.                        | React, Vite, FastAPI, SQLModel, Groq AI           | 🚧     |
-| [Recicla Certo](#recicla-certo)                                         | Uma aplicação web que simplifica a reciclagem no dia a dia.                                 | Python, HTML, CSS, JavaScript                     | ✅     |
 | [ArcadeHub](#arcadehub)                                                 | Plataforma unificada de jogos clássicos e interativos modernizados.                         | React, Vite                                       | ✅     |
+| [Recicla Certo](#recicla-certo)                                         | Uma aplicação web que simplifica a reciclagem no dia a dia.                                 | Python, HTML, CSS, JavaScript                     | ✅     |
 | [Calculadora de Média](#calculadora-de-media)                           | Calculadora web para calcular a média de notas bimestrais.                                  | HTML, CSS, JavaScript                             | ✅     |
 | [Clone do Spotify com React](#clone-do-spotify-com-react)                                   | Recriação da interface do Spotify, focado em responsividade e UX.                           | HTML, CSS, JavaScript, React, Node.js             | ✅     |
 | [Clone do Spotify](#clone-do-spotify)               | Recriação de uma parte interface do Spotify                                                 | HTML, CSS, JavaScript                             | ✅     |
@@ -81,9 +81,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ![Demonstração do ArcadeHub](https://github.com/vitoriapguimaraes/arcadeHub/blob/main/demonstrations/printshot_home.png)
 
-> **ArcadeHub** é uma plataforma web moderna que consolida diversos jogos clássicos e interativos em uma única interface unificada. Este projeto representa a evolução e persistência no aprendizado de desenvolvimento Fullstack, migrando jogos originalmente criados em diferentes tecnologias (Python, JS puro, HTML/CSS) para uma aplicação React robusta e responsiva.
->
-> **Jogos Incluídos:** Força (Hangman), Cabo de Guerra (LoL), Jogo da Ponte, Adivinhação, Jokenpô.
+> **ArcadeHub** é uma plataforma web moderna que consolida diversos jogos clássicos e interativos em uma única interface unificada. **Jogos Incluídos:** Força (Hangman), Cabo de Guerra (LoL), Jogo da Ponte, Adivinhação, Jokenpô.
 >
 > **Tecnologias:** React, Vite, CSS Modules, Lucide React
 >
@@ -131,7 +129,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### Clone do Spotify
 
-<img src="https://github.com/vitoriapguimaraes/cloneSpotify-react/blob/main/results/display-PaginaSpotify.gif" alt="Tela do sistema" width="800"/>
+<img src="https://github.com/vitoriapguimaraes/cloneSpotify/blob/main/results/display-PaginaSpotify.gif" alt="Tela do sistema" width="800"/>
 
 > Recriação da interface do Spotify: página principal e busca de artistas.
 >
