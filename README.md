@@ -33,6 +33,11 @@ Olá! 👋 Seja bem-vindo(a) ao meu portfólio, onde apresento uma coleção de 
 
 ## Resumo dos Projetos
 
+![Total](https://img.shields.io/badge/Total-16-blue?style=for-the-badge&logo=github)
+![Concluídos](https://img.shields.io/badge/Concluídos-8-green?style=for-the-badge)
+![Em Desenvolvimento](https://img.shields.io/badge/Em_Desenvolvimento-3-yellow?style=for-the-badge)
+![Em Manutenção](https://img.shields.io/badge/Em_Manutenção-5-orange?style=for-the-badge)
+
 Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacando seu status, as principais tecnologias utilizadas e uma breve descrição de cada um.
 
 | Projeto                                                                 | Descrição                                                                                   | Tecnologias Utilizadas                            | Status |
