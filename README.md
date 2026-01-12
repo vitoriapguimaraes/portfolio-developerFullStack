@@ -79,7 +79,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### Mathematics Hub
 
-![Demonstração do MathematicsHub](https://github.com/vitoriapguimaraes/mathematicsHub/blob/main/public/demo/navigation.gif)
+![Demonstração do MathematicsHub](https://github.com/vitoriapguimaraes/mathematicsHub/blob/main/demo/navigation.gif)
 
 > Um hub unificado que consolida três ferramentas essenciais (Calculadora de Média, Conversor de Moedas e Calculadora Básica) em uma única interface web moderna e responsiva. O projeto evolui ferramentas de aprendizado anteriores para um design premium com Glassmorphism.
 >
