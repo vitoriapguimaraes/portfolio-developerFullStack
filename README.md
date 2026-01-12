@@ -38,6 +38,7 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | Projeto                                                                 | Descrição                                                                                   | Tecnologias Utilizadas                            | Status |
 | :---------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :------------------------------------------------ | :----- |
 | [BookStack AI](#bookstack-ai)                                           | Gerenciamento de biblioteca pessoal com sugestões de IA e analytics.                        | React, Vite, FastAPI, SQLModel, Groq AI           | 🚧     |
+| [Utilitários Consolidados](#utilitarios-consolidados)                   | Hub de ferramentas de automação (PDF, Áudio, Imagens) com IA.                               | Python, Streamlit, OpenAI, Groq                   | ✅     |
 | [ArcadeHub](#arcadehub)                                                 | Plataforma unificada de jogos clássicos e interativos modernizados.                         | React, Vite                                       | ✅     |
 | [Mathematics Hub](#mathematics-hub)                                     | Hub unificado com 3 ferramentas (Média, Conversor, Calculadora) em interface premium.       | HTML5, CSS3, JS, Ionicons                         | ✅     |
 | [Recicla Certo](#recicla-certo)                                         | Uma aplicação web que simplifica a reciclagem no dia a dia.                                 | Python, HTML, CSS, JavaScript                     | ✅     |
@@ -75,6 +76,18 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/bookstack-ai)
 [![Ver Site](https://img.shields.io/badge/Ver%20Site-darkgreen?style=for-the-badge)](https://bookstack-ai.vercel.app/)
+
+### Utilitários Consolidados
+
+<img src="https://github.com/vitoriapguimaraes/productivityHub/blob/main/demo/navigation.gif" alt="Demonstração do sistema" width="600"/>
+
+> Uma aplicação unificada em Streamlit que reúne diversas ferramentas essenciais para automação de tarefas diárias, como manipulação de PDFs, gerenciamento de arquivos e transcrição de áudio com IA.
+>
+> **Tecnologias:** Streamlit, Python, OpenAI API, Groq API, Pandas, Plotly
+>
+> 🌱 Em constante evolução
+
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Python-ProductivityHub)
 
 ### ArcadeHub
 
