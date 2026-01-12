@@ -12,7 +12,7 @@ Olá! 👋 Seja bem-vindo(a) ao meu portfólio, onde apresento uma coleção de 
 > > [![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 > > [![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 > > [![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-> 
+>
 > 🐍 **Linguagens e Frameworks**
 >
 > > [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -35,24 +35,23 @@ Olá! 👋 Seja bem-vindo(a) ao meu portfólio, onde apresento uma coleção de 
 
 Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacando seu status, as principais tecnologias utilizadas e uma breve descrição de cada um.
 
-| Projeto                                                                 | Descrição                                                                                   | Tecnologias Utilizadas                            | Status |
-| :---------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :------------------------------------------------ | :----- |
-| [BookStack AI](#bookstack-ai)                                           | Gerenciamento de biblioteca pessoal com sugestões de IA e analytics.                        | React, Vite, FastAPI, SQLModel, Groq AI           | 🚧     |
-| [ArcadeHub](#arcadehub)                                                 | Plataforma unificada de jogos clássicos e interativos modernizados.                         | React, Vite                                       | ✅     |
-| [Recicla Certo](#recicla-certo)                                         | Uma aplicação web que simplifica a reciclagem no dia a dia.                                 | Python, HTML, CSS, JavaScript                     | ✅     |
-| [Calculadora de Média](#calculadora-de-media)                           | Calculadora web para calcular a média de notas bimestrais.                                  | HTML, CSS, JavaScript                             | ✅     |
-| [Clone do Spotify com React](#clone-do-spotify-com-react)                                   | Recriação da interface do Spotify, focado em responsividade e UX.                           | HTML, CSS, JavaScript, React, Node.js             | ✅     |
-| [Clone do Spotify](#clone-do-spotify)               | Recriação de uma parte interface do Spotify                                                 | HTML, CSS, JavaScript                             | ✅     |
-| [Instabytes](#instabytes)                                               | Gerenciamento de posts com upload de imagens e geração de descrições automáticas com IA.    | Node.js, Express, MongoDB, Multer, Gemini Service | 🛠️     |
-| [Conversor de Moeda](#conversor-de-moeda)                               | Aplicação para converter valores entre diferentes moedas/câmbeos.                           | HTML, CSS, JavaScript                             | ✅     |
-| [Meu portifolio](#meu-portifolio)                                       | Meu site interativo com todo os meus portifólios.                                           | React                                             | 🚧     |
-| [APP SOS Cancer](#app-sos-cancer)                                       | Projeto voluntário para desenvolvimento web e mobile para ONG de Pongaí.                    | React. React Native                               | 🚧     |
-| [TechTaste](#techtaste)                                                 | Minha primeira aplicação mobile com flutter. Um APP como o ifood.                           | Flutter                                           | ✅     |
-| [Automação de Cadastro de Produtos](#automacao-de-cadastro-de-produtos) | Automatiza o cadastro de produtos em site de vendas com dados de um CSV.                    | Python, PyAutoGUI, Pandas                         | 🛠️     |
-| [Automação de Backup](#automacao-de-backup)                             | Realiza backups de arquivos e pastas com organização por data e hora.                       | Python, OS, Shutil, Tkinter                       | 🛠️     |
-| [HashZap](#hashzap)                                                     | Chat em tempo real para múltiplos usuários com Flask-SocketIO e versão alternativa em Flet. | Python, Flask-SocketIO, Flet                      | 🛠️     |
-| [Relatório de Dados por E-mail](#relatorio-de-dados-por-email)          | Automatiza envio de relatórios de vendas em HTML por e-mail.                                | Python, Pandas, win32com.client                   | 🛠️     |
-| [Calculadora Python](#calculadora-python)                               | Calculadora de operações básicas com tratamento de erros.                                   | Python, HTML, CSS, JavaScript                     | ✅     |
+| Projeto                                                   | Descrição                                                                                | Tecnologias Utilizadas                            | Status |
+| :-------------------------------------------------------- | :--------------------------------------------------------------------------------------- | :------------------------------------------------ | :----- |
+| [BookStack AI](#bookstack-ai)                             | Gerenciamento de biblioteca pessoal com sugestões de IA e analytics.                     | React, Vite, FastAPI, SQLModel, Groq AI           | 🚧     |
+| [Recicla Certo](#recicla-certo)                           | Uma aplicação web que simplifica a reciclagem no dia a dia.                              | Python, HTML, CSS, JavaScript                     | ✅     |
+| [ArcadeHub](#arcadehub)                                   | Plataforma unificada de jogos clássicos e interativos modernizados.                      | React, Vite                                       | ✅     |
+| [Mathematics Hub](#mathematics-hub)                       | Hub unificado com 3 ferramentas (Média, Conversor, Calculadora) em interface premium.    | HTML5, CSS3, JS, Ionicons                         | 🚧     |
+| [Clone do Spotify com React](#clone-do-spotify-com-react) | Recriação da interface do Spotify, focado em responsividade e UX.                        | HTML, CSS, JavaScript, React, Node.js             | ✅     |
+| [Clone do Spotify](#clone-do-spotify)                     | Recriação de uma parte interface do Spotify                                              | HTML, CSS, JavaScript                             | ✅     |
+| [Instabytes](#instabytes)                                 | Gerenciamento de posts com upload de imagens e geração de descrições automáticas com IA. | Node.js, Express, MongoDB, Multer, Gemini Service | 🛠️     |
+
+| [Meu portifolio](#meu-portifolio) | Meu site interativo com todo os meus portifólios. | React | 🚧 |
+| [APP SOS Cancer](#app-sos-cancer) | Projeto voluntário para desenvolvimento web e mobile para ONG de Pongaí. | React. React Native | 🚧 |
+| [TechTaste](#techtaste) | Minha primeira aplicação mobile com flutter. Um APP como o ifood. | Flutter | ✅ |
+| [Automação de Cadastro de Produtos](#automacao-de-cadastro-de-produtos) | Automatiza o cadastro de produtos em site de vendas com dados de um CSV. | Python, PyAutoGUI, Pandas | 🛠️ |
+| [Automação de Backup](#automacao-de-backup) | Realiza backups de arquivos e pastas com organização por data e hora. | Python, OS, Shutil, Tkinter | 🛠️ |
+| [HashZap](#hashzap) | Chat em tempo real para múltiplos usuários com Flask-SocketIO e versão alternativa em Flet. | Python, Flask-SocketIO, Flet | 🛠️ |
+| [Relatório de Dados por E-mail](#relatorio-de-dados-por-email) | Automatiza envio de relatórios de vendas em HTML por e-mail. | Python, Pandas, win32com.client | 🛠️ |
 
 > 🧭 Legenda dos Status: <br>
 >
@@ -66,7 +65,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### BookStack AI
 
-<img src="https://github.com/vitoriapguimaraes/bookstack-ai/blob/main/demonstrations/screenshot_home.png" alt="Tela do sistema" width="800"/>
+<img src="https://github.com/vitoriapguimaraes/bookstack-ai/blob/main/frontend/public/demo/navegation.gif" alt="Tela do sistema" width="600"/>
 
 > Um sistema completo de gerenciamento de biblioteca pessoal com classificação hierárquica, sugestões inteligentes de IA e analytics avançados. Organize sua lista de leitura, acompanhe seu progresso, defina metas anuais e exporte showcases visuais da sua estante.
 >
@@ -92,7 +91,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### Recicla Certo
 
-<img src="https://github.com/vitoriapguimaraes/reciclaCerto/blob/main/results/display.gif" alt="Tela do sistema" width="800"/>
+<img src="https://github.com/vitoriapguimaraes/reciclaCerto/blob/main/results/display.gif" alt="Tela do sistema" width="600"/>
 
 > Uma aplicação web que simplifica a reciclagem no dia a dia, conectando o usuário a informações essenciais sobre descarte correto de resíduos e pontos de coleta próximos, utilizando Inteligência Artificial e mapas interativos.
 >
@@ -102,22 +101,19 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/reciclaCerto)
 
-### Calculadora de Media
+### Mathematics Hub
 
-<img src="https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-CalculadoraMedia/blob/main/results/calculate.gif" alt="Tela do sistema" width="800"/>
-
-> Uma aplicação web que permite calcular a média aritmética das notas de um aluno de forma simples e intuitiva.
+> Um hub unificado que consolida três ferramentas essenciais (Calculadora de Média, Conversor de Moedas e Calculadora Básica) em uma única interface web moderna e responsiva. O projeto evolui ferramentas de aprendizado anteriores para um design premium com Glassmorphism.
 >
-> **Tecnologias:** HTML, CSS, JavaScript
+> **Tecnologias:** HTML5, CSS3, JavaScript (ES6+), Ionicons
 >
-> ✅ Concluído
+> 🚧 Em desenvolvimento
 
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-CalculadoraMedia)
-[![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-darkgreen?style=for-the-badge)](https://vitoriapguimaraes.github.io/HTML_CSS_Javascript-CalculadoraMedia/)
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/mathematicsHub)
 
 ### Clone do Spotify com React
 
-<img src="https://github.com/vitoriapguimaraes/cloneSpotify-react/blob/main/public/demos/screenshot_home.png" alt="Tela do sistema" width="800"/>
+<img src="https://github.com/vitoriapguimaraes/cloneSpotify-react/blob/main/public/demos/screenshot_home.png" alt="Tela do sistema" width="600"/>
 
 > Recriação da interface do Spotify com foco em responsividade e experiência do usuário.
 >
@@ -129,7 +125,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### Clone do Spotify
 
-<img src="https://github.com/vitoriapguimaraes/cloneSpotify/blob/main/results/display-PaginaSpotify.gif" alt="Tela do sistema" width="800"/>
+<img src="https://github.com/vitoriapguimaraes/cloneSpotify/blob/main/results/display-PaginaSpotify.gif" alt="Tela do sistema" width="600"/>
 
 > Recriação da interface do Spotify: página principal e busca de artistas.
 >
@@ -148,19 +144,6 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 > 🛠️ Em manutenção
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Nodejs-Instabytes)
-
-### Conversor de Moeda
-
-<img src="https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-ConversorMoeda/blob/main/results/converter.gif" alt="Tela do sistema" width="800"/>
-
-> O projeto oferece uma interface intuitiva para inserir o valor, escolher as moedas de origem e destino, e visualizar o resultado da conversão, além de manter um histórico das conversões realizadas.
->
-> **Tecnologias:** HTML, CSS, JavaScript
->
-> ✅ Concluído
-
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-ConversorMoeda)
-[![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-lightgray?style=for-the-badge)](https://vitoriapguimaraes.github.io/HTML_CSS_Javascript-ConversorMoeda/)
 
 ### Meu portifolio
 
@@ -233,19 +216,6 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 > 🛠️ Em manutenção
 
 [![Acesse o Repositório](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Python-EnvioRelatorioDadosEmail)
-
-### Calculadora Python
-
-<img src="https://github.com/vitoriapguimaraes/Python-Calculadora/blob/main/results/calculate.gif" alt="Tela do sistema" width="800"/>
-
-> Realiza operações básicas com validação de entradas e tratamento de erros.
->
-> **Tecnologias:** Python, HTML, CSS, JavaScript
->
-> ✅ Concluído
-
-[![Acesse o Repositório](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Python-Calculadora)
-[![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-darkgreen?style=for-the-badge)](https://python-calculadora.onrender.com/)
 
 ---
 
