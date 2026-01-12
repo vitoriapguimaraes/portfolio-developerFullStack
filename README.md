@@ -6,15 +6,26 @@ Olá! 👋 Seja bem-vindo(a) ao meu portfólio, onde apresento uma coleção de 
 
 > 🌐 **Desenvolvimento Web**
 >
-> > [![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) > > [![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) > > [![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) > > [![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) > > [![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/) > > [![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+> > [![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+> > [![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+> > [![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+> > [![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+> > [![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+> > [![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 >
 > 🐍 **Linguagens e Frameworks**
 >
-> > [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) > > [![Tkinter](https://img.shields.io/badge/Tkinter-000000?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/tkinter.html) > > [![Flet](https://img.shields.io/badge/Flet-000000?style=for-the-badge&logo=python&logoColor=white)](https://flet.dev/) > > [![Flask-SocketIO](https://img.shields.io/badge/Flask--SocketIO-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask-socketio.readthedocs.io/)
+> > [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+> > [![Tkinter](https://img.shields.io/badge/Tkinter-000000?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/tkinter.html)
+> > [![Flet](https://img.shields.io/badge/Flet-000000?style=for-the-badge&logo=python&logoColor=white)](https://flet.dev/)
+> > [![Flask-SocketIO](https://img.shields.io/badge/Flask--SocketIO-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask-socketio.readthedocs.io/)
 >
 > 📊 **Análise, Manipulação e Visualização de Dados**
 >
-> > [![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) > > [![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) > > [![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge)](https://matplotlib.org/) > > [![Plotly](https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
+> > [![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+> > [![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+> > [![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge)](https://matplotlib.org/)
+> > [![Plotly](https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 >
 > ⚙️ **Automação**
 >
