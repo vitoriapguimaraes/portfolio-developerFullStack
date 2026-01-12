@@ -41,6 +41,7 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | [ArcadeHub](#arcadehub)                                                 | Plataforma unificada de jogos clássicos e interativos modernizados.                         | React, Vite                                       | ✅     |
 | [Mathematics Hub](#mathematics-hub)                                     | Hub unificado com 3 ferramentas (Média, Conversor, Calculadora) em interface premium.       | HTML5, CSS3, JS, Ionicons                         | ✅     |
 | [Recicla Certo](#recicla-certo)                                         | Uma aplicação web que simplifica a reciclagem no dia a dia.                                 | Python, HTML, CSS, JavaScript                     | ✅     |
+| [MediApp](#mediapp)                                                     | Sistema de gestão médica com prontuários, receitas e agendamento.                           | Next.js, Node.js, MongoDB                         | ✅     |
 | [Clone do Spotify com React](#clone-do-spotify-com-react)               | Recriação da interface do Spotify, focado em responsividade e UX.                           | HTML, CSS, JavaScript, React, Node.js             | ✅     |
 | [Clone do Spotify](#clone-do-spotify)                                   | Recriação de uma parte interface do Spotify                                                 | HTML, CSS, JavaScript                             | ✅     |
 | [Instabytes](#instabytes)                                               | Gerenciamento de posts com upload de imagens e geração de descrições automáticas com IA.    | Node.js, Express, MongoDB, Multer, Gemini Service | 🛠️     |
@@ -77,7 +78,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### ArcadeHub
 
-![Demonstração do ArcadeHub](https://github.com/vitoriapguimaraes/arcadeHub/blob/main/public/demo/navigation.gif)
+<img src="https://github.com/vitoriapguimaraes/arcadeHub/blob/main/public/demo/navigation.gif" alt="Demonstração do ArcadeHub" width="600"/>
 
 > **ArcadeHub** é uma plataforma web moderna que consolida diversos jogos clássicos e interativos em uma única interface unificada. **Jogos Incluídos:** Força (Hangman), Cabo de Guerra (LoL), Jogo da Ponte, Adivinhação, Jokenpô.
 >
@@ -90,7 +91,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### Mathematics Hub
 
-![Demonstração do MathematicsHub](https://github.com/vitoriapguimaraes/mathematicsHub/blob/main/demo/navigation.gif)
+<img src="https://github.com/vitoriapguimaraes/mathematicsHub/blob/main/demo/navigation.gif" alt="Demonstração do MathematicsHub" width="600"/>
 
 > Um hub unificado que consolida três ferramentas essenciais (Calculadora de Média, Conversor de Moedas e Calculadora Básica) em uma única interface web moderna e responsiva. O projeto evolui ferramentas de aprendizado anteriores para um design premium com Glassmorphism.
 >
@@ -112,6 +113,18 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 > ✅ Concluído
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/reciclaCerto)
+
+### MediApp
+
+<img src="https://github.com/vitoriapguimaraes/medicalRecord/blob/main/docs/ConsultorioMedico-drawio.png" alt="Arquitetura do Sistema" width="600"/>
+
+> Sistema completo para gerenciamento de consultórios médicos, facilitando o agendamento de consultas, organização de prontuários eletrônicos e administração de pacientes.
+>
+> **Tecnologias:** Next.js 14, TypeScript, Tailwind CSS, Node.js, Express, MongoDB
+>
+> ✅ Concluído
+
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/medicalRecord)
 
 ### Clone do Spotify com React
 
