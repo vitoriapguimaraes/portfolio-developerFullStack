@@ -77,7 +77,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### ArcadeHub
 
-![Demonstração do ArcadeHub](https://github.com/vitoriapguimaraes/arcadeHub/blob/main/demonstrations/printshot_home.png)
+![Demonstração do ArcadeHub](https://github.com/vitoriapguimaraes/arcadeHub/blob/main/public/demo/navigation.gif)
 
 > **ArcadeHub** é uma plataforma web moderna que consolida diversos jogos clássicos e interativos em uma única interface unificada. **Jogos Incluídos:** Força (Hangman), Cabo de Guerra (LoL), Jogo da Ponte, Adivinhação, Jokenpô.
 >
