@@ -40,24 +40,24 @@ Olá! 👋 Seja bem-vindo(a) ao meu portfólio, onde apresento uma coleção de 
 
 Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacando seu status, as principais tecnologias utilizadas e uma breve descrição de cada um.
 
-| Projeto                                                                 | Descrição                                                                                   | Tecnologias Utilizadas                            | Status |
-| :---------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :------------------------------------------------ | :----- |
-| [BookStack AI](#bookstack-ai)                                           | Gerenciamento de biblioteca pessoal com sugestões de IA e analytics.                        | React, Vite, FastAPI, SQLModel, Groq AI           | 🚧     |
-| [Utilitários Consolidados](#utilitarios-consolidados)                   | Hub de ferramentas de automação (PDF, Áudio, Imagens) com IA.                               | Python, Streamlit, OpenAI, Groq                   | ✅     |
-| [ArcadeHub](#arcadehub)                                                 | Plataforma unificada de jogos clássicos e interativos modernizados.                         | React, Vite                                       | ✅     |
-| [Mathematics Hub](#mathematics-hub)                                     | Hub unificado com 3 ferramentas (Média, Conversor, Calculadora) em interface premium.       | HTML5, CSS3, JS, Ionicons                         | ✅     |
-| [Recicla Certo](#recicla-certo)                                         | Uma aplicação web que simplifica a reciclagem no dia a dia.                                 | Python, HTML, CSS, JavaScript                     | ✅     |
-| [MediApp](#mediapp)                                                     | Sistema de gestão médica com prontuários, receitas e agendamento.                           | Next.js, Node.js, MongoDB                         | ✅     |
-| [Clone do Spotify com React](#clone-do-spotify-com-react)               | Recriação da interface do Spotify, focado em responsividade e UX.                           | HTML, CSS, JavaScript, React, Node.js             | ✅     |
-| [Clone do Spotify](#clone-do-spotify)                                   | Recriação de uma parte interface do Spotify                                                 | HTML, CSS, JavaScript                             | ✅     |
-| [Instabytes](#instabytes)                                               | Gerenciamento de posts com upload de imagens e geração de descrições automáticas com IA.    | Node.js, Express, MongoDB, Multer, Gemini Service | 🛠️     |
-| [Meu Portfolio](#meu-portfolio)                                         | Meu site interativo com todos os meus portfólios.                                           | React                                             | 🚧     |
-| [APP SOS Cancer](#app-sos-cancer)                                       | Projeto voluntário para desenvolvimento web e mobile para ONG de Pongaí.                    | React. React Native                               | 🚧     |
-| [TechTaste](#techtaste)                                                 | Minha primeira aplicação mobile com flutter. Um APP como o ifood.                           | Flutter                                           | ✅     |
-| [Automação de Cadastro de Produtos](#automacao-de-cadastro-de-produtos) | Automatiza o cadastro de produtos em site de vendas com dados de um CSV.                    | Python, PyAutoGUI, Pandas                         | 🛠️     |
-| [Automação de Backup](#automacao-de-backup)                             | Realiza backups de arquivos e pastas com organização por data e hora.                       | Python, OS, Shutil, Tkinter                       | 🛠️     |
-| [HashZap](#hashzap)                                                     | Chat em tempo real para múltiplos usuários com Flask-SocketIO e versão alternativa em Flet. | Python, Flask-SocketIO, Flet                      | 🛠️     |
-| [Relatório de Dados por E-mail](#relatorio-de-dados-por-email)          | Automatiza envio de relatórios de vendas em HTML por e-mail.                                | Python, Pandas, win32com.client                   | 🛠️     |
+| Projeto                                                                 | Descrição                                                                                   | Tecnologias Utilizadas                     | Status |
+| :---------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :----------------------------------------- | :----- |
+| [BookStack AI](#bookstack-ai)                                           | Gerenciamento de biblioteca pessoal com sugestões de IA e analytics.                        | React, Vite, FastAPI, SQLModel, Groq AI    | 🚧     |
+| [Utilitários Consolidados](#utilitarios-consolidados)                   | Hub de ferramentas de automação (PDF, Áudio, Imagens) com IA.                               | Python, Streamlit, OpenAI, Groq            | ✅     |
+| [ArcadeHub](#arcadehub)                                                 | Plataforma unificada de jogos clássicos e interativos modernizados.                         | React, Vite                                | ✅     |
+| [Mathematics Hub](#mathematics-hub)                                     | Hub unificado com 3 ferramentas (Média, Conversor, Calculadora) em interface premium.       | HTML5, CSS3, JS, Ionicons                  | ✅     |
+| [Recicla Certo](#recicla-certo)                                         | Uma aplicação web que simplifica a reciclagem no dia a dia.                                 | Python, HTML, CSS, JavaScript              | ✅     |
+| [InstaCode](#instacode)                                               | Portfólio profissional interativo com backend IA e galeria de projetos.                     | HTML5, CSS3, JS, Node.js, Express, MongoDB | ✅     |
+| [MediApp](#mediapp)                                                     | Sistema de gestão médica com prontuários, receitas e agendamento.                           | Next.js, Node.js, MongoDB                  | ✅     |
+| [Clone do Spotify com React](#clone-do-spotify-com-react)               | Recriação da interface do Spotify, focado em responsividade e UX.                           | HTML, CSS, JavaScript, React, Node.js      | ✅     |
+| [Clone do Spotify](#clone-do-spotify)                                   | Recriação de uma parte interface do Spotify                                                 | HTML, CSS, JavaScript                      | ✅     |
+| [Meu Portfolio](#meu-portfolio)                                         | Meu site interativo com todos os meus portfólios.                                           | React                                      | 🚧     |
+| [APP SOS Cancer](#app-sos-cancer)                                       | Projeto voluntário para desenvolvimento web e mobile para ONG de Pongaí.                    | React. React Native                        | 🚧     |
+| [TechTaste](#techtaste)                                                 | Minha primeira aplicação mobile com flutter. Um APP como o ifood.                           | Flutter                                    | ✅     |
+| [Automação de Cadastro de Produtos](#automacao-de-cadastro-de-produtos) | Automatiza o cadastro de produtos em site de vendas com dados de um CSV.                    | Python, PyAutoGUI, Pandas                  | 🛠️     |
+| [Automação de Backup](#automacao-de-backup)                             | Realiza backups de arquivos e pastas com organização por data e hora.                       | Python, OS, Shutil, Tkinter                | 🛠️     |
+| [HashZap](#hashzap)                                                     | Chat em tempo real para múltiplos usuários com Flask-SocketIO e versão alternativa em Flet. | Python, Flask-SocketIO, Flet               | 🛠️     |
+| [Relatório de Dados por E-mail](#relatorio-de-dados-por-email)          | Automatiza envio de relatórios de vendas em HTML por e-mail.                                | Python, Pandas, win32com.client            | 🛠️     |
 
 > 🧭 Legenda dos Status: <br>
 >
@@ -132,6 +132,19 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/reciclaCerto)
 
+### InstaCode
+
+<img src="https://github.com/vitoriapguimaraes/instaCode/blob/main/demo/navigation.gif" alt="Tela do sistema" width="600"/>
+
+> Meu portfólio profissional interativo inspirado no design do site do Instagram, desenvolvido para demonstrar minhas habilidades em desenvolvimento Full Stack. O projeto exibe meus principais trabalhos em uma interface moderna e responsiva, utilizando um backend robusto para gerenciamento de conteúdo e integração com IA.
+>
+> **Tecnologias:** HTML5, CSS3, JavaScript, Node.js, Express, MongoDB, Gemini AI
+>
+> ✅ Concluído
+
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Nodejs-Instabytes)
+[![Ver Site](https://img.shields.io/badge/Ver%20Site-darkgreen?style=for-the-badge)](https://instacode-web-peach.vercel.app/)
+
 ### MediApp
 
 <img src="https://github.com/vitoriapguimaraes/medicalRecord/blob/main/docs/ConsultorioMedico-drawio.png" alt="Arquitetura do Sistema" width="600"/>
@@ -168,16 +181,6 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/cloneSpotify)
 
-### Instabytes
-
-> Aplicação backend para gerenciar posts com suporte a upload de imagens e geração de descrições automáticas, utilizando IA e banco de dados MongoDB.
->
-> **Tecnologias:** Node.js, Express, MongoDB, Multer, Gemini Service
->
-> 🛠️ Em manutenção
-
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Nodejs-Instabytes)
-
 ### Meu Portfolio
 
 > Meu site portfólio para mostrar todos meus projetos
@@ -200,9 +203,9 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### TechTaste
 
-<img src="https://github.com/vitoriapguimaraes/Flutter-TechTaste/blob/main/software_view.gif?raw=true" alt="Tela do sistema" width="400"/>
+<img src="https://github.com/vitoriapguimaraes/Flutter-TechTaste/blob/main/software_view.gif?raw=true" alt="Tela do sistema" height="400"/>
 
-> Minha primeira aplicação mobile com flutter. Um APP como o ifood.
+> Minha primeira aplicação mobile com flutter. Um APP como o iFood.
 >
 > **Tecnologias:** Flutter
 >
