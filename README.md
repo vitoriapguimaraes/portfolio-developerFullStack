@@ -80,9 +80,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ![Demonstração do ArcadeHub](https://github.com/vitoriapguimaraes/arcadeHub/blob/main/demonstrations/printshot_home.png)
 
-> **ArcadeHub** é uma plataforma web moderna que consolida diversos jogos clássicos e interativos em uma única interface unificada. Este projeto representa a evolução e persistência no aprendizado de desenvolvimento Fullstack, migrando jogos originalmente criados em diferentes tecnologias (Python, JS puro, HTML/CSS) para uma aplicação React robusta e responsiva.
->
-> **Jogos Incluídos:** Força (Hangman), Cabo de Guerra (LoL), Jogo da Ponte, Adivinhação, Jokenpô.
+> **ArcadeHub** é uma plataforma web moderna que consolida diversos jogos clássicos e interativos em uma única interface unificada. **Jogos Incluídos:** Força (Hangman), Cabo de Guerra (LoL), Jogo da Ponte, Adivinhação, Jokenpô.
 >
 > **Tecnologias:** React, Vite, CSS Modules, Lucide React
 >
