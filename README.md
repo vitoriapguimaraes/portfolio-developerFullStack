@@ -44,7 +44,6 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | [Clone do Spotify com React](#clone-do-spotify-com-react) | Recriação da interface do Spotify, focado em responsividade e UX.                        | HTML, CSS, JavaScript, React, Node.js             | ✅     |
 | [Clone do Spotify](#clone-do-spotify)                     | Recriação de uma parte interface do Spotify                                              | HTML, CSS, JavaScript                             | ✅     |
 | [Instabytes](#instabytes)                                 | Gerenciamento de posts com upload de imagens e geração de descrições automáticas com IA. | Node.js, Express, MongoDB, Multer, Gemini Service | 🛠️     |
-
 | [Meu portifolio](#meu-portifolio) | Meu site interativo com todo os meus portifólios. | React | 🚧 |
 | [APP SOS Cancer](#app-sos-cancer) | Projeto voluntário para desenvolvimento web e mobile para ONG de Pongaí. | React. React Native | 🚧 |
 | [TechTaste](#techtaste) | Minha primeira aplicação mobile com flutter. Um APP como o ifood. | Flutter | ✅ |
@@ -65,7 +64,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### BookStack AI
 
-<img src="https://github.com/vitoriapguimaraes/bookstack-ai/blob/main/frontend/public/demo/navegation.gif" alt="Tela do sistema" width="600"/>
+<img src="https://github.com/vitoriapguimaraes/bookstack-ai/blob/main/frontend/public/demo/navigation.gif" alt="Tela do sistema" width="600"/>
 
 > Um sistema completo de gerenciamento de biblioteca pessoal com classificação hierárquica, sugestões inteligentes de IA e analytics avançados. Organize sua lista de leitura, acompanhe seu progresso, defina metas anuais e exporte showcases visuais da sua estante.
 >
@@ -78,7 +77,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### ArcadeHub
 
-![Demonstração do ArcadeHub](https://github.com/vitoriapguimaraes/arcadeHub/blob/main/demonstrations/printshot_home.png)
+![Demonstração do ArcadeHub](https://github.com/vitoriapguimaraes/arcadeHub/blob/main/public/demo/navigation.gif)
 
 > **ArcadeHub** é uma plataforma web moderna que consolida diversos jogos clássicos e interativos em uma única interface unificada. **Jogos Incluídos:** Força (Hangman), Cabo de Guerra (LoL), Jogo da Ponte, Adivinhação, Jokenpô.
 >
