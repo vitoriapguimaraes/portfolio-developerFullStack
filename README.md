@@ -100,7 +100,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 > ✅ Concluído
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/mathematicsHub)
-[![Ver Site](https://img.shields.io/badge/Ver%20Site-darkgreen?style=for-the-badge)](https://vitoriapguimaraes.github.io/mathematicsHub/
+[![Ver Site](https://img.shields.io/badge/Ver%20Site-darkgreen?style=for-the-badge)](https://vitoriapguimaraes.github.io/mathematicsHub/)
 
 ### Recicla Certo
 
