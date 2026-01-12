@@ -64,7 +64,7 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### BookStack AI
 
-<img src="https://github.com/vitoriapguimaraes/bookstack-ai/blob/main/frontend/public/demo/navigation.gif" alt="Tela do sistema" width="600"/>
+<img src="https://github.com/vitoriapguimaraes/bookstack-ai/blob/main/frontend/public/demo/navegation.gif" alt="Tela do sistema" width="600"/>
 
 > Um sistema completo de gerenciamento de biblioteca pessoal com classificação hierárquica, sugestões inteligentes de IA e analytics avançados. Organize sua lista de leitura, acompanhe seu progresso, defina metas anuais e exporte showcases visuais da sua estante.
 >
