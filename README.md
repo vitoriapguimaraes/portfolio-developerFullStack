@@ -49,12 +49,12 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | [Mathematics Hub](#mathematics-hub)                                     | Hub unificado com 3 ferramentas (Média, Conversor, Calculadora) em interface premium.       | HTML5, CSS3, JS, Ionicons                  | ✅     |
 | [InstaCode](#instacode)                                                 | Portfólio profissional interativo com backend IA e galeria de projetos.                     | HTML5, CSS3, JS, Node.js, Express, MongoDB | 🌱     |
 | [Recicla Certo](#recicla-certo)                                         | Uma aplicação web que simplifica a reciclagem no dia a dia.                                 | Python, HTML, CSS, JavaScript              | ✅     |
+| [TechTaste](#techtaste)                                                 | Aplicativo delivery de comida com navegação intuitiva e carrinho de compras.                | Flutter, Dart, Provider                    | ✅     |
 | [MediApp](#mediapp)                                                     | Sistema de gestão médica com prontuários, receitas e agendamento.                           | Next.js, Node.js, MongoDB                  | ✅     |
 | [Clone do Spotify com React](#clone-do-spotify-com-react)               | Recriação da interface do Spotify, focado em responsividade e UX.                           | HTML, CSS, JavaScript, React, Node.js      | ✅     |
 | [Clone do Spotify](#clone-do-spotify)                                   | Recriação de uma parte interface do Spotify                                                 | HTML, CSS, JavaScript                      | ✅     |
 | [Meu Portfolio](#meu-portfolio)                                         | Meu site interativo com todos os meus portfólios.                                           | React                                      | 🚧     |
 | [APP SOS Cancer](#app-sos-cancer)                                       | Projeto voluntário para desenvolvimento web e mobile para ONG de Pongaí.                    | React. React Native                        | 🚧     |
-| [TechTaste](#techtaste)                                                 | Aplicativo delivery de comida com navegação intuitiva e carrinho de compras.                | Flutter, Dart, Provider                    | ✅     |
 | [Automação de Cadastro de Produtos](#automacao-de-cadastro-de-produtos) | Automatiza o cadastro de produtos em site de vendas com dados de um CSV.                    | Python, PyAutoGUI, Pandas                  | 🛠️     |
 | [Automação de Backup](#automacao-de-backup)                             | Realiza backups de arquivos e pastas com organização por data e hora.                       | Python, OS, Shutil, Tkinter                | 🛠️     |
 | [HashZap](#hashzap)                                                     | Chat em tempo real para múltiplos usuários com Flask-SocketIO e versão alternativa em Flet. | Python, Flask-SocketIO, Flet               | 🛠️     |
@@ -146,6 +146,16 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/reciclaCerto)
 
+### TechTaste
+
+<img src="https://github.com/vitoriapguimaraes/techTaste/blob/main/demo/navigation.gif" alt="Demonstração do sistema" width="600"/>
+
+> Aplicativo mobile desenvolvido em Flutter para facilitar a experiência de delivery de comida, permitindo aos usuários explorar restaurantes, selecionar pratos do cardápio e realizar pedidos de forma intuitiva.
+>
+> **Tecnologias:** Flutter, Dart, Provider, Badges
+>
+> ✅ Concluído
+
 ### MediApp
 
 <img src="https://github.com/vitoriapguimaraes/medicalRecord/blob/main/docs/ConsultorioMedico-drawio.png" alt="Arquitetura do Sistema" width="600"/>
@@ -201,16 +211,6 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 > 🚧 Em desenvolvimento
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/React-PortfolioWeb)
-
-### TechTaste
-
-<img src="https://github.com/vitoriapguimaraes/techTaste/blob/main/demo/navigation.gif" alt="Demonstração do sistema" width="600"/>
-
-> Aplicativo mobile desenvolvido em Flutter para facilitar a experiência de delivery de comida, permitindo aos usuários explorar restaurantes, selecionar pratos do cardápio e realizar pedidos de forma intuitiva.
->
-> **Tecnologias:** Flutter, Dart, Provider, Badges
->
-> ✅ Concluído
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/techTaste)
 [![Ver Site](https://img.shields.io/badge/Ver%20Site-darkgreen?style=for-the-badge)](https://vitoriapguimaraes.github.io/techTaste/)
