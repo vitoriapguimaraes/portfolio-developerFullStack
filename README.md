@@ -33,27 +33,28 @@ Olá! 👋 Seja bem-vindo(a) ao meu portfólio, onde apresento uma coleção de 
 
 ## Resumo dos Projetos
 
-![Total](https://img.shields.io/badge/Total-16-blue?style=for-the-badge&logo=github)
-![Concluídos](https://img.shields.io/badge/Concluídos-8-green?style=for-the-badge)
-![Em Desenvolvimento](https://img.shields.io/badge/Em_Desenvolvimento-3-yellow?style=for-the-badge)
-![Em Manutenção](https://img.shields.io/badge/Em_Manutenção-5-orange?style=for-the-badge)
-
 Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacando seu status, as principais tecnologias utilizadas e uma breve descrição de cada um.
+
+![Total](https://img.shields.io/badge/Total-16-blue?style=for-the-badge&logo=github)
+![Concluídos ✅](https://img.shields.io/badge/Concluídos-7-green?style=for-the-badge)
+![Em Manutenção 🛠️](https://img.shields.io/badge/Em_Manutenção-4-orange?style=for-the-badge)
+![Em Desenvolvimento 🚧](https://img.shields.io/badge/Em_Desenvolvimento-3-yellow?style=for-the-badge)
+![Em constante evolução 🌱](https://img.shields.io/badge/Em_constante_evolução-2-green?style=for-the-badge)
 
 | Projeto                                                                 | Descrição                                                                                   | Tecnologias Utilizadas                     | Status |
 | :---------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :----------------------------------------- | :----- |
 | [BookStack AI](#bookstack-ai)                                           | Gerenciamento de biblioteca pessoal com sugestões de IA e analytics.                        | React, Vite, FastAPI, SQLModel, Groq AI    | 🚧     |
-| [Utilitários Consolidados](#utilitarios-consolidados)                   | Hub de ferramentas de automação (PDF, Áudio, Imagens) com IA.                               | Python, Streamlit, OpenAI, Groq            | ✅     |
+| [Utilitários Consolidados](#utilitarios-consolidados)                   | Hub de ferramentas de automação (PDF, Áudio, Imagens) com IA.                               | Python, Streamlit, OpenAI, Groq            | 🌱     |
 | [ArcadeHub](#arcadehub)                                                 | Plataforma unificada de jogos clássicos e interativos modernizados.                         | React, Vite                                | ✅     |
 | [Mathematics Hub](#mathematics-hub)                                     | Hub unificado com 3 ferramentas (Média, Conversor, Calculadora) em interface premium.       | HTML5, CSS3, JS, Ionicons                  | ✅     |
+| [InstaCode](#instacode)                                                 | Portfólio profissional interativo com backend IA e galeria de projetos.                     | HTML5, CSS3, JS, Node.js, Express, MongoDB | 🌱     |
 | [Recicla Certo](#recicla-certo)                                         | Uma aplicação web que simplifica a reciclagem no dia a dia.                                 | Python, HTML, CSS, JavaScript              | ✅     |
-| [InstaCode](#instacode)                                               | Portfólio profissional interativo com backend IA e galeria de projetos.                     | HTML5, CSS3, JS, Node.js, Express, MongoDB | ✅     |
 | [MediApp](#mediapp)                                                     | Sistema de gestão médica com prontuários, receitas e agendamento.                           | Next.js, Node.js, MongoDB                  | ✅     |
 | [Clone do Spotify com React](#clone-do-spotify-com-react)               | Recriação da interface do Spotify, focado em responsividade e UX.                           | HTML, CSS, JavaScript, React, Node.js      | ✅     |
 | [Clone do Spotify](#clone-do-spotify)                                   | Recriação de uma parte interface do Spotify                                                 | HTML, CSS, JavaScript                      | ✅     |
 | [Meu Portfolio](#meu-portfolio)                                         | Meu site interativo com todos os meus portfólios.                                           | React                                      | 🚧     |
 | [APP SOS Cancer](#app-sos-cancer)                                       | Projeto voluntário para desenvolvimento web e mobile para ONG de Pongaí.                    | React. React Native                        | 🚧     |
-| [TechTaste](#techtaste)                                                 | Minha primeira aplicação mobile com flutter. Um APP como o ifood.                           | Flutter                                    | ✅     |
+| [TechTaste](#techtaste)                                                 | Aplicativo delivery de comida com navegação intuitiva e carrinho de compras.                | Flutter, Dart, Provider                    | ✅     |
 | [Automação de Cadastro de Produtos](#automacao-de-cadastro-de-produtos) | Automatiza o cadastro de produtos em site de vendas com dados de um CSV.                    | Python, PyAutoGUI, Pandas                  | 🛠️     |
 | [Automação de Backup](#automacao-de-backup)                             | Realiza backups de arquivos e pastas com organização por data e hora.                       | Python, OS, Shutil, Tkinter                | 🛠️     |
 | [HashZap](#hashzap)                                                     | Chat em tempo real para múltiplos usuários com Flask-SocketIO e versão alternativa em Flet. | Python, Flask-SocketIO, Flet               | 🛠️     |
@@ -120,18 +121,6 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/mathematicsHub)
 [![Ver Site](https://img.shields.io/badge/Ver%20Site-darkgreen?style=for-the-badge)](https://vitoriapguimaraes.github.io/mathematicsHub/)
 
-### Recicla Certo
-
-<img src="https://github.com/vitoriapguimaraes/reciclaCerto/blob/main/results/display.gif" alt="Tela do sistema" width="600"/>
-
-> Uma aplicação web que simplifica a reciclagem no dia a dia, conectando o usuário a informações essenciais sobre descarte correto de resíduos e pontos de coleta próximos, utilizando Inteligência Artificial e mapas interativos.
->
-> **Tecnologias:** Python, Flask, Google Gemini API, python-dotenv, HTML5, CSS3, JavaScript, Leaflet.js, OpenStreetMap (OSM), Nominatim
->
-> ✅ Concluído
-
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/reciclaCerto)
-
 ### InstaCode
 
 <img src="https://github.com/vitoriapguimaraes/instaCode/blob/main/demo/navigation.gif" alt="Tela do sistema" width="600"/>
@@ -144,6 +133,18 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Nodejs-Instabytes)
 [![Ver Site](https://img.shields.io/badge/Ver%20Site-darkgreen?style=for-the-badge)](https://instacode-web-peach.vercel.app/)
+
+### Recicla Certo
+
+<img src="https://github.com/vitoriapguimaraes/reciclaCerto/blob/main/results/display.gif" alt="Tela do sistema" width="600"/>
+
+> Uma aplicação web que simplifica a reciclagem no dia a dia, conectando o usuário a informações essenciais sobre descarte correto de resíduos e pontos de coleta próximos, utilizando Inteligência Artificial e mapas interativos.
+>
+> **Tecnologias:** Python, Flask, Google Gemini API, python-dotenv, HTML5, CSS3, JavaScript, Leaflet.js, OpenStreetMap (OSM), Nominatim
+>
+> ✅ Concluído
+
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/reciclaCerto)
 
 ### MediApp
 
@@ -203,15 +204,16 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 ### TechTaste
 
-<img src="https://github.com/vitoriapguimaraes/Flutter-TechTaste/blob/main/software_view.gif?raw=true" alt="Tela do sistema" height="400"/>
+<img src="https://github.com/vitoriapguimaraes/techTaste/blob/main/demo/navigation.gif" alt="Demonstração do sistema" width="600"/>
 
-> Minha primeira aplicação mobile com flutter. Um APP como o iFood.
+> Aplicativo mobile desenvolvido em Flutter para facilitar a experiência de delivery de comida, permitindo aos usuários explorar restaurantes, selecionar pratos do cardápio e realizar pedidos de forma intuitiva.
 >
-> **Tecnologias:** Flutter
+> **Tecnologias:** Flutter, Dart, Provider, Badges
 >
 > ✅ Concluído
 
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Flutter-TechTaste)
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/techTaste)
+[![Ver Site](https://img.shields.io/badge/Ver%20Site-darkgreen?style=for-the-badge)](https://vitoriapguimaraes.github.io/techTaste/)
 
 ### Automacao de Cadastro de Produtos
 
