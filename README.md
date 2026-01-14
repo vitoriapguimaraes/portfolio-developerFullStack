@@ -201,13 +201,6 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 > Uma suíte consolidada de ferramentas Python focada em **Otimização** e **Produtividade**. Este repositório unifica projetos de automação e backups em uma interface fluida e moderna com **sistema de configuração inteligente**.
 >
-> **Funcionalidades:**
->
-> - **Launcher Modular**: Interface Flet elegante.
-> - **Product Registration**: Automação de cadastro.
-> - **Sales Report**: Relatórios de vendas automáticos.
-> - **Backup Tool**: Sistema de backup automático.
->
 > **Tecnologias:** Python 3.11+, Flet, PyAutoGUI, Pandas, OpenPyXL
 >
 > ✅ Concluído
@@ -219,13 +212,6 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 <img src="https://github.com/vitoriapguimaraes/hashzap/blob/main/demo/navigation.gif" alt="Tela do sistema" width="600"/>
 
 > Um sistema de chat em tempo real moderno e multiplataforma, desenvolvido com Python. O Hashzap permite a comunicação instantânea tanto via web (Flask + SocketIO) quanto via desktop (Flet), unindo praticidade e uma interface elegante inspirada nos principais apps de mensagens.
->
-> **Funcionalidades Principais:**
->
-> - **Comunicação em Tempo Real**: Mensagens instantâneas via WebSockets e PubSub.
-> - **Multiplataforma**: Acesse via navegador ou através de um aplicativo desktop nativo.
-> - **Interface Moderna**: Design limpo com foco em UX e layouts responsivos.
-> - **Alinhamento Inteligente**: Mensagens enviadas alinhadas à direita para melhor legibilidade.
 >
 > **Tecnologias:** Python 3.10+, Flask, Flask-SocketIO, Flet, Vanilla CSS, JavaScript
 >
