@@ -46,6 +46,7 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | :-------------------------------------------------------- | :------------------------------------------------------------------------------------ | :----------------------------------------- | :----- |
 | [BookStack AI](#bookstack-ai)                             | Gerenciamento de biblioteca pessoal com sugestões de IA e analytics.                  | React, Vite, FastAPI, SQLModel, Groq AI    | 🚧     |
 | [Utilitários Consolidados](#utilitários-consolidados)     | Hub de ferramentas de automação (PDF, Áudio, Imagens) com IA.                         | Python, Streamlit, OpenAI, Groq            | 🌱     |
+| [APP SOS Cancer](#app-sos-cancer)                         | Plataforma de apoio e comunidade para pessoas afetadas pelo câncer.                   | NestJS, TypeScript, React, Tailwind CSS    | 🚧     |
 | [InstaCode](#instacode)                                   | Portfólio profissional interativo com backend IA e galeria de projetos.               | HTML5, CSS3, JS, Node.js, Express, MongoDB | 🌱     |
 | [ArcadeHub](#arcadehub)                                   | Plataforma unificada de jogos clássicos e interativos modernizados.                   | React, Vite                                | ✅     |
 | [Mathematics Hub](#mathematics-hub)                       | Hub unificado com 3 ferramentas (Média, Conversor, Calculadora) em interface premium. | HTML5, CSS3, JS, Ionicons                  | ✅     |
@@ -57,7 +58,6 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | [PyFlow Suite](#pyflow-suite)                             | Suíte unificada de ferramentas de Otimização e Produtividade.                         | Python, Flet, PyAutoGUI, Pandas            | ✅     |
 | [HashZap](#hashzap)                                       | Chat moderno e multiplataforma com Flask-SocketIO (Web) e Flet (Desktop).             | Python, Flask-SocketIO, Flet               | ✅     |
 | [Meu Portfolio](#meu-portfolio)                           | Meu site interativo com todos os meus portfólios.                                     | React                                      | 🚧     |
-| [APP SOS Cancer](#app-sos-cancer)                         | Projeto voluntário para desenvolvimento web e mobile para ONG de Pongaí.              | React. React Native                        | 🚧     |
 
 > 🧭 Legenda dos Status:
 >
@@ -93,7 +93,19 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 >
 > 🌱 Em constante evolução
 
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Python-ProductivityHub)
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/productivityHub)
+
+### APP SOS Cancer
+
+<img src="https://github.com/vitoriapguimaraes/soscancer/blob/main/demo/navigation.gif" alt="Demonstração do sistema" width="600"/>
+
+> Uma plataforma abrangente de apoio e comunidade para pessoas afetadas pelo câncer. O sistema oferece gerenciamento de usuários, sistema de autenticação, dashboard informativo e diversos recursos de suporte para voluntários, pacientes e apoiadores.
+>
+> **Tecnologias:** **Backend**: NestJS, TypeScript, JWT, Swagger | **Frontend**: React 18, Vite, Tailwind CSS, i18next
+>
+> 🚧 Em desenvolvimento
+
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/soscancer)
 
 ### InstaCode
 
@@ -201,13 +213,6 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 > Uma suíte consolidada de ferramentas Python focada em **Otimização** e **Produtividade**. Este repositório unifica projetos de automação e backups em uma interface fluida e moderna com **sistema de configuração inteligente**.
 >
-> **Funcionalidades:**
->
-> - **Launcher Modular**: Interface Flet elegante.
-> - **Product Registration**: Automação de cadastro.
-> - **Sales Report**: Relatórios de vendas automáticos.
-> - **Backup Tool**: Sistema de backup automático.
->
 > **Tecnologias:** Python 3.11+, Flet, PyAutoGUI, Pandas, OpenPyXL
 >
 > ✅ Concluído
@@ -220,13 +225,6 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 > Um sistema de chat em tempo real moderno e multiplataforma, desenvolvido com Python. O Hashzap permite a comunicação instantânea tanto via web (Flask + SocketIO) quanto via desktop (Flet), unindo praticidade e uma interface elegante inspirada nos principais apps de mensagens.
 >
-> **Funcionalidades Principais:**
->
-> - **Comunicação em Tempo Real**: Mensagens instantâneas via WebSockets e PubSub.
-> - **Multiplataforma**: Acesse via navegador ou através de um aplicativo desktop nativo.
-> - **Interface Moderna**: Design limpo com foco em UX e layouts responsivos.
-> - **Alinhamento Inteligente**: Mensagens enviadas alinhadas à direita para melhor legibilidade.
->
 > **Tecnologias:** Python 3.10+, Flask, Flask-SocketIO, Flet, Vanilla CSS, JavaScript
 >
 > ✅ Concluído
@@ -236,16 +234,6 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 ### Meu Portfolio
 
 > Meu site portfólio para mostrar todos meus projetos
->
-> **Tecnologias:** React
->
-> 🚧 Em desenvolvimento
-
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/React-PortfolioWeb)
-
-### APP SOS Cancer
-
-> Projeto voluntário para desenvolvimento web e mobile para ONG de Pongaí.
 >
 > **Tecnologias:** React
 >
