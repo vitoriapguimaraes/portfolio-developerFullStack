@@ -46,6 +46,7 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | :-------------------------------------------------------- | :------------------------------------------------------------------------------------ | :----------------------------------------- | :----- |
 | [BookStack AI](#bookstack-ai)                             | Gerenciamento de biblioteca pessoal com sugestões de IA e analytics.                  | React, Vite, FastAPI, SQLModel, Groq AI    | 🚧     |
 | [Utilitários Consolidados](#utilitários-consolidados)     | Hub de ferramentas de automação (PDF, Áudio, Imagens) com IA.                         | Python, Streamlit, OpenAI, Groq            | 🌱     |
+| [APP SOS Cancer](#app-sos-cancer)                         | Plataforma de apoio e comunidade para pessoas afetadas pelo câncer.                   | NestJS, TypeScript, React, Tailwind CSS    | 🚧     |
 | [InstaCode](#instacode)                                   | Portfólio profissional interativo com backend IA e galeria de projetos.               | HTML5, CSS3, JS, Node.js, Express, MongoDB | 🌱     |
 | [ArcadeHub](#arcadehub)                                   | Plataforma unificada de jogos clássicos e interativos modernizados.                   | React, Vite                                | ✅     |
 | [Mathematics Hub](#mathematics-hub)                       | Hub unificado com 3 ferramentas (Média, Conversor, Calculadora) em interface premium. | HTML5, CSS3, JS, Ionicons                  | ✅     |
@@ -57,7 +58,6 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | [PyFlow Suite](#pyflow-suite)                             | Suíte unificada de ferramentas de Otimização e Produtividade.                         | Python, Flet, PyAutoGUI, Pandas            | ✅     |
 | [HashZap](#hashzap)                                       | Chat moderno e multiplataforma com Flask-SocketIO (Web) e Flet (Desktop).             | Python, Flask-SocketIO, Flet               | ✅     |
 | [Meu Portfolio](#meu-portfolio)                           | Meu site interativo com todos os meus portfólios.                                     | React                                      | 🚧     |
-| [APP SOS Cancer](#app-sos-cancer)                         | Projeto voluntário para desenvolvimento web e mobile para ONG de Pongaí.              | React. React Native                        | 🚧     |
 
 > 🧭 Legenda dos Status:
 >
@@ -93,7 +93,19 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 >
 > 🌱 Em constante evolução
 
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Python-ProductivityHub)
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/productivityHub)
+
+### APP SOS Cancer
+
+<img src="https://github.com/vitoriapguimaraes/soscancer/blob/main/demo/navigation.gif" alt="Demonstração do sistema" width="600"/>
+
+> Uma plataforma abrangente de apoio e comunidade para pessoas afetadas pelo câncer. O sistema oferece gerenciamento de usuários, sistema de autenticação, dashboard informativo e diversos recursos de suporte para voluntários, pacientes e apoiadores.
+>
+> **Tecnologias:** **Backend**: NestJS, TypeScript, JWT, Swagger | **Frontend**: React 18, Vite, Tailwind CSS, i18next
+>
+> 🚧 Em desenvolvimento
+
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/soscancer)
 
 ### InstaCode
 
@@ -222,16 +234,6 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 ### Meu Portfolio
 
 > Meu site portfólio para mostrar todos meus projetos
->
-> **Tecnologias:** React
->
-> 🚧 Em desenvolvimento
-
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/React-PortfolioWeb)
-
-### APP SOS Cancer
-
-> Projeto voluntário para desenvolvimento web e mobile para ONG de Pongaí.
 >
 > **Tecnologias:** React
 >
