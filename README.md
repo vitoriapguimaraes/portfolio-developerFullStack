@@ -57,7 +57,7 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 | [Clone do Spotify](#clone-do-spotify)                     | Recriação de uma parte interface do Spotify                                           | HTML, CSS, JavaScript                      | ✅     |
 | [PyFlow Suite](#pyflow-suite)                             | Suíte unificada de ferramentas de Otimização e Produtividade.                         | Python, Flet, PyAutoGUI, Pandas            | ✅     |
 | [HashZap](#hashzap)                                       | Chat moderno e multiplataforma com Flask-SocketIO (Web) e Flet (Desktop).             | Python, Flask-SocketIO, Flet               | ✅     |
-| [Meu Portfolio](#meu-portfolio)                           | Meu site interativo com todos os meus portfólios.                                     | React                                      | 🚧     |
+| [Portfolio Web](#portfolio-web)                           | Um portfólio reimaginado como IDE estilo VS Code.                                     | React, Vite, CSS3                          | 🚧     |
 
 > 🧭 Legenda dos Status:
 >
@@ -231,15 +231,15 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Python-SiteChatAoVivo)
 
-### Meu Portfolio
+### Portfolio Web
 
-> Meu site portfólio para mostrar todos meus projetos
+> Um portfólio de desenvolvedor reimaginado como uma IDE estilo Visual Studio Code. Explore currículo, projetos e certificações através de uma interface interativa com explorador de arquivos, editor de código com realce de sintaxe e visualização ao vivo.
 >
-> **Tecnologias:** React
+> **Tecnologias:** React (Vite), CSS3, react-syntax-highlighter, Phosphor Icons
 >
 > 🚧 Em desenvolvimento
 
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/React-PortfolioWeb)
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolioWeb)
 
 ---
 
