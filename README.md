@@ -35,36 +35,34 @@ Olá! 👋 Seja bem-vindo(a) ao meu portfólio, onde apresento uma coleção de 
 
 Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacando seu status, as principais tecnologias utilizadas e uma breve descrição de cada um.
 
-![Total](https://img.shields.io/badge/Total-16-gray?style=for-the-badge&logo=github)
+![Total](https://img.shields.io/badge/Total-14-gray?style=for-the-badge&logo=github)
 
-![Concluídos ✅](https://img.shields.io/badge/Concluídos-7-green?style=for-the-badge)
-![Em Manutenção 🛠️](https://img.shields.io/badge/Em_Manutenção-4-orange?style=for-the-badge)
+![Concluídos ✅](https://img.shields.io/badge/Concluídos-8-green?style=for-the-badge)
+![Em Manutenção 🛠️](https://img.shields.io/badge/Em_Manutenção-1-orange?style=for-the-badge)
 ![Em Desenvolvimento 🚧](https://img.shields.io/badge/Em_Desenvolvimento-3-yellow?style=for-the-badge)
 ![Em constante evolução 🌱](https://img.shields.io/badge/Em_constante_evolução-2-blue?style=for-the-badge)
 
-| Projeto                                                                 | Descrição                                                                                   | Tecnologias Utilizadas                     | Status |
-| :---------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :----------------------------------------- | :----- |
-| [BookStack AI](#bookstack-ai)                                           | Gerenciamento de biblioteca pessoal com sugestões de IA e analytics.                        | React, Vite, FastAPI, SQLModel, Groq AI    | 🚧     |
-| [Utilitários Consolidados](#utilitarios-consolidados)                   | Hub de ferramentas de automação (PDF, Áudio, Imagens) com IA.                               | Python, Streamlit, OpenAI, Groq            | 🌱     |
-| [ArcadeHub](#arcadehub)                                                 | Plataforma unificada de jogos clássicos e interativos modernizados.                         | React, Vite                                | ✅     |
-| [Mathematics Hub](#mathematics-hub)                                     | Hub unificado com 3 ferramentas (Média, Conversor, Calculadora) em interface premium.       | HTML5, CSS3, JS, Ionicons                  | ✅     |
-| [InstaCode](#instacode)                                                 | Portfólio profissional interativo com backend IA e galeria de projetos.                     | HTML5, CSS3, JS, Node.js, Express, MongoDB | 🌱     |
-| [Recicla Certo](#recicla-certo)                                         | Uma aplicação web que simplifica a reciclagem no dia a dia.                                 | Python, HTML, CSS, JavaScript              | ✅     |
-| [TechTaste](#techtaste)                                                 | Aplicativo delivery de comida com navegação intuitiva e carrinho de compras.                | Flutter, Dart, Provider                    | ✅     |
-| [MediApp](#mediapp)                                                     | Sistema de gestão médica com prontuários, receitas e agendamento.                           | Next.js, Node.js, MongoDB                  | ✅     |
-| [Clone do Spotify com React](#clone-do-spotify-com-react)               | Recriação da interface do Spotify, focado em responsividade e UX.                           | HTML, CSS, JavaScript, React, Node.js      | ✅     |
-| [Clone do Spotify](#clone-do-spotify)                                   | Recriação de uma parte interface do Spotify                                                 | HTML, CSS, JavaScript                      | ✅     |
-| [Meu Portfolio](#meu-portfolio)                                         | Meu site interativo com todos os meus portfólios.                                           | React                                      | 🚧     |
-| [APP SOS Cancer](#app-sos-cancer)                                       | Projeto voluntário para desenvolvimento web e mobile para ONG de Pongaí.                    | React. React Native                        | 🚧     |
-| [Automação de Cadastro de Produtos](#automacao-de-cadastro-de-produtos) | Automatiza o cadastro de produtos em site de vendas com dados de um CSV.                    | Python, PyAutoGUI, Pandas                  | 🛠️     |
-| [Automação de Backup](#automacao-de-backup)                             | Realiza backups de arquivos e pastas com organização por data e hora.                       | Python, OS, Shutil, Tkinter                | 🛠️     |
-| [HashZap](#hashzap)                                                     | Chat em tempo real para múltiplos usuários com Flask-SocketIO e versão alternativa em Flet. | Python, Flask-SocketIO, Flet               | 🛠️     |
-| [Relatório de Dados por E-mail](#relatorio-de-dados-por-email)          | Automatiza envio de relatórios de vendas em HTML por e-mail.                                | Python, Pandas, win32com.client            | 🛠️     |
+| Projeto                                                   | Descrição                                                                                   | Tecnologias Utilizadas                     | Status |
+| :-------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :----------------------------------------- | :----- |
+| [BookStack AI](#bookstack-ai)                             | Gerenciamento de biblioteca pessoal com sugestões de IA e analytics.                        | React, Vite, FastAPI, SQLModel, Groq AI    | 🚧     |
+| [Utilitários Consolidados](#utilitários-consolidados)     | Hub de ferramentas de automação (PDF, Áudio, Imagens) com IA.                               | Python, Streamlit, OpenAI, Groq            | 🌱     |
+| [InstaCode](#instacode)                                   | Portfólio profissional interativo com backend IA e galeria de projetos.                     | HTML5, CSS3, JS, Node.js, Express, MongoDB | 🌱     |
+| [ArcadeHub](#arcadehub)                                   | Plataforma unificada de jogos clássicos e interativos modernizados.                         | React, Vite                                | ✅     |
+| [Mathematics Hub](#mathematics-hub)                       | Hub unificado com 3 ferramentas (Média, Conversor, Calculadora) em interface premium.       | HTML5, CSS3, JS, Ionicons                  | ✅     |
+| [Recicla Certo](#recicla-certo)                           | Uma aplicação web que simplifica a reciclagem no dia a dia.                                 | Python, HTML, CSS, JavaScript              | ✅     |
+| [TechTaste](#techtaste)                                   | Aplicativo delivery de comida com navegação intuitiva e carrinho de compras.                | Flutter, Dart, Provider                    | ✅     |
+| [MediApp](#mediapp)                                       | Sistema de gestão médica com prontuários, receitas e agendamento.                           | Next.js, Node.js, MongoDB                  | ✅     |
+| [Clone do Spotify com React](#clone-do-spotify-com-react) | Recriação da interface do Spotify, focado em responsividade e UX.                           | HTML, CSS, JavaScript, React, Node.js      | ✅     |
+| [Clone do Spotify](#clone-do-spotify)                     | Recriação de uma parte interface do Spotify                                                 | HTML, CSS, JavaScript                      | ✅     |
+| [PyFlow Suite](#pyflow-suite)                             | Suíte unificada de ferramentas de Otimização e Produtividade.                               | Python, Flet, PyAutoGUI, Pandas            | ✅     |
+| [Meu Portfolio](#meu-portfolio)                           | Meu site interativo com todos os meus portfólios.                                           | React                                      | 🚧     |
+| [APP SOS Cancer](#app-sos-cancer)                         | Projeto voluntário para desenvolvimento web e mobile para ONG de Pongaí.                    | React. React Native                        | 🚧     |
+| [HashZap](#hashzap)                                       | Chat em tempo real para múltiplos usuários com Flask-SocketIO e versão alternativa em Flet. | Python, Flask-SocketIO, Flet               | 🛠️     |
 
-> 🧭 Legenda dos Status: <br>
+> 🧭 Legenda dos Status:
 >
-> > ✅ Concluído: versão atual funcional entregue <br>
-> > 🛠️ Em manutenção: ajustes e correções em andamento <br>
+> > ✅ Concluído: versão atual funcional entregue  
+> > 🛠️ Em manutenção: ajustes e correções em andamento  
 > > 🚧 Em desenvolvimento: funcionalidades ativas sendo construídas
 
 ## Detalhes dos Projetos
@@ -96,6 +94,19 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Python-ProductivityHub)
 
+### InstaCode
+
+<img src="https://github.com/vitoriapguimaraes/instaCode/blob/main/demo/navigation.gif" alt="Tela do sistema" width="600"/>
+
+> Meu portfólio profissional interativo inspirado no design do site do Instagram, desenvolvido para demonstrar minhas habilidades em desenvolvimento Full Stack. O projeto exibe meus principais trabalhos em uma interface moderna e responsiva, utilizando um backend robusto para gerenciamento de conteúdo e integração com IA.
+>
+> **Tecnologias:** HTML5, CSS3, JavaScript, Node.js, Express, MongoDB, Gemini AI
+>
+> 🌱 Em constante evolução
+
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Nodejs-Instabytes)
+[![Ver Site](https://img.shields.io/badge/Ver%20Site-darkgreen?style=for-the-badge)](https://instacode-web-peach.vercel.app/)
+
 ### ArcadeHub
 
 <img src="https://github.com/vitoriapguimaraes/arcadeHub/blob/main/public/demo/navigation.gif" alt="Demonstração do ArcadeHub" width="600"/>
@@ -122,19 +133,6 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/mathematicsHub)
 [![Ver Site](https://img.shields.io/badge/Ver%20Site-darkgreen?style=for-the-badge)](https://vitoriapguimaraes.github.io/mathematicsHub/)
 
-### InstaCode
-
-<img src="https://github.com/vitoriapguimaraes/instaCode/blob/main/demo/navigation.gif" alt="Tela do sistema" width="600"/>
-
-> Meu portfólio profissional interativo inspirado no design do site do Instagram, desenvolvido para demonstrar minhas habilidades em desenvolvimento Full Stack. O projeto exibe meus principais trabalhos em uma interface moderna e responsiva, utilizando um backend robusto para gerenciamento de conteúdo e integração com IA.
->
-> **Tecnologias:** HTML5, CSS3, JavaScript, Node.js, Express, MongoDB, Gemini AI
->
-> ✅ Concluído
-
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Nodejs-Instabytes)
-[![Ver Site](https://img.shields.io/badge/Ver%20Site-darkgreen?style=for-the-badge)](https://instacode-web-peach.vercel.app/)
-
 ### Recicla Certo
 
 <img src="https://github.com/vitoriapguimaraes/reciclaCerto/blob/main/results/display.gif" alt="Tela do sistema" width="600"/>
@@ -156,6 +154,9 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 > **Tecnologias:** Flutter, Dart, Provider, Badges
 >
 > ✅ Concluído
+
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/techTaste)
+[![Ver Site](https://img.shields.io/badge/Ver%20Site-darkgreen?style=for-the-badge)](https://vitoriapguimaraes.github.io/techTaste/)
 
 ### MediApp
 
@@ -193,6 +194,25 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/cloneSpotify)
 
+### PyFlow Suite
+
+<img src="https://github.com/vitoriapguimaraes/pyFlowSuite/blob/main/src/demos/navigation.gif" alt="Demonstração do sistema" width="600"/>
+
+> Uma suíte consolidada de ferramentas Python focada em **Otimização** e **Produtividade**. Este repositório unifica projetos de automação e backups em uma interface fluida e moderna com **sistema de configuração inteligente**.
+>
+> **Funcionalidades:**
+>
+> - **Launcher Modular**: Interface Flet elegante.
+> - **Product Registration**: Automação de cadastro.
+> - **Sales Report**: Relatórios de vendas automáticos.
+> - **Backup Tool**: Sistema de backup automático.
+>
+> **Tecnologias:** Python 3.11+, Flet, PyAutoGUI, Pandas, OpenPyXL
+>
+> ✅ Concluído
+
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/pyFlowSuite)
+
 ### Meu Portfolio
 
 > Meu site portfólio para mostrar todos meus projetos
@@ -213,29 +233,6 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/React-PortfolioWeb)
 
-[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/techTaste)
-[![Ver Site](https://img.shields.io/badge/Ver%20Site-darkgreen?style=for-the-badge)](https://vitoriapguimaraes.github.io/techTaste/)
-
-### Automacao de Cadastro de Produtos
-
-> Este projeto automatiza o cadastro de produtos em um site de vendas, acessando automaticamente o site e preenchendo os formulários com dados de um arquivo CSV.
->
-> **Tecnologias:** Python, PyAutoGUI, Pandas
->
-> 🛠️ Em manutenção
-
-[![Acesse o Repositório](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Python-AutomacaoCadastro)
-
-### Automacao de Backup
-
-> Automatiza o processo de backup de arquivos e pastas, organizando-os por data e hora para maior controle e segurança.
->
-> **Tecnologias:** Python, OS, Shutil, Tkinter
->
-> 🛠️ Em manutenção
-
-[![Acesse o Repositório](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Python-AutomocaoBackup)
-
 ### HashZap
 
 > Chat em tempo real com Flask-SocketIO e versão alternativa usando Flet, permitindo comunicação simultânea em rede local.
@@ -245,16 +242,6 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 > 🛠️ Em manutenção
 
 [![Acesse o Repositório](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Python-SiteChatAoVivo)
-
-### Relatorio de Dados por Email
-
-> Gera relatórios de vendas por loja e envia por e-mail com formatação HTML, ideal para acompanhamento de performance.
->
-> **Tecnologias:** Python, Pandas, win32com.client
->
-> 🛠️ Em manutenção
-
-[![Acesse o Repositório](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Python-EnvioRelatorioDadosEmail)
 
 ---
 
