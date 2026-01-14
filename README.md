@@ -37,33 +37,34 @@ Esta tabela oferece uma visão rápida dos projetos em meu portfólio, destacand
 
 ![Total](https://img.shields.io/badge/Total-14-gray?style=for-the-badge&logo=github)
 
-![Concluídos ✅](https://img.shields.io/badge/Concluídos-8-green?style=for-the-badge)
-![Em Manutenção 🛠️](https://img.shields.io/badge/Em_Manutenção-1-orange?style=for-the-badge)
+![Concluídos ✅](https://img.shields.io/badge/Concluídos-9-green?style=for-the-badge)
+![Em Manutenção 🛠️](https://img.shields.io/badge/Em_Manutenção-0-orange?style=for-the-badge)
 ![Em Desenvolvimento 🚧](https://img.shields.io/badge/Em_Desenvolvimento-3-yellow?style=for-the-badge)
 ![Em constante evolução 🌱](https://img.shields.io/badge/Em_constante_evolução-2-blue?style=for-the-badge)
 
-| Projeto                                                   | Descrição                                                                                   | Tecnologias Utilizadas                     | Status |
-| :-------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :----------------------------------------- | :----- |
-| [BookStack AI](#bookstack-ai)                             | Gerenciamento de biblioteca pessoal com sugestões de IA e analytics.                        | React, Vite, FastAPI, SQLModel, Groq AI    | 🚧     |
-| [Utilitários Consolidados](#utilitários-consolidados)     | Hub de ferramentas de automação (PDF, Áudio, Imagens) com IA.                               | Python, Streamlit, OpenAI, Groq            | 🌱     |
-| [InstaCode](#instacode)                                   | Portfólio profissional interativo com backend IA e galeria de projetos.                     | HTML5, CSS3, JS, Node.js, Express, MongoDB | 🌱     |
-| [ArcadeHub](#arcadehub)                                   | Plataforma unificada de jogos clássicos e interativos modernizados.                         | React, Vite                                | ✅     |
-| [Mathematics Hub](#mathematics-hub)                       | Hub unificado com 3 ferramentas (Média, Conversor, Calculadora) em interface premium.       | HTML5, CSS3, JS, Ionicons                  | ✅     |
-| [Recicla Certo](#recicla-certo)                           | Uma aplicação web que simplifica a reciclagem no dia a dia.                                 | Python, HTML, CSS, JavaScript              | ✅     |
-| [TechTaste](#techtaste)                                   | Aplicativo delivery de comida com navegação intuitiva e carrinho de compras.                | Flutter, Dart, Provider                    | ✅     |
-| [MediApp](#mediapp)                                       | Sistema de gestão médica com prontuários, receitas e agendamento.                           | Next.js, Node.js, MongoDB                  | ✅     |
-| [Clone do Spotify com React](#clone-do-spotify-com-react) | Recriação da interface do Spotify, focado em responsividade e UX.                           | HTML, CSS, JavaScript, React, Node.js      | ✅     |
-| [Clone do Spotify](#clone-do-spotify)                     | Recriação de uma parte interface do Spotify                                                 | HTML, CSS, JavaScript                      | ✅     |
-| [PyFlow Suite](#pyflow-suite)                             | Suíte unificada de ferramentas de Otimização e Produtividade.                               | Python, Flet, PyAutoGUI, Pandas            | ✅     |
-| [Meu Portfolio](#meu-portfolio)                           | Meu site interativo com todos os meus portfólios.                                           | React                                      | 🚧     |
-| [APP SOS Cancer](#app-sos-cancer)                         | Projeto voluntário para desenvolvimento web e mobile para ONG de Pongaí.                    | React. React Native                        | 🚧     |
-| [HashZap](#hashzap)                                       | Chat em tempo real para múltiplos usuários com Flask-SocketIO e versão alternativa em Flet. | Python, Flask-SocketIO, Flet               | 🛠️     |
+| Projeto                                                   | Descrição                                                                             | Tecnologias Utilizadas                     | Status |
+| :-------------------------------------------------------- | :------------------------------------------------------------------------------------ | :----------------------------------------- | :----- |
+| [BookStack AI](#bookstack-ai)                             | Gerenciamento de biblioteca pessoal com sugestões de IA e analytics.                  | React, Vite, FastAPI, SQLModel, Groq AI    | 🚧     |
+| [Utilitários Consolidados](#utilitários-consolidados)     | Hub de ferramentas de automação (PDF, Áudio, Imagens) com IA.                         | Python, Streamlit, OpenAI, Groq            | 🌱     |
+| [InstaCode](#instacode)                                   | Portfólio profissional interativo com backend IA e galeria de projetos.               | HTML5, CSS3, JS, Node.js, Express, MongoDB | 🌱     |
+| [ArcadeHub](#arcadehub)                                   | Plataforma unificada de jogos clássicos e interativos modernizados.                   | React, Vite                                | ✅     |
+| [Mathematics Hub](#mathematics-hub)                       | Hub unificado com 3 ferramentas (Média, Conversor, Calculadora) em interface premium. | HTML5, CSS3, JS, Ionicons                  | ✅     |
+| [Recicla Certo](#recicla-certo)                           | Uma aplicação web que simplifica a reciclagem no dia a dia.                           | Python, HTML, CSS, JavaScript              | ✅     |
+| [TechTaste](#techtaste)                                   | Aplicativo delivery de comida com navegação intuitiva e carrinho de compras.          | Flutter, Dart, Provider                    | ✅     |
+| [MediApp](#mediapp)                                       | Sistema de gestão médica com prontuários, receitas e agendamento.                     | Next.js, Node.js, MongoDB                  | ✅     |
+| [Clone do Spotify com React](#clone-do-spotify-com-react) | Recriação da interface do Spotify, focado em responsividade e UX.                     | HTML, CSS, JavaScript, React, Node.js      | ✅     |
+| [Clone do Spotify](#clone-do-spotify)                     | Recriação de uma parte interface do Spotify                                           | HTML, CSS, JavaScript                      | ✅     |
+| [PyFlow Suite](#pyflow-suite)                             | Suíte unificada de ferramentas de Otimização e Produtividade.                         | Python, Flet, PyAutoGUI, Pandas            | ✅     |
+| [HashZap](#hashzap)                                       | Chat moderno e multiplataforma com Flask-SocketIO (Web) e Flet (Desktop).             | Python, Flask-SocketIO, Flet               | ✅     |
+| [Meu Portfolio](#meu-portfolio)                           | Meu site interativo com todos os meus portfólios.                                     | React                                      | 🚧     |
+| [APP SOS Cancer](#app-sos-cancer)                         | Projeto voluntário para desenvolvimento web e mobile para ONG de Pongaí.              | React. React Native                        | 🚧     |
 
 > 🧭 Legenda dos Status:
 >
 > > ✅ Concluído: versão atual funcional entregue  
 > > 🛠️ Em manutenção: ajustes e correções em andamento  
 > > 🚧 Em desenvolvimento: funcionalidades ativas sendo construídas
+> > 🌱 Em constante evolução: projeto em desenvolvimento com funcionalidades em constante evolução
 
 ## Detalhes dos Projetos
 
@@ -213,6 +214,25 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/pyFlowSuite)
 
+### HashZap
+
+<img src="https://github.com/vitoriapguimaraes/hashzap/blob/main/demo/navigation.gif" alt="Tela do sistema" width="600"/>
+
+> Um sistema de chat em tempo real moderno e multiplataforma, desenvolvido com Python. O Hashzap permite a comunicação instantânea tanto via web (Flask + SocketIO) quanto via desktop (Flet), unindo praticidade e uma interface elegante inspirada nos principais apps de mensagens.
+>
+> **Funcionalidades Principais:**
+>
+> - **Comunicação em Tempo Real**: Mensagens instantâneas via WebSockets e PubSub.
+> - **Multiplataforma**: Acesse via navegador ou através de um aplicativo desktop nativo.
+> - **Interface Moderna**: Design limpo com foco em UX e layouts responsivos.
+> - **Alinhamento Inteligente**: Mensagens enviadas alinhadas à direita para melhor legibilidade.
+>
+> **Tecnologias:** Python 3.10+, Flask, Flask-SocketIO, Flet, Vanilla CSS, JavaScript
+>
+> ✅ Concluído
+
+[![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Python-SiteChatAoVivo)
+
 ### Meu Portfolio
 
 > Meu site portfólio para mostrar todos meus projetos
@@ -232,16 +252,6 @@ Abaixo você encontrará uma descrição mais detalhada de cada projeto, incluin
 > 🚧 Em desenvolvimento
 
 [![Ver no GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/React-PortfolioWeb)
-
-### HashZap
-
-> Chat em tempo real com Flask-SocketIO e versão alternativa usando Flet, permitindo comunicação simultânea em rede local.
->
-> **Tecnologias:** Python, Flask-SocketIO, Flet
->
-> 🛠️ Em manutenção
-
-[![Acesse o Repositório](https://img.shields.io/badge/Ver%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/Python-SiteChatAoVivo)
 
 ---
 
